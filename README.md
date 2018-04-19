@@ -1,10 +1,10 @@
 # NetMaker
 
-NetMaker is a project to develop tools and service to translate NetML files to a variety of files that can easily be imported by network visualization and analysis software.
+NetMaker is a project to develop tools and service that convert NetML files to a variety of file formats that can easily be imported by network visualization and analysis software.
 
 ![](img/txt-json-net.png)
 
-NetML is a network markup language which makes it easy to write down information as nodes with properties and links in a simple text file. Read more at https://repmax.github.io/netml/.
+NB: NetML is a network markup language which makes it easy to write down information as nodes with properties and links in a simple text file. Read more at https://repmax.github.io/netml/.
 
 ## Status
 
