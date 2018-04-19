@@ -8,7 +8,7 @@ NB: NetML is a network markup language which makes it easy to write down informa
 
 ## Status
 
-The NetMaker python packages has been developed to convert NetML files to json and cvs formats. It performs and detailed check of the NetML file to catch erroneous markup and can make use of a configuation file to expand abbreviated annotation.
+The NetMaker python package has been developed to convert NetML files to json and cvs formats. It performs and detailed check of the NetML file to catch erroneous markup and can make use of a configuation file to expand abbreviated annotation.
 
 ## Future development
 
@@ -66,7 +66,7 @@ DEV NOTES
 
 Tested with 'mixer/py35root' (not tested on any other versions)
 
-Problem: Json is a graph model where elements do not necessarily have the same properties. In a spreadsheet all elements needs a value for all properties.
+Problem: Json is a graph model where elements do not necessarily have the same properties. In a spreadsheet, all elements need a value for all properties.
 Solution: 
     1) Make a dictionary for each element and make a dataframe from all those dictionaries. The Pandas will automatically fill in missing values.
     2) Rename columns as needed.
