@@ -1,0 +1,6168 @@
+{
+    "edges": [
+        {
+            "relType": "collaborate",
+            "source": "tCommons",
+            "target": "tNeo"
+        },
+        {
+            "relType": "use",
+            "source": "tSigma",
+            "target": "tD3"
+        },
+        {
+            "relType": "collaborate",
+            "source": "tSigma",
+            "target": "tGephi"
+        },
+        {
+            "relType": "study_at",
+            "source": "pBurkan142",
+            "target": "uMIT"
+        },
+        {
+            "relType": "create",
+            "source": "pBurkan142",
+            "target": "tCommons"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pBurkan142",
+            "target": "kCode"
+        },
+        {
+            "relType": "work_for",
+            "source": "pNatver66",
+            "target": "oFive38"
+        },
+        {
+            "relType": "work_for",
+            "source": "pRodcon176",
+            "target": "oIFTF"
+        },
+        {
+            "relType": "work_for",
+            "source": "pJosave118",
+            "target": "bArup"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oPew",
+            "target": "kThinkTank"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oFive38",
+            "target": "kThinkTank"
+        },
+        {
+            "relType": "has_tag",
+            "source": "bGartner",
+            "target": "kThinkTank"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oHex",
+            "target": "kThinkTank"
+        },
+        {
+            "relType": "has_tag",
+            "source": "bFFL",
+            "target": "kThinkTank"
+        },
+        {
+            "relType": "has_tag",
+            "source": "bArup",
+            "target": "kThinkTank"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oIFTF",
+            "target": "kMap"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oIFTF",
+            "target": "kThinkTank"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oCIFS",
+            "target": "kThinkTank"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oDemnki217",
+            "target": "kThinkTank"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oRAND",
+            "target": "kThinkTank"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oVTT",
+            "target": "kThinkTank"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pTNOrch214",
+            "target": "kThinkTank"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pi2CCAT169",
+            "target": "jOpen4"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pi2CCAT169",
+            "target": "kThinkTank"
+        },
+        {
+            "relType": "fund",
+            "source": "oSAGean164",
+            "target": "tMini"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oSAGean164",
+            "target": "kFund"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oH2020",
+            "target": "kFund"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oSDSC",
+            "target": "kPubInn"
+        },
+        {
+            "relType": "work_for",
+            "source": "pOliure103",
+            "target": "oSDSC"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pOliure103",
+            "target": "kPubInn"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oDigket129",
+            "target": "kPubInn"
+        },
+        {
+            "relType": "work_for",
+            "source": "pThoehn331",
+            "target": "oMindLab"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pThoehn331",
+            "target": "kPubInn"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pApocal191",
+            "target": "kPubInn"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pTheLab231",
+            "target": "kIntPol"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pTheLab231",
+            "target": "kPubInn"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oMindLab",
+            "target": "kPubInn"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pPatoud218",
+            "target": "kPubInn"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pKevman159",
+            "target": "kPubInn"
+        },
+        {
+            "relType": "use",
+            "source": "tTomSaw",
+            "target": "tNeo"
+        },
+        {
+            "relType": "has_tag",
+            "source": "tTomSaw",
+            "target": "kIntel"
+        },
+        {
+            "relType": "has_tag",
+            "source": "tFNA",
+            "target": "kIntel"
+        },
+        {
+            "relType": "use",
+            "source": "oFacGem40",
+            "target": "tNeo"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oFacGem40",
+            "target": "kIntel"
+        },
+        {
+            "relType": "create",
+            "source": "bTomSoft",
+            "target": "tTomSaw"
+        },
+        {
+            "relType": "has_tag",
+            "source": "bTomSoft",
+            "target": "kIntel"
+        },
+        {
+            "relType": "has_tag",
+            "source": "bSciite111",
+            "target": "kScienceto"
+        },
+        {
+            "relType": "has_tag",
+            "source": "bSciite111",
+            "target": "kIntel"
+        },
+        {
+            "relType": "has_tag",
+            "source": "bAltric169",
+            "target": "kScienceto"
+        },
+        {
+            "relType": "has_tag",
+            "source": "bAltric169",
+            "target": "kIntel"
+        },
+        {
+            "relType": "create",
+            "source": "pKimaki73",
+            "target": "tFNA"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pKimaki73",
+            "target": "pSeinecle"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pKimaki73",
+            "target": "kIntel"
+        },
+        {
+            "relType": "create",
+            "source": "bCamnce142",
+            "target": "tKeylines"
+        },
+        {
+            "relType": "has_tag",
+            "source": "bCamnce142",
+            "target": "kMicro"
+        },
+        {
+            "relType": "has_tag",
+            "source": "bCamnce142",
+            "target": "kIntel"
+        },
+        {
+            "relType": "use",
+            "source": "tLink",
+            "target": "tNeo"
+        },
+        {
+            "relType": "has_tag",
+            "source": "tLink",
+            "target": "kMicro"
+        },
+        {
+            "relType": "has_tag",
+            "source": "tLink",
+            "target": "kIntel"
+        },
+        {
+            "relType": "use",
+            "source": "tKeylines",
+            "target": "tNeo"
+        },
+        {
+            "relType": "has_tag",
+            "source": "tKeylines",
+            "target": "kMicro"
+        },
+        {
+            "relType": "has_tag",
+            "source": "tKeylines",
+            "target": "kIntel"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pCamica150",
+            "target": "kMicro"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pCamica150",
+            "target": "kIntel"
+        },
+        {
+            "relType": "has_tag",
+            "source": "bLinkFlu",
+            "target": "kMicro"
+        },
+        {
+            "relType": "has_tag",
+            "source": "bLinkFlu",
+            "target": "kIntel"
+        },
+        {
+            "relType": "create",
+            "source": "bEclec",
+            "target": "tEclec"
+        },
+        {
+            "relType": "has_tag",
+            "source": "bEclec",
+            "target": "kMicro"
+        },
+        {
+            "relType": "has_tag",
+            "source": "bEclec",
+            "target": "kIntel"
+        },
+        {
+            "relType": "use",
+            "source": "tEclec",
+            "target": "tKeylines"
+        },
+        {
+            "relType": "has_tag",
+            "source": "tEclec",
+            "target": "kMicro"
+        },
+        {
+            "relType": "has_tag",
+            "source": "tEclec",
+            "target": "kIntel"
+        },
+        {
+            "relType": "create",
+            "source": "uDigMet",
+            "target": "tTCAT"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uDigMet",
+            "target": "kIntMed"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pFORCCAST",
+            "target": "kMap"
+        },
+        {
+            "relType": "collaborate",
+            "source": "uTANT",
+            "target": "uMLab"
+        },
+        {
+            "relType": "collaborate",
+            "source": "uTANT",
+            "target": "oPubLab"
+        },
+        {
+            "relType": "collaborate",
+            "source": "uTANT",
+            "target": "pTomVen"
+        },
+        {
+            "relType": "collaborate",
+            "source": "uTANT",
+            "target": "pGray"
+        },
+        {
+            "relType": "collaborate",
+            "source": "uTANT",
+            "target": "pLiBo"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uTANT",
+            "target": "kMap"
+        },
+        {
+            "relType": "create",
+            "source": "pBruour114",
+            "target": "uMLab"
+        },
+        {
+            "relType": "create",
+            "source": "pBruour114",
+            "target": "pFORCCAST"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pBruour114",
+            "target": "kMap"
+        },
+        {
+            "relType": "work_for",
+            "source": "pBruour114",
+            "target": "uMLab"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pBruour114",
+            "target": "cSTS"
+        },
+        {
+            "relType": "work_for",
+            "source": "pTomVen",
+            "target": "uKing"
+        },
+        {
+            "relType": "create",
+            "source": "pTomVen",
+            "target": "tMini"
+        },
+        {
+            "relType": "create",
+            "source": "pTomVen",
+            "target": "uMLab"
+        },
+        {
+            "relType": "work_for",
+            "source": "pTomVen",
+            "target": "uDANTE"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pTomVen",
+            "target": "oPubLab"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pTomVen",
+            "target": "kMap"
+        },
+        {
+            "relType": "work_for",
+            "source": "pTomVen",
+            "target": "uMLab"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pTomVen",
+            "target": "cSTS"
+        },
+        {
+            "relType": "work_for",
+            "source": "pRobrat202",
+            "target": "uMLab"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pRobrat202",
+            "target": "cSTS"
+        },
+        {
+            "relType": "create",
+            "source": "pPauard91",
+            "target": "tHyphe"
+        },
+        {
+            "relType": "work_for",
+            "source": "pPauard91",
+            "target": "uMLab"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pPauard91",
+            "target": "cSTS"
+        },
+        {
+            "relType": "create",
+            "source": "pGuiPli",
+            "target": "tMini"
+        },
+        {
+            "relType": "create",
+            "source": "pGuiPli",
+            "target": "tHyphe"
+        },
+        {
+            "relType": "create",
+            "source": "pGuiPli",
+            "target": "tSigma"
+        },
+        {
+            "relType": "attend",
+            "source": "pGuiPli",
+            "target": "eFOSDEM"
+        },
+        {
+            "relType": "work_for",
+            "source": "pGuiPli",
+            "target": "uMLab"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pGuiPli",
+            "target": "cSTS"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pGuiPli",
+            "target": "kCode"
+        },
+        {
+            "relType": "create",
+            "source": "pBennou285",
+            "target": "tSeeAlso"
+        },
+        {
+            "relType": "create",
+            "source": "pBennou285",
+            "target": "tGaz"
+        },
+        {
+            "relType": "create",
+            "source": "pBennou285",
+            "target": "tHyphe"
+        },
+        {
+            "relType": "work_for",
+            "source": "pBennou285",
+            "target": "oRegCit"
+        },
+        {
+            "relType": "work_for",
+            "source": "pBennou285",
+            "target": "uMLab"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pBennou285",
+            "target": "cSTS"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pBennou285",
+            "target": "kCode"
+        },
+        {
+            "relType": "create",
+            "source": "pMatomy169",
+            "target": "tGephi"
+        },
+        {
+            "relType": "create",
+            "source": "pMatomy169",
+            "target": "tHyphe"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pMatomy169",
+            "target": "kMap"
+        },
+        {
+            "relType": "work_for",
+            "source": "pMatomy169",
+            "target": "uMLab"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pMatomy169",
+            "target": "cSTS"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pMatomy169",
+            "target": "kCode"
+        },
+        {
+            "relType": "work_for",
+            "source": "pDoncci225",
+            "target": "uDeDe"
+        },
+        {
+            "relType": "create",
+            "source": "pDoncci225",
+            "target": "tSeeAlso"
+        },
+        {
+            "relType": "work_for",
+            "source": "pDoncci225",
+            "target": "uMLab"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pDoncci225",
+            "target": "cSTS"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pDoncci225",
+            "target": "kCode"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pRiRo",
+            "target": "kIntMed"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pRiRo",
+            "target": "kMap"
+        },
+        {
+            "relType": "work_for",
+            "source": "pRiRo",
+            "target": "uDigMet"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pRiRo",
+            "target": "cSTS"
+        },
+        {
+            "relType": "work_for",
+            "source": "pEstede85",
+            "target": "uDigMet"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pEstede85",
+            "target": "cSTS"
+        },
+        {
+            "relType": "work_for",
+            "source": "pSabrer215",
+            "target": "uDigMet"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pSabrer215",
+            "target": "cSTS"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pAnnond166",
+            "target": "kIntMed"
+        },
+        {
+            "relType": "work_for",
+            "source": "pAnnond166",
+            "target": "uDigMet"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pAnnond166",
+            "target": "cSTS"
+        },
+        {
+            "relType": "work_for",
+            "source": "pCaritz155",
+            "target": "uSiegen"
+        },
+        {
+            "relType": "work_for",
+            "source": "pCaritz155",
+            "target": "uWarwick"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pCaritz155",
+            "target": "kIntMed"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pCaritz155",
+            "target": "kMap"
+        },
+        {
+            "relType": "work_for",
+            "source": "pCaritz155",
+            "target": "uDigMet"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pCaritz155",
+            "target": "cSTS"
+        },
+        {
+            "relType": "work_for",
+            "source": "pFerist245",
+            "target": "uSiegen"
+        },
+        {
+            "relType": "work_for",
+            "source": "pFerist245",
+            "target": "uDigMet"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pFerist245",
+            "target": "cSTS"
+        },
+        {
+            "relType": "create",
+            "source": "pErirra145",
+            "target": "tTCAT"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pErirra145",
+            "target": "kCode"
+        },
+        {
+            "relType": "work_for",
+            "source": "pErirra145",
+            "target": "uDigMet"
+        },
+        {
+            "relType": "create",
+            "source": "pBerder225",
+            "target": "tTCAT"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pBerder225",
+            "target": "kCode"
+        },
+        {
+            "relType": "work_for",
+            "source": "pBerder225",
+            "target": "uDigMet"
+        },
+        {
+            "relType": "create",
+            "source": "pAndunk70",
+            "target": "rDigMetoder"
+        },
+        {
+            "relType": "work_for",
+            "source": "pAndunk70",
+            "target": "uTANT"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pAndunk70",
+            "target": "cSTS"
+        },
+        {
+            "relType": "create",
+            "source": "pAndbak64",
+            "target": "rDigMetoder"
+        },
+        {
+            "relType": "work_for",
+            "source": "pAndbak64",
+            "target": "uTANT"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pAndbak64",
+            "target": "cSTS"
+        },
+        {
+            "relType": "work_for",
+            "source": "pAndsen36",
+            "target": "uTANT"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pAndsen36",
+            "target": "cSTS"
+        },
+        {
+            "relType": "work_for",
+            "source": "pTorsen53",
+            "target": "uDTUman"
+        },
+        {
+            "relType": "work_for",
+            "source": "pTorsen53",
+            "target": "uTANT"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pTorsen53",
+            "target": "cSTS"
+        },
+        {
+            "relType": "work_for",
+            "source": "pLioard235",
+            "target": "uIFRIS"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pLioard235",
+            "target": "kMap"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pLioard235",
+            "target": "cSTS"
+        },
+        {
+            "relType": "study_at",
+            "source": "pKenrup219",
+            "target": "uTANT"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pKenrup219",
+            "target": "cSTS"
+        },
+        {
+            "relType": "work_for",
+            "source": "pNoores231",
+            "target": "uWarwick"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pNoores231",
+            "target": "uDigMet"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pNoores231",
+            "target": "kIntMed"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pNoores231",
+            "target": "kMap"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pNoores231",
+            "target": "uSiegen"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pNoores231",
+            "target": "cSTS"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pNoores231",
+            "target": "cSTS"
+        },
+        {
+            "relType": "create",
+            "source": "uDeDe",
+            "target": "tRAW"
+        },
+        {
+            "relType": "create",
+            "source": "uDeDe",
+            "target": "tSeeAlso"
+        },
+        {
+            "relType": "collaborate",
+            "source": "uDeDe",
+            "target": "uMLab"
+        },
+        {
+            "relType": "collaborate",
+            "source": "uDeDe",
+            "target": "uDigMet"
+        },
+        {
+            "relType": "collaborate",
+            "source": "uDeDe",
+            "target": "uPolMil"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uDeDe",
+            "target": "kDataVis"
+        },
+        {
+            "relType": "work_for",
+            "source": "pPaolli59",
+            "target": "uDeDe"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pPaolli59",
+            "target": "kMap"
+        },
+        {
+            "relType": "work_for",
+            "source": "pMicuri190",
+            "target": "uDeDe"
+        },
+        {
+            "relType": "create",
+            "source": "pMicuri190",
+            "target": "tRAW"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pMicuri190",
+            "target": "oPubLab"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pMicuri190",
+            "target": "kMap"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pMicuri190",
+            "target": "kCode"
+        },
+        {
+            "relType": "collaborate",
+            "source": "bDataInter",
+            "target": "uDeDe"
+        },
+        {
+            "relType": "work_for",
+            "source": "pMartto60",
+            "target": "bDataInter"
+        },
+        {
+            "relType": "collaborate",
+            "source": "uISI",
+            "target": "uDeDe"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uISI",
+            "target": "cNetworkIT"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oSocPat",
+            "target": "cDigHum"
+        },
+        {
+            "relType": "create",
+            "source": "pCiruto87",
+            "target": "oSocPat"
+        },
+        {
+            "relType": "work_for",
+            "source": "pCiruto87",
+            "target": "uISI"
+        },
+        {
+            "relType": "collaborate",
+            "source": "uLabic",
+            "target": "uMLab"
+        },
+        {
+            "relType": "use",
+            "source": "uINRA",
+            "target": "tOpenCypher"
+        },
+        {
+            "relType": "collaborate",
+            "source": "uDANTE",
+            "target": "uIXXI"
+        },
+        {
+            "relType": "create",
+            "source": "uLISIS",
+            "target": "tCortext"
+        },
+        {
+            "relType": "collaborate",
+            "source": "uLISIS",
+            "target": "uMLab"
+        },
+        {
+            "relType": "collaborate",
+            "source": "uLISIS",
+            "target": "uINRA"
+        },
+        {
+            "relType": "work_for",
+            "source": "pMarier266",
+            "target": "uLISIS"
+        },
+        {
+            "relType": "work_for",
+            "source": "pMarier266",
+            "target": "uINRA"
+        },
+        {
+            "relType": "work_for",
+            "source": "pJeatet83",
+            "target": "uLISIS"
+        },
+        {
+            "relType": "create",
+            "source": "pJeatet83",
+            "target": "tCortext"
+        },
+        {
+            "relType": "work_for",
+            "source": "pJeatet83",
+            "target": "uMLab"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pJeatet83",
+            "target": "kCode"
+        },
+        {
+            "relType": "collaborate",
+            "source": "eGraphRoom",
+            "target": "eFOSDEM"
+        },
+        {
+            "relType": "use",
+            "source": "rPanPap",
+            "target": "tLink"
+        },
+        {
+            "relType": "collaborate",
+            "source": "uBIDS",
+            "target": "uMLab"
+        },
+        {
+            "relType": "collaborate",
+            "source": "uCSTTMS97",
+            "target": "uMLab"
+        },
+        {
+            "relType": "create",
+            "source": "oIcij",
+            "target": "rPanPap"
+        },
+        {
+            "relType": "collaborate",
+            "source": "oIcij",
+            "target": "uMLab"
+        },
+        {
+            "relType": "use",
+            "source": "oIcij",
+            "target": "tLink"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oIcij",
+            "target": "cJour"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oIre",
+            "target": "cJour"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oOCCRP",
+            "target": "cJour"
+        },
+        {
+            "relType": "work_for",
+            "source": "pFrierg153",
+            "target": "oOCCRP"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pFrierg153",
+            "target": "oInfMap"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pFrierg153",
+            "target": "cJour"
+        },
+        {
+            "relType": "work_for",
+            "source": "pIaiins224",
+            "target": "oOCCRP"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pIaiins224",
+            "target": "cJour"
+        },
+        {
+            "relType": "work_for",
+            "source": "pJonght146",
+            "target": "uTow"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pJonght146",
+            "target": "cJour"
+        },
+        {
+            "relType": "work_for",
+            "source": "pManlla227",
+            "target": "bNeo"
+        },
+        {
+            "relType": "work_for",
+            "source": "pManlla227",
+            "target": "oIcij"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pManlla227",
+            "target": "cJour"
+        },
+        {
+            "relType": "work_for",
+            "source": "pMarbra48",
+            "target": "oIcij"
+        },
+        {
+            "relType": "work_for",
+            "source": "pMarbra48",
+            "target": "oGen"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pMarbra48",
+            "target": "cJour"
+        },
+        {
+            "relType": "work_for",
+            "source": "pJultin70",
+            "target": "oIcij"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pJultin70",
+            "target": "cJour"
+        },
+        {
+            "relType": "create",
+            "source": "pLiBo",
+            "target": "rDataJ"
+        },
+        {
+            "relType": "attend",
+            "source": "pLiBo",
+            "target": "eMoz"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pLiBo",
+            "target": "kMap"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pLiBo",
+            "target": "cJour"
+        },
+        {
+            "relType": "create",
+            "source": "pGray",
+            "target": "rDataJ"
+        },
+        {
+            "relType": "create",
+            "source": "pGray",
+            "target": "oPubLab"
+        },
+        {
+            "relType": "create",
+            "source": "pGray",
+            "target": "oOpenKnow"
+        },
+        {
+            "relType": "work_for",
+            "source": "pGray",
+            "target": "uKing"
+        },
+        {
+            "relType": "create",
+            "source": "pGray",
+            "target": "tMini"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pGray",
+            "target": "cJour"
+        },
+        {
+            "relType": "work_for",
+            "source": "pLucers96",
+            "target": "oOpenKnow"
+        },
+        {
+            "relType": "create",
+            "source": "pLucers96",
+            "target": "rDataJ"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pLucers96",
+            "target": "cJour"
+        },
+        {
+            "relType": "create",
+            "source": "pEmiell80",
+            "target": "uTow"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pEmiell80",
+            "target": "cJour"
+        },
+        {
+            "relType": "attend",
+            "source": "pTomlls101",
+            "target": "eMoz"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pTomlls101",
+            "target": "cJour"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pHeause117",
+            "target": "cJour"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pPauhaw148",
+            "target": "cJour"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pNoel",
+            "target": "cJour"
+        },
+        {
+            "relType": "create",
+            "source": "pJonray210",
+            "target": "tCJwork"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pJonray210",
+            "target": "cJour"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oNieLab155",
+            "target": "cJour"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uQUT",
+            "target": "kIntMed"
+        },
+        {
+            "relType": "work_for",
+            "source": "pAxeuns202",
+            "target": "uQUT"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pAxeuns202",
+            "target": "kMap"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pAxeuns202",
+            "target": "kIntMed"
+        },
+        {
+            "relType": "work_for",
+            "source": "pJeaess262",
+            "target": "uQUT"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pJeaess262",
+            "target": "kMap"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pJeaess262",
+            "target": "kIntMed"
+        },
+        {
+            "relType": "work_for",
+            "source": "pAnavid211",
+            "target": "uOMI"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pAnavid211",
+            "target": "kIntMed"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uOMI",
+            "target": "kIntPol"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uOMI",
+            "target": "kIntMed"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pJoaert114",
+            "target": "kMap"
+        },
+        {
+            "relType": "belong_to",
+            "source": "oFraute208",
+            "target": "kMap"
+        },
+        {
+            "relType": "has_tag",
+            "source": "eMoz",
+            "target": "kIntPol"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oInfMap",
+            "target": "kMap"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oInfMap",
+            "target": "kIntPol"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oPubLab",
+            "target": "kIntPol"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oRegCit",
+            "target": "kIntPol"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pSchata152",
+            "target": "kIntPol"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oAoIoIR185",
+            "target": "kIntPol"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oDatind125",
+            "target": "kIntPol"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oOpenKnow",
+            "target": "kIntPol"
+        },
+        {
+            "relType": "collaborate",
+            "source": "oOpeach71",
+            "target": "oOpenKnow"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oOpeach71",
+            "target": "kIntPol"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oOpenCorp",
+            "target": "kIntPol"
+        },
+        {
+            "relType": "collaborate",
+            "source": "oOpeute98",
+            "target": "oNesta"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oOpeute98",
+            "target": "kIntPol"
+        },
+        {
+            "relType": "attend",
+            "source": "pAliers155",
+            "target": "eGraph"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pAliers155",
+            "target": "kPsy"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pAliers155",
+            "target": "kIntPol"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oWebFound",
+            "target": "kIntPol"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oEurtal219",
+            "target": "kIntPol"
+        },
+        {
+            "relType": "work_for",
+            "source": "pJamney205",
+            "target": "oNorth"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pJamney205",
+            "target": "oOpenCorp"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pJamney205",
+            "target": "oInfMap"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pJamney205",
+            "target": "kIntPol"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oNorth",
+            "target": "kIntPol"
+        },
+        {
+            "relType": "work_for",
+            "source": "pJunita193",
+            "target": "oIiLab"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pJunita193",
+            "target": "kIntPol"
+        },
+        {
+            "relType": "collaborate",
+            "source": "oIiLab",
+            "target": "jNGI"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oIiLab",
+            "target": "kIntPol"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pJerven159",
+            "target": "kEthic"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pJerven159",
+            "target": "kIntPol"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pSaniln237",
+            "target": "uOxInt"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pSaniln237",
+            "target": "cDigHum"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oProian165",
+            "target": "cDigHum"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uC2dh",
+            "target": "cDigHum"
+        },
+        {
+            "relType": "has_tag",
+            "source": "eDigrds95",
+            "target": "cDigHum"
+        },
+        {
+            "relType": "collaborate",
+            "source": "uDLAB",
+            "target": "uBIDS"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uDLAB",
+            "target": "cDigHum"
+        },
+        {
+            "relType": "has_tag",
+            "source": "eDignge78",
+            "target": "cDigHum"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uDataWar",
+            "target": "kPsy"
+        },
+        {
+            "relType": "collaborate",
+            "source": "uDataWar",
+            "target": "uAlanTur"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uDataWar",
+            "target": "cDigHum"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uKing",
+            "target": "cDigHum"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pPabagn245",
+            "target": "uOxInt"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pPabagn245",
+            "target": "cDigHum"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uAlanTur",
+            "target": "cDigHum"
+        },
+        {
+            "relType": "use",
+            "source": "pGrandJean",
+            "target": "tGephi"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pGrandJean",
+            "target": "cDigHum"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uEpflLab",
+            "target": "cDigHum"
+        },
+        {
+            "relType": "work_for",
+            "source": "pFrelan34",
+            "target": "uEpflLab"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pFrelan34",
+            "target": "cDigHum"
+        },
+        {
+            "relType": "work_for",
+            "source": "pDarero110",
+            "target": "uEpflLab"
+        },
+        {
+            "relType": "work_for",
+            "source": "pDarero110",
+            "target": "uMLab"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pDarero110",
+            "target": "cDigHum"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uOxInt",
+            "target": "cDigHum"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pDanoyd162",
+            "target": "cDigHum"
+        },
+        {
+            "relType": "collaborate",
+            "source": "uDigLab109",
+            "target": "uOxInt"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uDigLab109",
+            "target": "cDigHum"
+        },
+        {
+            "relType": "belong_to",
+            "source": "uSodas",
+            "target": "cNorHum"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uSodas",
+            "target": "cDigHum"
+        },
+        {
+            "relType": "collaborate",
+            "source": "uITUlab",
+            "target": "uTANT"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uITUlab",
+            "target": "kEthic"
+        },
+        {
+            "relType": "belong_to",
+            "source": "uITUlab",
+            "target": "cNorHum"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uITUlab",
+            "target": "cDigHum"
+        },
+        {
+            "relType": "work_for",
+            "source": "pBriiek108",
+            "target": "uITUlab"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pBriiek108",
+            "target": "cNorHum"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pBriiek108",
+            "target": "cDigHum"
+        },
+        {
+            "relType": "belong_to",
+            "source": "uDigHumLab",
+            "target": "cNorHum"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uDigHumLab",
+            "target": "cDigHum"
+        },
+        {
+            "relType": "collaborate",
+            "source": "uNetLab",
+            "target": "uDigHumLab"
+        },
+        {
+            "relType": "belong_to",
+            "source": "uNetLab",
+            "target": "cNorHum"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uNetLab",
+            "target": "cDigHum"
+        },
+        {
+            "relType": "work_for",
+            "source": "pNielsBr",
+            "target": "uNetLab"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pNielsBr",
+            "target": "cNorHum"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pNielsBr",
+            "target": "cDigHum"
+        },
+        {
+            "relType": "belong_to",
+            "source": "uDatLab",
+            "target": "cNorHum"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uDatLab",
+            "target": "cDigHum"
+        },
+        {
+            "relType": "work_for",
+            "source": "pAnjann167",
+            "target": "uDatLab"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pAnjann167",
+            "target": "cNorHum"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pAnjann167",
+            "target": "cDigHum"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uPsy",
+            "target": "kPsy"
+        },
+        {
+            "relType": "work_for",
+            "source": "pDavell184",
+            "target": "uPsy"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pDavell184",
+            "target": "kPsy"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pUlflak78",
+            "target": "pSunLeh"
+        },
+        {
+            "relType": "work_for",
+            "source": "pUlflak78",
+            "target": "uSodas"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pUlflak78",
+            "target": "kPsy"
+        },
+        {
+            "relType": "work_for",
+            "source": "pSuzoat100",
+            "target": "uDataWar"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pSuzoat100",
+            "target": "kPsy"
+        },
+        {
+            "relType": "collaborate",
+            "source": "oDataPop",
+            "target": "oFlowMinder"
+        },
+        {
+            "relType": "collaborate",
+            "source": "oDataPop",
+            "target": "uMIT"
+        },
+        {
+            "relType": "collaborate",
+            "source": "oDataPop",
+            "target": "oHHI"
+        },
+        {
+            "relType": "collaborate",
+            "source": "oDataPop",
+            "target": "oODI"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oDataPop",
+            "target": "kTechGood"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oFlowMinder",
+            "target": "kTechGood"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uDELbUW257",
+            "target": "kIntPol"
+        },
+        {
+            "relType": "collaborate",
+            "source": "uDELbUW257",
+            "target": "jNGI"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uDELbUW257",
+            "target": "kTechGood"
+        },
+        {
+            "relType": "has_tag",
+            "source": "jNGI",
+            "target": "kIntPol"
+        },
+        {
+            "relType": "has_tag",
+            "source": "jNGI",
+            "target": "kThinkTank"
+        },
+        {
+            "relType": "has_tag",
+            "source": "jNGI",
+            "target": "kInnMan"
+        },
+        {
+            "relType": "fund",
+            "source": "jNGI",
+            "target": "oH2020"
+        },
+        {
+            "relType": "has_tag",
+            "source": "jNGI",
+            "target": "kTechGood"
+        },
+        {
+            "relType": "collaborate",
+            "source": "oNesta",
+            "target": "oEdgeRyders"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oNesta",
+            "target": "kInnMan"
+        },
+        {
+            "relType": "collaborate",
+            "source": "oNesta",
+            "target": "jNGI"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oNesta",
+            "target": "kTechGood"
+        },
+        {
+            "relType": "collaborate",
+            "source": "oCASAST86",
+            "target": "oNesta"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oCASAST86",
+            "target": "kTechGood"
+        },
+        {
+            "relType": "fund",
+            "source": "oDSI4EU",
+            "target": "oH2020"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oDSI4EU",
+            "target": "kTechGood"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oEdgeRyders",
+            "target": "kTechGood"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oDESIS",
+            "target": "kTechGood"
+        },
+        {
+            "relType": "fund",
+            "source": "jOpen4",
+            "target": "oH2020"
+        },
+        {
+            "relType": "has_tag",
+            "source": "jOpen4",
+            "target": "kTechGood"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oSuplux149",
+            "target": "kTechGood"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pZoeano229",
+            "target": "kTechGood"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pAlbica186",
+            "target": "kTechGood"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pHiltam163",
+            "target": "kTechGood"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oYoung",
+            "target": "kTechGood"
+        },
+        {
+            "relType": "work_for",
+            "source": "pJuacia299",
+            "target": "oNesta"
+        },
+        {
+            "relType": "study_at",
+            "source": "pJuacia299",
+            "target": "uSPRU"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pJuacia299",
+            "target": "kMap"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pJuacia299",
+            "target": "kTechGood"
+        },
+        {
+            "relType": "work_for",
+            "source": "pJoeger227",
+            "target": "oNesta"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pJoeger227",
+            "target": "kTechGood"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pKonlos304",
+            "target": "kMap"
+        },
+        {
+            "relType": "work_for",
+            "source": "pKonlos304",
+            "target": "oNesta"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pKonlos304",
+            "target": "kTechGood"
+        },
+        {
+            "relType": "work_for",
+            "source": "pGeogan132",
+            "target": "oNesta"
+        },
+        {
+            "relType": "work_for",
+            "source": "pGeogan132",
+            "target": "oYoung"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pGeogan132",
+            "target": "kTechGood"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pChrley228",
+            "target": "kIntPol"
+        },
+        {
+            "relType": "work_for",
+            "source": "pChrley228",
+            "target": "oNesta"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pChrley228",
+            "target": "kInnMan"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pChrley228",
+            "target": "kTechGood"
+        },
+        {
+            "relType": "work_for",
+            "source": "pEziini94",
+            "target": "uPolMil"
+        },
+        {
+            "relType": "create",
+            "source": "pEziini94",
+            "target": "oDESIS"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pEziini94",
+            "target": "kSerDes"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uAAUdesign",
+            "target": "kSerDes"
+        },
+        {
+            "relType": "create",
+            "source": "pNiclli222",
+            "target": "oDESIS"
+        },
+        {
+            "relType": "work_for",
+            "source": "pNiclli222",
+            "target": "uAAUdesign"
+        },
+        {
+            "relType": "work_for",
+            "source": "pNiclli222",
+            "target": "uPolMil"
+        },
+        {
+            "relType": "create",
+            "source": "pNiclli222",
+            "target": "jOpen4"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pNiclli222",
+            "target": "kSerDes"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pMaslli218",
+            "target": "kSerDes"
+        },
+        {
+            "relType": "has_tag",
+            "source": "bFrorog94",
+            "target": "kDesignConsult"
+        },
+        {
+            "relType": "has_tag",
+            "source": "bReDtes212",
+            "target": "kDesignConsult"
+        },
+        {
+            "relType": "collaborate",
+            "source": "oOpeDEO126",
+            "target": "oIFTF"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oOpeDEO126",
+            "target": "kDesignConsult"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pRikUlk200",
+            "target": "jOpen4"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pRikUlk200",
+            "target": "kDesignConsult"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pCardas224",
+            "target": "kInnMan"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pEurcat220",
+            "target": "oNesta"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pEurcat220",
+            "target": "kInnMan"
+        },
+        {
+            "relType": "work_for",
+            "source": "pMaxcke133",
+            "target": "uAAUdesign"
+        },
+        {
+            "relType": "work_for",
+            "source": "pMaxcke133",
+            "target": "uDTUman"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pMaxcke133",
+            "target": "kMap"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pMaxcke133",
+            "target": "cSTS"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pMaxcke133",
+            "target": "kInnMan"
+        },
+        {
+            "relType": "work_for",
+            "source": "pPeduiz249",
+            "target": "uDTUman"
+        },
+        {
+            "relType": "create",
+            "source": "pPeduiz249",
+            "target": "tSights"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pPeduiz249",
+            "target": "kInnMan"
+        },
+        {
+            "relType": "work_for",
+            "source": "pAnjier62",
+            "target": "uDTUman"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pAnjier62",
+            "target": "kInnMan"
+        },
+        {
+            "relType": "has_tag",
+            "source": "tSights",
+            "target": "kInnMan"
+        },
+        {
+            "relType": "has_tag",
+            "source": "bKenedict",
+            "target": "kInnMan"
+        },
+        {
+            "relType": "work_for",
+            "source": "pAndeij60",
+            "target": "bKenedict"
+        },
+        {
+            "relType": "use",
+            "source": "pAndeij60",
+            "target": "tSigma"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pAndeij60",
+            "target": "kInnMan"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oGlolse195",
+            "target": "kTechGood"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oGlolse195",
+            "target": "kHuman"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oForure174",
+            "target": "kHuman"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oHHI",
+            "target": "kHuman"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oODI",
+            "target": "kHuman"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pBenmpf198",
+            "target": "kHuman"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oOpeety218",
+            "target": "kHuman"
+        },
+        {
+            "relType": "use",
+            "source": "pSarson89",
+            "target": "tGephi"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pSarson89",
+            "target": "kSTS"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pEognna37",
+            "target": "kSTS"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pTomves247",
+            "target": "kSTS"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pEmipin59",
+            "target": "pFloAlk"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pEmipin59",
+            "target": "kSTS"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pFloAlk",
+            "target": "pLoeLey"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pFloAlk",
+            "target": "kSTS"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uSPRU",
+            "target": "kSTS"
+        },
+        {
+            "relType": "work_for",
+            "source": "pJohSch",
+            "target": "uSPRU"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pJohSch",
+            "target": "kSTS"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pFraels95",
+            "target": "pJohSch"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pFraels95",
+            "target": "kSTS"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oDignce187",
+            "target": "kScienceto"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pLoeLey",
+            "target": "kScienceto"
+        },
+        {
+            "relType": "create",
+            "source": "pLudman144",
+            "target": "tVos"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pLudman144",
+            "target": "kScienceto"
+        },
+        {
+            "relType": "create",
+            "source": "pNeeEck151",
+            "target": "tVos"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pNeeEck151",
+            "target": "kScienceto"
+        },
+        {
+            "relType": "work_for",
+            "source": "pKatBor",
+            "target": "uCNS"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pKatBor",
+            "target": "kScienceto"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uCNS",
+            "target": "kScienceto"
+        },
+        {
+            "relType": "use",
+            "source": "pKatova163",
+            "target": "tGephi"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pKatova163",
+            "target": "kNetAnalyse"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uCBSdata",
+            "target": "kNetAnalyse"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pChrard108",
+            "target": "pAntGrau"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pChrard108",
+            "target": "kNetAnalyse"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pAntGrau",
+            "target": "kNetAnalyse"
+        },
+        {
+            "relType": "work_for",
+            "source": "pSunLeh",
+            "target": "uSodas"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pSunLeh",
+            "target": "uMITsense"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pSunLeh",
+            "target": "kPsy"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pSunLeh",
+            "target": "kNetAnalyse"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uDEPFL",
+            "target": "kNetAnalyse"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pRobest84",
+            "target": "pJurLes"
+        },
+        {
+            "relType": "study_at",
+            "source": "pRobest84",
+            "target": "uStan"
+        },
+        {
+            "relType": "work_for",
+            "source": "pRobest84",
+            "target": "uDEPFL"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pRobest84",
+            "target": "cUSA"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pRobest84",
+            "target": "kNetAnalyse"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pSeains142",
+            "target": "uKing"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pSeains142",
+            "target": "kNetAnalyse"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pLasasi146",
+            "target": "kNetAnalyse"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pNetCEU233",
+            "target": "kNetAnalyse"
+        },
+        {
+            "relType": "create",
+            "source": "pMatian239",
+            "target": "tGephi"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pMatian239",
+            "target": "kCode"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pMatian239",
+            "target": "kNetAnalyse"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oSoBig",
+            "target": "cNetworkIT"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pAleani126",
+            "target": "cNetworkIT"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pLucrdo233",
+            "target": "cNetworkIT"
+        },
+        {
+            "relType": "collaborate",
+            "source": "uKDD",
+            "target": "oSoBig"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uKDD",
+            "target": "cNetworkIT"
+        },
+        {
+            "relType": "work_for",
+            "source": "pDinchi182",
+            "target": "uKDD"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pDinchi182",
+            "target": "cNetworkIT"
+        },
+        {
+            "relType": "collaborate",
+            "source": "uGATE",
+            "target": "oSoBig"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uGATE",
+            "target": "cNetworkIT"
+        },
+        {
+            "relType": "has_tag",
+            "source": "oEmlyonData",
+            "target": "cNetworkFR"
+        },
+        {
+            "relType": "work_for",
+            "source": "pSeinecle",
+            "target": "oEmlyonData"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pSeinecle",
+            "target": "kScienceto"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pSeinecle",
+            "target": "tGephi"
+        },
+        {
+            "relType": "use",
+            "source": "pSeinecle",
+            "target": "tGephi"
+        },
+        {
+            "relType": "use",
+            "source": "pSeinecle",
+            "target": "tVos"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pSeinecle",
+            "target": "cNetworkFR"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uInria",
+            "target": "cNetworkFR"
+        },
+        {
+            "relType": "collaborate",
+            "source": "uIFRIS",
+            "target": "uINRA"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uIFRIS",
+            "target": "cNetworkFR"
+        },
+        {
+            "relType": "collaborate",
+            "source": "uIXXI",
+            "target": "uInria"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uIXXI",
+            "target": "cNetworkFR"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pPabJen",
+            "target": "pTomVen"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pPabJen",
+            "target": "pSebGrau"
+        },
+        {
+            "relType": "work_for",
+            "source": "pPabJen",
+            "target": "uIXXI"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pPabJen",
+            "target": "cNetworkFR"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pSebGrau",
+            "target": "uMITsense"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pSebGrau",
+            "target": "uMLab"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pSebGrau",
+            "target": "cNetworkFR"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pGuynon115",
+            "target": "oEdgeRyders"
+        },
+        {
+            "relType": "work_for",
+            "source": "pGuynon115",
+            "target": "uInria"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pGuynon115",
+            "target": "cNetworkFR"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pDomnck200",
+            "target": "uIFRIS"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pDomnck200",
+            "target": "cNetworkFR"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pStette74",
+            "target": "cGraph"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pMaruez83",
+            "target": "cGraph"
+        },
+        {
+            "relType": "create",
+            "source": "bNeo",
+            "target": "tNeo"
+        },
+        {
+            "relType": "create",
+            "source": "bNeo",
+            "target": "tOpenCypher"
+        },
+        {
+            "relType": "belong_to",
+            "source": "bNeo",
+            "target": "cGraph"
+        },
+        {
+            "relType": "create",
+            "source": "pEmirem106",
+            "target": "bNeo"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pEmirem106",
+            "target": "cGraph"
+        },
+        {
+            "relType": "work_for",
+            "source": "pAmyler223",
+            "target": "bNeo"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pAmyler223",
+            "target": "cGraph"
+        },
+        {
+            "relType": "belong_to",
+            "source": "bGratry230",
+            "target": "cGraph"
+        },
+        {
+            "relType": "collaborate",
+            "source": "eGraph",
+            "target": "bNeo"
+        },
+        {
+            "relType": "belong_to",
+            "source": "eGraph",
+            "target": "cGraph"
+        },
+        {
+            "relType": "collaborate",
+            "source": "bGraAwa",
+            "target": "bNeo"
+        },
+        {
+            "relType": "belong_to",
+            "source": "bGraAwa",
+            "target": "cGraph"
+        },
+        {
+            "relType": "create",
+            "source": "bLink",
+            "target": "tLink"
+        },
+        {
+            "relType": "belong_to",
+            "source": "bLink",
+            "target": "cGraph"
+        },
+        {
+            "relType": "create",
+            "source": "pSebann188",
+            "target": "tGephi"
+        },
+        {
+            "relType": "work_for",
+            "source": "pSebann188",
+            "target": "bLink"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pSebann188",
+            "target": "cGraph"
+        },
+        {
+            "relType": "work_for",
+            "source": "pJeaieu174",
+            "target": "bLink"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pJeaieu174",
+            "target": "cGraph"
+        },
+        {
+            "relType": "use",
+            "source": "pSylssy214",
+            "target": "tNeo"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pSylssy214",
+            "target": "cGraph"
+        },
+        {
+            "relType": "use",
+            "source": "pMicdec187",
+            "target": "tNeo"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pMicdec187",
+            "target": "cGraph"
+        },
+        {
+            "relType": "use",
+            "source": "pJohain142",
+            "target": "tNeo"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pJohain142",
+            "target": "cGraph"
+        },
+        {
+            "relType": "work_for",
+            "source": "pChrsen186",
+            "target": "bGraAwa"
+        },
+        {
+            "relType": "use",
+            "source": "pChrsen186",
+            "target": "tNeo"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pChrsen186",
+            "target": "cGraph"
+        },
+        {
+            "relType": "work_for",
+            "source": "pMirchi93",
+            "target": "bGraAwa"
+        },
+        {
+            "relType": "work_for",
+            "source": "pMirchi93",
+            "target": "uISI"
+        },
+        {
+            "relType": "use",
+            "source": "pMirchi93",
+            "target": "tNeo"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pMirchi93",
+            "target": "cGraph"
+        },
+        {
+            "relType": "create",
+            "source": "pNiekBar",
+            "target": "tOpenBox"
+        },
+        {
+            "relType": "use",
+            "source": "pNiekBar",
+            "target": "tNeo"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pNiekBar",
+            "target": "cGraph"
+        },
+        {
+            "relType": "use",
+            "source": "tOpenBox",
+            "target": "tNeo"
+        },
+        {
+            "relType": "belong_to",
+            "source": "tOpenBox",
+            "target": "cGraph"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pRoeers100",
+            "target": "kEthic"
+        },
+        {
+            "relType": "use",
+            "source": "pRoeers100",
+            "target": "tNeo"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pRoeers100",
+            "target": "cGraph"
+        },
+        {
+            "relType": "work_for",
+            "source": "pCedvet52",
+            "target": "bNeo"
+        },
+        {
+            "relType": "use",
+            "source": "pCedvet52",
+            "target": "tNeo"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pCedvet52",
+            "target": "cGraph"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pBenard172",
+            "target": "uMLab"
+        },
+        {
+            "relType": "work_for",
+            "source": "pBenard172",
+            "target": "bNeo"
+        },
+        {
+            "relType": "use",
+            "source": "pBenard172",
+            "target": "tNeo"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pBenard172",
+            "target": "cGraph"
+        },
+        {
+            "relType": "work_for",
+            "source": "pLoroni228",
+            "target": "bNeo"
+        },
+        {
+            "relType": "use",
+            "source": "pLoroni228",
+            "target": "tNeo"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pLoroni228",
+            "target": "cGraph"
+        },
+        {
+            "relType": "work_for",
+            "source": "pJimber130",
+            "target": "bNeo"
+        },
+        {
+            "relType": "use",
+            "source": "pJimber130",
+            "target": "tNeo"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pJimber130",
+            "target": "cGraph"
+        },
+        {
+            "relType": "work_for",
+            "source": "pPhihle104",
+            "target": "bNeo"
+        },
+        {
+            "relType": "use",
+            "source": "pPhihle104",
+            "target": "tNeo"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pPhihle104",
+            "target": "cGraph"
+        },
+        {
+            "relType": "work_for",
+            "source": "pJesasa89",
+            "target": "bNeo"
+        },
+        {
+            "relType": "use",
+            "source": "pJesasa89",
+            "target": "tNeo"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pJesasa89",
+            "target": "cGraph"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pJesasa89",
+            "target": "kCode"
+        },
+        {
+            "relType": "attend",
+            "source": "pMicger116",
+            "target": "eFOSDEM"
+        },
+        {
+            "relType": "work_for",
+            "source": "pMicger116",
+            "target": "bNeo"
+        },
+        {
+            "relType": "use",
+            "source": "pMicger116",
+            "target": "tNeo"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pMicger116",
+            "target": "cGraph"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pMicger116",
+            "target": "kCode"
+        },
+        {
+            "relType": "work_for",
+            "source": "pMarham101",
+            "target": "bNeo"
+        },
+        {
+            "relType": "use",
+            "source": "pMarham101",
+            "target": "tNeo"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pMarham101",
+            "target": "cGraph"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pMarham101",
+            "target": "kCode"
+        },
+        {
+            "relType": "work_for",
+            "source": "pWilyon78",
+            "target": "bNeo"
+        },
+        {
+            "relType": "use",
+            "source": "pWilyon78",
+            "target": "tNeo"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pWilyon78",
+            "target": "cGraph"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pWilyon78",
+            "target": "kCode"
+        },
+        {
+            "relType": "work_for",
+            "source": "pMaxrzi98",
+            "target": "bNeo"
+        },
+        {
+            "relType": "use",
+            "source": "pMaxrzi98",
+            "target": "tNeo"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pMaxrzi98",
+            "target": "cGraph"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pMaxrzi98",
+            "target": "kCode"
+        },
+        {
+            "relType": "work_for",
+            "source": "pRyaoyd232",
+            "target": "bNeo"
+        },
+        {
+            "relType": "use",
+            "source": "pRyaoyd232",
+            "target": "tNeo"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pRyaoyd232",
+            "target": "cGraph"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pRyaoyd232",
+            "target": "kCode"
+        },
+        {
+            "relType": "work_for",
+            "source": "pRikgen119",
+            "target": "bNeo"
+        },
+        {
+            "relType": "use",
+            "source": "pRikgen119",
+            "target": "tNeo"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pRikgen119",
+            "target": "cGraph"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pRikgen119",
+            "target": "kCode"
+        },
+        {
+            "relType": "work_for",
+            "source": "pPetmer187",
+            "target": "bNeo"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pPetmer187",
+            "target": "kCypher"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pPetmer187",
+            "target": "tOpenCypher"
+        },
+        {
+            "relType": "work_for",
+            "source": "pAndlor106",
+            "target": "bNeo"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pAndlor106",
+            "target": "kCypher"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pAndlor106",
+            "target": "tOpenCypher"
+        },
+        {
+            "relType": "attend",
+            "source": "pMarnns212",
+            "target": "eFOSDEM"
+        },
+        {
+            "relType": "work_for",
+            "source": "pMarnns212",
+            "target": "bNeo"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pMarnns212",
+            "target": "kCypher"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pMarnns212",
+            "target": "tOpenCypher"
+        },
+        {
+            "relType": "attend",
+            "source": "pStekow318",
+            "target": "eFOSDEM"
+        },
+        {
+            "relType": "work_for",
+            "source": "pStekow318",
+            "target": "bNeo"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pStekow318",
+            "target": "kCypher"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pStekow318",
+            "target": "tOpenCypher"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pGabSza",
+            "target": "kCypher"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pGabSza",
+            "target": "tOpenCypher"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pJzston63",
+            "target": "pGabSza"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pJzston63",
+            "target": "kCypher"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pJzston63",
+            "target": "tOpenCypher"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pPetood82",
+            "target": "kCypher"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pPetood82",
+            "target": "tOpenCypher"
+        },
+        {
+            "relType": "belong_to",
+            "source": "bMicrch207",
+            "target": "cUSA"
+        },
+        {
+            "relType": "collaborate",
+            "source": "uMITsense",
+            "target": "uMIT"
+        },
+        {
+            "relType": "belong_to",
+            "source": "uMITsense",
+            "target": "cUSA"
+        },
+        {
+            "relType": "collaborate",
+            "source": "uStanNLP",
+            "target": "uStan"
+        },
+        {
+            "relType": "belong_to",
+            "source": "uStanNLP",
+            "target": "cUSA"
+        },
+        {
+            "relType": "work_for",
+            "source": "pDebRoy127",
+            "target": "uMIT"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pDebRoy127",
+            "target": "cUSA"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pGiltan108",
+            "target": "cUSA"
+        },
+        {
+            "relType": "work_for",
+            "source": "pLadmic91",
+            "target": "uStan"
+        },
+        {
+            "relType": "use",
+            "source": "pLadmic91",
+            "target": "tGephi"
+        },
+        {
+            "relType": "work_for",
+            "source": "pLadmic91",
+            "target": "uStanNLP"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pLadmic91",
+            "target": "cUSA"
+        },
+        {
+            "relType": "work_for",
+            "source": "pJurLes",
+            "target": "uStan"
+        },
+        {
+            "relType": "work_for",
+            "source": "pJurLes",
+            "target": "uStanNLP"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pJurLes",
+            "target": "cUSA"
+        },
+        {
+            "relType": "work_for",
+            "source": "pChring129",
+            "target": "uStanNLP"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pChring129",
+            "target": "cUSA"
+        },
+        {
+            "relType": "work_for",
+            "source": "pRicher211",
+            "target": "uStan"
+        },
+        {
+            "relType": "work_for",
+            "source": "pRicher211",
+            "target": "uStanNLP"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pRicher211",
+            "target": "cUSA"
+        },
+        {
+            "relType": "work_for",
+            "source": "pJonerg83",
+            "target": "uStanNLP"
+        },
+        {
+            "relType": "belong_to",
+            "source": "pJonerg83",
+            "target": "cUSA"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pElieks170",
+            "target": "kDataVis"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pNadmer192",
+            "target": "kDataVis"
+        },
+        {
+            "relType": "work_for",
+            "source": "pArnicas",
+            "target": "oEmlyonData"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pArnicas",
+            "target": "kDataVis"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pNatYau149",
+            "target": "kDataVis"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uBerkeley",
+            "target": "kDataVis"
+        },
+        {
+            "relType": "work_for",
+            "source": "pJefeer231",
+            "target": "uStan"
+        },
+        {
+            "relType": "work_for",
+            "source": "pJefeer231",
+            "target": "uUWdata"
+        },
+        {
+            "relType": "use",
+            "source": "pJefeer231",
+            "target": "tD3"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pJefeer231",
+            "target": "kCode"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pJefeer231",
+            "target": "kDataVis"
+        },
+        {
+            "relType": "has_tag",
+            "source": "uUWdata",
+            "target": "kDataVis"
+        },
+        {
+            "relType": "create",
+            "source": "pMikock173",
+            "target": "tD3"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pMikock173",
+            "target": "kCode"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pMikock173",
+            "target": "kDataVis"
+        },
+        {
+            "relType": "has_tag",
+            "source": "rBeaInfo",
+            "target": "kDataVis"
+        },
+        {
+            "relType": "collaborate",
+            "source": "pAleomy170",
+            "target": "pGuiPli"
+        },
+        {
+            "relType": "create",
+            "source": "pAleomy170",
+            "target": "tSigma"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pAleomy170",
+            "target": "kCode"
+        },
+        {
+            "relType": "has_tag",
+            "source": "pAleomy170",
+            "target": "kDataVis"
+        }
+    ],
+    "nodes": [
+        {
+            "label": "university",
+            "name": "DTU management",
+            "uid": "uDTUman"
+        },
+        {
+            "label": "university",
+            "name": "Stanford University",
+            "uid": "uStan"
+        },
+        {
+            "label": "university",
+            "name": "MIT Media Lab",
+            "twitter": "medialab",
+            "uid": "uMIT",
+            "webpage": "media.mit.edu"
+        },
+        {
+            "label": "tool",
+            "name": "openCypher",
+            "text": "openCypher is an open source project to broaden access to the industry\u2019s most widely adopted graph query language: #Cypher.",
+            "twitter": "openCypher",
+            "uid": "tOpenCypher",
+            "webpage": "opencypher.org"
+        },
+        {
+            "label": "tool",
+            "location": "Milano/Italy",
+            "name": "RAW Graphs",
+            "text": "The missing link between spreadsheets and data visualization",
+            "twitter": "rawgraphs",
+            "uid": "tRAW",
+            "webpage": "rawgraphs.io"
+        },
+        {
+            "label": "tool",
+            "name": "Cypher",
+            "uid": "tCypher"
+        },
+        {
+            "label": "tool",
+            "name": "Javascript",
+            "uid": "tJava"
+        },
+        {
+            "label": "tool",
+            "name": "DMI-TCAT",
+            "text": "Twitter tool",
+            "uid": "tTCAT"
+        },
+        {
+            "label": "tool",
+            "name": "Seealsology",
+            "uid": "tSeeAlso",
+            "webpage": "tools.medialab.sciences-po.fr/seealsology/"
+        },
+        {
+            "github": "medialab/gazouilloire",
+            "label": "tool",
+            "name": "Gazouilloire",
+            "uid": "tGaz"
+        },
+        {
+            "label": "tool",
+            "name": "MiniVAN",
+            "text": "Tool for visual network analysis",
+            "uid": "tMini"
+        },
+        {
+            "label": "tool",
+            "name": "Gephi",
+            "uid": "tGephi",
+            "webpage": "gephi.org"
+        },
+        {
+            "github": "medialab/hyphe",
+            "label": "tool",
+            "name": "Hyphe",
+            "uid": "tHyphe"
+        },
+        {
+            "label": "tool",
+            "name": "Neo4j Graph Database",
+            "uid": "tNeo"
+        },
+        {
+            "label": "tool",
+            "name": "Graph Commons",
+            "text": "Tool for mapping, analysing and publishing data-networks",
+            "twitter": "graphcommons",
+            "uid": "tCommons",
+            "webpage": "graphcommons.com"
+        },
+        {
+            "label": "tool",
+            "name": "D3.js",
+            "uid": "tD3",
+            "webpage": "d3js.org"
+        },
+        {
+            "label": "tool",
+            "name": "Sigma.js",
+            "uid": "tSigma",
+            "webpage": "sigmajs.org"
+        },
+        {
+            "label": "keyword",
+            "name": "Issue Mapping",
+            "uid": "kMap"
+        },
+        {
+            "label": "keyword",
+            "name": "Scientometrics",
+            "text": "Analysing academic output",
+            "uid": "kScienceto"
+        },
+        {
+            "label": "keyword",
+            "name": "Ethics",
+            "text": "Privacy, Open data etc.",
+            "uid": "kEthic"
+        },
+        {
+            "label": "person",
+            "location": "New_York/USA",
+            "name": "Burak Arikan",
+            "text": "Machine readable artist. Also see @arikantr",
+            "twitter": "arikan",
+            "uid": "pBurkan142",
+            "webpage": "burak-arikan.com"
+        },
+        {
+            "label": "person",
+            "name": "Nathan Silver",
+            "text": "Editor-in-chief",
+            "twitter": "NateSilver538",
+            "uid": "pNatver66"
+        },
+        {
+            "label": "person",
+            "location": "Palo_Alto/USA",
+            "name": "Rod Falcon",
+            "text": "Technology Futures Lab, #automatedworld, #newbodylanguage, #everythingismedia #makercities, #futurenow, LGBTQ futures",
+            "twitter": "rodfalcon",
+            "uid": "pRodcon176"
+        },
+        {
+            "label": "person",
+            "location": "London/UK",
+            "name": "Josef Hargrave",
+            "text": "Global Foresight Manager at Arup",
+            "twitter": "josefhargrave",
+            "uid": "pJosave118",
+            "webpage": "driversofchange.com"
+        },
+        {
+            "label": "keyword",
+            "name": "Think Tank",
+            "text": "Long term thinkers",
+            "uid": "kThinkTank"
+        },
+        {
+            "label": "organisation",
+            "location": "Washington/USA",
+            "name": "Pew Research",
+            "twitter": "pewresearch",
+            "uid": "oPew",
+            "webpage": "pewresearch.org"
+        },
+        {
+            "label": "organisation",
+            "name": "FiveThirtyEight",
+            "uid": "oFive38",
+            "webpage": "fivethirtyeight.com"
+        },
+        {
+            "facebook": "Gartner",
+            "label": "business",
+            "location": "Stamford/USA",
+            "name": "Gartner",
+            "text": "We deliver the insights necessary for leaders in every function, market and enterprise size to make the right decisions.",
+            "twitter": "Gartner_inc",
+            "uid": "bGartner",
+            "webpage": "gartner.com"
+        },
+        {
+            "label": "organisation",
+            "name": "Crimson Hexagon",
+            "text": "Social brand/marketing",
+            "twitter": "crimsonhexagon",
+            "uid": "oHex",
+            "webpage": "crimsonhexagon.com"
+        },
+        {
+            "label": "business",
+            "name": "Fast Forward Labs",
+            "text": "A machine intelligence research company",
+            "twitter": "FastForwardLabs",
+            "uid": "bFFL",
+            "webpage": "fastforwardlabs.com"
+        },
+        {
+            "label": "business",
+            "location": "London/UK",
+            "name": "Arup Foresight",
+            "text": "Monitoring the drivers likely to impact the future of the built environment and society at large. Part of @ArupGroup",
+            "twitter": "arupforesight",
+            "uid": "bArup",
+            "webpage": "driversofchange.com"
+        },
+        {
+            "blog": "iftf.org/future-now/",
+            "facebook": "InstituteForTheFuture",
+            "label": "organisation",
+            "location": "Palo_Alto/USA",
+            "name": "IFTF",
+            "text": "Institute for the Future, nonprofit 50 years of leading the world in strategic futures",
+            "twitter": "iftf",
+            "uid": "oIFTF",
+            "webpage": "iftf.org"
+        },
+        {
+            "label": "organisation",
+            "name": "CIFS",
+            "text": "The Copenhagen Institute for Futures Studies creates awareness of the future and highlights its importance to the present.",
+            "twitter": "futuresstudies",
+            "uid": "oCIFS",
+            "webpage": "cifs.dk"
+        },
+        {
+            "facebook": "DemosHelsinki",
+            "instagram": "demoshelsinki",
+            "label": "organisation",
+            "location": "Finland",
+            "name": "Demos Helsinki",
+            "text": "The Nordic think tank. We focus on the innovative use of natural and human resources. #foresight #cocreation",
+            "twitter": "DemosHelsinki",
+            "uid": "oDemnki217",
+            "webpage": "demoshelsinki.fi/en"
+        },
+        {
+            "label": "organisation",
+            "location": "Santa_Monica/USA",
+            "name": "RAND Corporation",
+            "text": "RAND helps improve policy and decisionmaking through research and analysis. RAND is nonprofit, nonpartisan, and committed to the public interest.",
+            "twitter": "RANDCorporation",
+            "uid": "oRAND",
+            "webpage": "rand.org"
+        },
+        {
+            "label": "organisation",
+            "location": "Finland",
+            "name": "VTT",
+            "text": "VTT Technical Research Centre of Finland Ltd. Technological breakthroughs for a clean world, sustainable economy, good life - and new business!",
+            "twitter": "VTTFinland",
+            "uid": "oVTT",
+            "webpage": "vtt.fi"
+        },
+        {
+            "label": "person",
+            "location": "The_Hague/Netherlands",
+            "name": "TNO Research",
+            "text": "TNO connects people and knowledge to create innovations that boost the sustainable competitive strength of industry and well-being of society.",
+            "twitter": "TNO_Research",
+            "uid": "pTNOrch214",
+            "webpage": "tno.nl"
+        },
+        {
+            "label": "person",
+            "location": "Barcelona/Spain",
+            "name": "i2CAT",
+            "text": "Centre de Recerca i Innovaci\u00f3 en Internet avan\u00e7ada. Research and Innovation Center in Advanced Internet",
+            "twitter": "i2CAT",
+            "uid": "pi2CCAT169",
+            "webpage": "i2cat.net"
+        },
+        {
+            "label": "keyword",
+            "name": "Fund",
+            "uid": "kFund"
+        },
+        {
+            "label": "organisation",
+            "name": "SAGE Ocean",
+            "text": "Initiative from @SAGE_News to support social scientists working with big data & new technology.",
+            "twitter": "SAGEOceanTweets",
+            "uid": "oSAGean164",
+            "webpage": "ocean.sagepub.com"
+        },
+        {
+            "label": "organisation",
+            "name": "Horizon 2020",
+            "text": "The official account for the EU's #H2020 research and innovation programme. Managed by DG Research & Innovation. Follow @EUScienceInnov & Commissioner @moedas",
+            "twitter": "EU_H2020",
+            "uid": "oH2020",
+            "webpage": "ec.europa.eu/programmes/horizon2020/"
+        },
+        {
+            "label": "keyword",
+            "name": "Public Sector Innovation",
+            "uid": "kPubInn"
+        },
+        {
+            "label": "organisation",
+            "name": "Swiss Data Science Center",
+            "text": "ETH Domain initiative for Data Science in Switzerland",
+            "twitter": "SCSCdatascience",
+            "uid": "oSDSC",
+            "webpage": "datascience.ch"
+        },
+        {
+            "label": "person",
+            "location": "Lausanne/Switzerland",
+            "name": "Olivier Verscheure",
+            "text": "Director of SDSC, #DataScience",
+            "twitter": "OsaeKomi",
+            "uid": "pOliure103"
+        },
+        {
+            "label": "organisation",
+            "name": "DigitalSingleMarket",
+            "text": "Official EU account for European #DigitalSingleMarket.",
+            "twitter": "DSMeu",
+            "uid": "oDigket129",
+            "webpage": "ec.europa.eu/digital-single-market"
+        },
+        {
+            "label": "person",
+            "location": "Copenhagen/Denmark",
+            "name": "Thomas Prehn",
+            "text": "Creative Strategist. Business Innovator. Entrepreneurial Adventurer. Leadership Hacker. Organizational Transformer. Director @MindLabdk. Writes @apoliticalco",
+            "twitter": "tprehn",
+            "uid": "pThoehn331",
+            "webpage": "apolitical.co/solution_article/thomas-prehns-innovation-diary-dont-bring-me-solutions-bring-me-problems/"
+        },
+        {
+            "label": "person",
+            "location": "London/UK",
+            "name": "Apolitical",
+            "text": "A global platform for public servants, sharing our writing on cities, gender, government innovation, data, inequality and more.",
+            "twitter": "apoliticalco",
+            "uid": "pApocal191",
+            "webpage": "apolitical.co"
+        },
+        {
+            "label": "person",
+            "location": "Brooklyn/USA",
+            "name": "The GovLab",
+            "text": "Studying and co-designing data-driven & participatory decisions - thanks to @macfound, @OmidyarNetwork #opendata #opengov #civictech Based @nyu @nyutandon",
+            "twitter": "TheGovLab",
+            "uid": "pTheLab231",
+            "webpage": "thegovlab.org"
+        },
+        {
+            "label": "organisation",
+            "location": "Copenhagen/Denmark",
+            "name": "MindLab",
+            "text": "A Danish cross-governmental innovation unit. We involve citizens and businesses in developing new solutions for the public sector",
+            "twitter": "MindLabDK",
+            "uid": "oMindLab",
+            "webpage": "mind-lab.dk/en/"
+        },
+        {
+            "label": "person",
+            "location": "Geneva/Switzerland",
+            "name": "Patrick Genoud",
+            "text": "Involved in strategic planning and innovation for the state of Geneva, considering technologies in a social perspective. Member of the Gen\u00e8ve Lab.",
+            "twitter": "patgen",
+            "uid": "pPatoud218",
+            "webpage": "about.me/patgen"
+        },
+        {
+            "label": "person",
+            "name": "Kevin Richman",
+            "text": "Innovation Specialist @OECD, @OPSIgov, Passionate about improving the value of government for citizens. Thoughts are my own.",
+            "twitter": "kirichman",
+            "uid": "pKevman159"
+        },
+        {
+            "label": "keyword",
+            "name": "Intelligence Tools and Services",
+            "uid": "kIntel"
+        },
+        {
+            "label": "tool",
+            "name": "Tom Sawyer Perspectives",
+            "text": "Rapidly build graphs",
+            "uid": "tTomSaw"
+        },
+        {
+            "label": "tool",
+            "name": "FNA Platform",
+            "text": "Graph Analytics Platform for finance",
+            "twitter": "FNALab",
+            "uid": "tFNA",
+            "webpage": "fna.fi/platform"
+        },
+        {
+            "label": "organisation",
+            "name": "Fact Gem",
+            "uid": "oFacGem40",
+            "webpage": "factgem.com/"
+        },
+        {
+            "facebook": "TSawyerSoftware",
+            "label": "business",
+            "location": "Berkeley/USA",
+            "name": "Tom Sawyer Software",
+            "text": "Software development",
+            "twitter": "TSawyerSoftware",
+            "uid": "bTomSoft",
+            "webpage": "tomsawyer.com"
+        },
+        {
+            "label": "business",
+            "name": "SciBite",
+            "text": "Biopharma text mining, semantics and data intelligence",
+            "twitter": "SciBite",
+            "uid": "bSciite111",
+            "webpage": "scibite.com"
+        },
+        {
+            "label": "business",
+            "name": "Altmetric",
+            "text": "Provides a visually engaging and informative view of the online activity surrounding your scholarly content",
+            "twitter": "altmetric",
+            "uid": "bAltric169",
+            "webpage": "altmetric.com"
+        },
+        {
+            "label": "person",
+            "name": "Kimmo Soramaki",
+            "text": "Founder and CEO",
+            "twitter": "soramaki",
+            "uid": "pKimaki73"
+        },
+        {
+            "label": "keyword",
+            "name": "Micro-targeting",
+            "uid": "kMicro"
+        },
+        {
+            "blog": "cambridge-intelligence.com/blog",
+            "label": "business",
+            "location": "Cambridge/UK",
+            "name": "Cambridge Intelligence",
+            "twitter": "CambridgeIntel",
+            "uid": "bCamnce142",
+            "webpage": "cambridge-intelligence.com"
+        },
+        {
+            "label": "tool",
+            "name": "Linkurious",
+            "text": "Visualize and explore data",
+            "uid": "tLink"
+        },
+        {
+            "label": "tool",
+            "name": "Keylines",
+            "text": "Reveals connections to help users make good decisions fast",
+            "uid": "tKeylines"
+        },
+        {
+            "label": "person",
+            "name": "Cambridge Analytica",
+            "text": "Big Data. Behavioral Microtargeting. Political Campaign Support. Digital Support.",
+            "twitter": "CamAnalytica",
+            "uid": "pCamica150",
+            "webpage": "cambridgeanalytica.org"
+        },
+        {
+            "label": "business",
+            "name": "Linkfluence",
+            "text": "International #SocialMedia monitoring & research solutions for #brands and #agencies. Radarly, Linksight and Linkscape",
+            "twitter": "linkfluence",
+            "uid": "bLinkFlu",
+            "webpage": "linkfluence.com"
+        },
+        {
+            "label": "business",
+            "location": "Amsterdam/Netherlands",
+            "name": "Eclectic iq",
+            "text": "Cyber threat intelligence",
+            "uid": "bEclec",
+            "webpage": "eclecticiq.com"
+        },
+        {
+            "label": "tool",
+            "name": "Eclecticiq Platform",
+            "text": "Analyst-centric threat intelligence platform",
+            "uid": "tEclec"
+        },
+        {
+            "label": "university",
+            "location": "Amsterdam/Netherlands",
+            "name": "Digital Methods Initiative",
+            "text": "New Media Science at University of Amsterdam",
+            "uid": "uDigMet",
+            "webpage": "wiki.digitalmethods.net/Dmi/DmiPeople"
+        },
+        {
+            "label": "university",
+            "name": "Sciences Po medialab",
+            "uid": "uMLab",
+            "webpage": "medialab.sciencespo.fr"
+        },
+        {
+            "label": "person",
+            "name": "FORCCAST",
+            "uid": "pFORCCAST"
+        },
+        {
+            "label": "university",
+            "name": "CIM Warwick",
+            "text": "The Centre for Interdisciplinary Methodologies, University of Warwick.",
+            "twitter": "CIMethods",
+            "uid": "uWarwick",
+            "webpage": "warwick.ac.uk/fac/cross_fac/cim"
+        },
+        {
+            "label": "university",
+            "name": "Media Studies @ Siegen",
+            "text": "Media Studies, University of Siegen",
+            "uid": "uSiegen"
+        },
+        {
+            "label": "university",
+            "location": "Copenhagen/Denmark",
+            "name": "TANT Lab",
+            "text": "Techno-Anthropology Lab at the University of Aalborg, Copenhagen",
+            "twitter": "TANTlab",
+            "uid": "uTANT",
+            "webpage": "tant-lab.aau.dk"
+        },
+        {
+            "label": "community",
+            "name": "Science and Technology Studies",
+            "uid": "cSTS"
+        },
+        {
+            "facebook": "BrunoPaulLouisLatour",
+            "label": "person",
+            "name": "Bruno Latour",
+            "twitter": "BrunoLatourAIME",
+            "uid": "pBruour114",
+            "webpage": "bruno-latour.fr"
+        },
+        {
+            "label": "person",
+            "name": "Tommaso Venturini",
+            "text": "Lecturer @ King's College",
+            "twitter": "TommasoVenturin",
+            "uid": "pTomVen",
+            "webpage": "tommasoventurini.it/wp"
+        },
+        {
+            "label": "person",
+            "location": "Paris/France",
+            "name": "Robin De Mourat",
+            "text": "design+development+humanities - Preparing PhD about how formats flicker in humanities publishing @UnivRennes_2 designer+developer @medialab_ScPo",
+            "twitter": "robindemourat",
+            "uid": "pRobrat202"
+        },
+        {
+            "email": "paul.girard@sciences-po.fr",
+            "label": "person",
+            "name": "Paul Girard",
+            "text": "Data Humanist",
+            "twitter": "paulanomalie",
+            "uid": "pPauard91"
+        },
+        {
+            "email": "guillaume.plique@sciencespo.fr",
+            "github": "Yomguithereal",
+            "label": "person",
+            "location": "Paris/France",
+            "name": "Guillaume Plique",
+            "text": "Developer at SciencesPo m\u00e9dialab. JavaScript, Clojure & Shawarma.",
+            "twitter": "Yomguithereal",
+            "uid": "pGuiPli"
+        },
+        {
+            "github": "github.com/RouxRC",
+            "label": "person",
+            "location": "Paris/France",
+            "name": "Benjamin Ooghe-Tabanou",
+            "text": "Administrateur de @RegardsCitoyens & #NosD\u00e9put\u00e9sFr la nuit, Ing\u00e9nieur de recherche au @medialab_ScPo le jour / mes tweets n'engagent que moi #DirectAN #OpenData",
+            "twitter": "boogheta",
+            "uid": "pBennou285"
+        },
+        {
+            "label": "person",
+            "name": "Mathieu Jacomy",
+            "text": "Making tools for the social sciences at @medialab_ScPo & @PublicDataLab. Co-founder of @Gephi & #Hyphe.",
+            "twitter": "jacomyma",
+            "uid": "pMatomy169"
+        },
+        {
+            "label": "person",
+            "location": "Paris/France",
+            "name": "Donato Ricci",
+            "text": "research design @medialab_ScPo methods @SPEAPSciencesPo investigations @naturpradi @algoglitch #ModesOfExistence #ResetModernity",
+            "twitter": "Optichiasm",
+            "uid": "pDoncci225",
+            "webpage": "bit.ly/do_does_this"
+        },
+        {
+            "label": "person",
+            "location": "Amsterdam/Netherlands",
+            "name": "Richard Rogers",
+            "twitter": "richardrogers",
+            "uid": "pRiRo"
+        },
+        {
+            "label": "person",
+            "name": "Esther Weltevrede",
+            "text": "Assistant professor of new media and digital culture",
+            "twitter": "esthr",
+            "uid": "pEstede85"
+        },
+        {
+            "label": "person",
+            "location": "Amsterdam/Netherlands",
+            "name": "Sabine Niederer",
+            "text": "Professor of Visual Methodologies @AUAS #HvA, Founder @ http://citizendatalab.org , researcher @ Digital Methods Initiative #UvA, digital arts curator.",
+            "twitter": "sabinesabine",
+            "uid": "pSabrer215"
+        },
+        {
+            "label": "person",
+            "location": "Amsterdam/Netherlands",
+            "name": "Anne Helmond",
+            "text": "Assistant Professor of New Media and Digital Culture, University of Amsterdam.",
+            "twitter": "silvertje",
+            "uid": "pAnnond166",
+            "webpage": "annehelmond.nl"
+        },
+        {
+            "label": "person",
+            "name": "Carolin Gerlitz",
+            "text": "Professor Digital Media & Methods, @UniSiegen, currently fellow @CIMethods",
+            "twitter": "cgritz",
+            "uid": "pCaritz155"
+        },
+        {
+            "label": "person",
+            "name": "Fernando van der Vlist",
+            "text": "Doctoral researcher, @mediaofcoop @digitalmethods @appstudies; Lecturer New Media & Digital Culture, @UvA_Amsterdam; #software #digitalmethods #platforms #apps",
+            "twitter": "fvandervlist",
+            "uid": "pFerist245",
+            "webpage": "fernandovandervlist.nl"
+        },
+        {
+            "label": "person",
+            "name": "Erik K Borra",
+            "text": "Assistant professor in Journalism and New Media. Technical director of the Digital Methods Initiative.",
+            "twitter": "ekborra",
+            "uid": "pErirra145"
+        },
+        {
+            "label": "person",
+            "name": "Bernhard Rieder",
+            "text": "amsterdam university; lisboa; ??; history & politics of software & algorithms; digital methods; systematic doubt; benevolent misanthrope; en/fr/de/pt/nl",
+            "twitter": "RiederB",
+            "uid": "pBerder225",
+            "webpage": "thepoliticsofsystems.net"
+        },
+        {
+            "label": "person",
+            "name": "Anders Kristian Munk",
+            "text": "researcher",
+            "twitter": "AndersKMunk",
+            "uid": "pAndunk70"
+        },
+        {
+            "label": "person",
+            "name": "Andreas Birkbak",
+            "text": "researcher",
+            "twitter": "communaut",
+            "uid": "pAndbak64"
+        },
+        {
+            "label": "person",
+            "name": "Anders Koed Madsen",
+            "text": "researcher",
+            "uid": "pAndsen36"
+        },
+        {
+            "label": "person",
+            "name": "Torben Elgaard Jensen",
+            "twitter": "TorbenElg",
+            "uid": "pTorsen53"
+        },
+        {
+            "label": "report",
+            "name": "Digitale metoder",
+            "text": "En praktisk indf\u00f8ring i, hvad det vil sige at arbejde med digitalt f\u00f8dte data. ISBN:9788741258218",
+            "uid": "rDigMetoder"
+        },
+        {
+            "label": "person",
+            "location": "Paris/France",
+            "name": "Lionel Villard",
+            "text": "I teach at @ESIEEPARIS (database, dataviz, GIS, Mapping controversies), and I am a member of IFRIS (Science and Technologie Studies)",
+            "twitter": "ScTechViz",
+            "uid": "pLioard235",
+            "webpage": "sciences-technologies.eu/en"
+        },
+        {
+            "facebook": "kennethdollerup",
+            "label": "person",
+            "location": "Copenhagen/Denmark",
+            "name": "Kenneth Dollerup",
+            "text": "Cand.scient in #TechnoAnthropology. Interested in #Politics, #DKpol, #Technology, #PublicEngagement, #DigitalMethods, #Research",
+            "twitter": "kennethdolle",
+            "uid": "pKenrup219"
+        },
+        {
+            "label": "person",
+            "name": "Noortje Marres",
+            "text": "Associate Professor in social theory, STS, digital sociology, experiments at CIM (University of Warwick)",
+            "twitter": "NoortjeMarres",
+            "uid": "pNoores231",
+            "webpage": "noortjemarres.net"
+        },
+        {
+            "label": "university",
+            "name": "Politecnico di Milano Design Department",
+            "uid": "uPolMil"
+        },
+        {
+            "label": "university",
+            "location": "Milano/Italy",
+            "name": "Density Design",
+            "text": "Department of Design PoliMilano",
+            "twitter": "densitydesign",
+            "uid": "uDeDe",
+            "webpage": "densitydesign.org"
+        },
+        {
+            "label": "person",
+            "name": "Paolo Ciuccarelli",
+            "twitter": "pciuccarelli",
+            "uid": "pPaolli59"
+        },
+        {
+            "email": "michele.mauri@polimi.it",
+            "label": "person",
+            "linkedin": "michelemauri",
+            "name": "Michele Mauri",
+            "text": "Do stuff @densitydesign",
+            "twitter": "mikima",
+            "uid": "pMicuri190",
+            "webpage": "densitydesign.org/person/michele-mauri/"
+        },
+        {
+            "label": "business",
+            "location": "Milan/Italy",
+            "name": "DataInterfaces",
+            "text": "Consultancy",
+            "uid": "bDataInter",
+            "webpage": "datainterfaces.org"
+        },
+        {
+            "label": "person",
+            "name": "Marco Quaggiotto",
+            "text": "Principal Investigator",
+            "uid": "pMartto60"
+        },
+        {
+            "label": "university",
+            "location": "Toriono/Italy",
+            "name": "ISI foundation",
+            "text": "Institute for scientific exchange",
+            "twitter": "ISI_Fondazione",
+            "uid": "uISI",
+            "webpage": "isi.it"
+        },
+        {
+            "label": "organisation",
+            "name": "SocioPatterns",
+            "twitter": "sociopatterns",
+            "uid": "oSocPat",
+            "webpage": "sociopatterns.org"
+        },
+        {
+            "label": "person",
+            "name": "Ciro Cattuto",
+            "text": "Scientic Director",
+            "twitter": "ciro",
+            "uid": "pCiruto87",
+            "webpage": "cirocattuto.info"
+        },
+        {
+            "label": "university",
+            "location": "Vitoria/Brazil",
+            "name": "Labic Ufes",
+            "text": "Laboratorio de Estudos sobre Imagem e Cibercultura da Universidade Federal do Esp\u00edrito Santo (Ufes).",
+            "twitter": "ufeslabic",
+            "uid": "uLabic",
+            "webpage": "labic.net"
+        },
+        {
+            "label": "tool",
+            "name": "Cortext",
+            "uid": "tCortext",
+            "webpage": "cortext.net"
+        },
+        {
+            "label": "university",
+            "name": "INRA",
+            "uid": "uINRA",
+            "webpage": "inria.fr"
+        },
+        {
+            "label": "university",
+            "name": "DANTE",
+            "uid": "uDANTE",
+            "webpage": "team.inria.fr/dante/"
+        },
+        {
+            "label": "university",
+            "name": "LISIS",
+            "text": "LISIS is an interdisciplinary research laboratory dedicated to the study of science and innovation in societies.",
+            "uid": "uLISIS",
+            "webpage": "umr-lisis.fr"
+        },
+        {
+            "label": "person",
+            "location": "Paris/France",
+            "name": "Marc Barbier",
+            "text": "Research Director at Inra & #lisis Director of CorTexT Platform of LISIS & Co-Editor of the Revue d'Anthropologie des Connaissances #chercheur #inra #CorTexT",
+            "twitter": "mbarbier64",
+            "uid": "pMarier266",
+            "webpage": "umr-lisis.fr/membre/marc-barbier/"
+        },
+        {
+            "label": "person",
+            "name": "Jean-Philippe Cointet",
+            "twitter": "jphcoi",
+            "uid": "pJeatet83"
+        },
+        {
+            "label": "keyword",
+            "name": "Coders",
+            "uid": "kCode"
+        },
+        {
+            "label": "event",
+            "name": "FOSDEM",
+            "text": "A two-day event organised by volunteers to promote the widespread use of free and open source software.",
+            "uid": "eFOSDEM"
+        },
+        {
+            "label": "event",
+            "location": "Brussels/Belgium",
+            "name": "GraphDevroom",
+            "text": "The FOSDEM 2015 GraphDevroom is a free and non-commercial event organized by the graph community, for the graph community.",
+            "twitter": "GraphDevroom",
+            "uid": "eGraphRoom",
+            "webpage": "graphdevroom.org"
+        },
+        {
+            "label": "community",
+            "name": "Investigative Journalism",
+            "text": "Critical investigators with an international mindset",
+            "uid": "cJour"
+        },
+        {
+            "label": "report",
+            "name": "The Data Jounalism Handbook",
+            "uid": "rDataJ"
+        },
+        {
+            "label": "university",
+            "location": "Columbia/USA",
+            "name": "The Tow Center for Digital Journalism",
+            "uid": "uTow",
+            "webpage": "towcenter.org"
+        },
+        {
+            "label": "organisation",
+            "location": "Paris/France",
+            "name": "Global Editors Network",
+            "twitter": "GENinnovate",
+            "uid": "oGen",
+            "webpage": "globaleditorsnetwork.org"
+        },
+        {
+            "label": "report",
+            "name": "Panama Papers",
+            "uid": "rPanPap"
+        },
+        {
+            "label": "university",
+            "name": "Stanford Journalism",
+            "uid": "uStaism53",
+            "webpage": "journalism.stanford.edu"
+        },
+        {
+            "label": "university",
+            "location": "Berkeley/USA",
+            "name": "BIDS",
+            "text": "Berkeley Institute for Data Science",
+            "twitter": "UCBIDS",
+            "uid": "uBIDS",
+            "webpage": "bids.berkeley.edu"
+        },
+        {
+            "label": "university",
+            "name": "CSTMS",
+            "text": "Center for Science, Technology, Medicine and Society",
+            "uid": "uCSTTMS97",
+            "webpage": "cstms.berkeley.edu"
+        },
+        {
+            "label": "organisation",
+            "location": "Washington/USA",
+            "name": "ICIJ",
+            "text": "International Consortium of Investigative Journalists",
+            "twitter": "ICIJorg",
+            "uid": "oIcij",
+            "webpage": "icij.org"
+        },
+        {
+            "label": "organisation",
+            "name": "Investigative Reporters and Editors",
+            "text": "Members only access",
+            "uid": "oIre",
+            "webpage": "ire.org"
+        },
+        {
+            "label": "organisation",
+            "name": "OCCRP",
+            "text": "The Organized Crime & Corruption Reporting Project is reinventing and reinvigorating investigative journalism.",
+            "twitter": "OCCRP",
+            "uid": "oOCCRP",
+            "webpage": "occrp.org"
+        },
+        {
+            "label": "person",
+            "name": "Friedrich Lindenberg",
+            "text": "Data guy and leak librarian. Working on tools for investigative reporting @occrp.",
+            "twitter": "pudo",
+            "uid": "pFrierg153",
+            "webpage": "pudo.org"
+        },
+        {
+            "label": "person",
+            "name": "Iain Collins",
+            "text": "Hack/Hacker. Likes intersectionality, vegetables, otters. On secondment (London to Sarajevo) to work on investigative reporting tools. Director @glitchdigital",
+            "twitter": "iaincollins",
+            "uid": "pIaiins224",
+            "webpage": "iaincollins.com"
+        },
+        {
+            "label": "person",
+            "name": "Jonathan Albright",
+            "text": "@TowCenter at @Columbia, @BKCHarvard faculty associate. Media, technology & culture",
+            "twitter": "d1gi",
+            "uid": "pJonght146",
+            "webpage": "medium.com/@d1gi"
+        },
+        {
+            "label": "person",
+            "linkedin": "manuelvilla1859",
+            "location": "New_York/USA",
+            "name": "Manuel Villa",
+            "text": "Data journalist @MarshallProj. Former @neo4j data fellow at @ICIJorg. @ColumbiaJourn alumni. Two decades in Tokyo, Mexico City & NYC.",
+            "twitter": "ManuelVilla1859",
+            "uid": "pManlla227"
+        },
+        {
+            "label": "person",
+            "name": "Mar Cabra",
+            "twitter": "cabralens",
+            "uid": "pMarbra48"
+        },
+        {
+            "gplus": "plus.google.com/108207796400897790234",
+            "label": "person",
+            "name": "Julien Martin",
+            "uid": "pJultin70"
+        },
+        {
+            "label": "person",
+            "name": "Liliana Bounegru",
+            "text": "Data Journalist",
+            "twitter": "bb_liliana",
+            "uid": "pLiBo",
+            "webpage": "lilianabounegru.org"
+        },
+        {
+            "label": "person",
+            "name": "Jonathan Gray",
+            "twitter": "jwyg",
+            "uid": "pGray",
+            "webpage": "jonathangray.org"
+        },
+        {
+            "label": "person",
+            "location": "Berlin/Germany",
+            "name": "Lucy Chambers",
+            "twitter": "lucyfedia",
+            "uid": "pLucers96",
+            "webpage": "techtohuman.com"
+        },
+        {
+            "email": "ebell@columbia.edu",
+            "label": "person",
+            "name": "Emily Bell",
+            "text": "Founding director",
+            "twitter": "emilybell",
+            "uid": "pEmiell80"
+        },
+        {
+            "github": "tomwills",
+            "label": "person",
+            "name": "Tom Wills",
+            "text": "Data Journalism Editor at The Times",
+            "twitter": "TomWills",
+            "uid": "pTomlls101",
+            "webpage": "tomwills.net"
+        },
+        {
+            "label": "person",
+            "name": "Heather Krause",
+            "text": "Data Science and Information design. Non-profits and journalism",
+            "twitter": "datassist",
+            "uid": "pHeause117",
+            "webpage": "idatassist.com"
+        },
+        {
+            "label": "person",
+            "location": "Birmingham/UK",
+            "name": "Paul Bradshaw",
+            "text": "Run the MA Data Journalism + MA Multiplatform and Mobile Journalism",
+            "twitter": "paulbradshaw",
+            "uid": "pPauhaw148",
+            "webpage": "onlinejournalismblog.com"
+        },
+        {
+            "blog": "blog.noelmas.net",
+            "label": "person",
+            "location": "London/UK",
+            "name": "Sam Leon",
+            "text": "Data journalist at Global Witness. Views my own.",
+            "twitter": "noeL_maS",
+            "uid": "pNoel"
+        },
+        {
+            "label": "person",
+            "location": "New_York/USA",
+            "name": "Jonathan Stray",
+            "text": "Computational journalist, researching, reporting, and teaching at @columbiajourn. Former @AP. Now building @cjworkbench.",
+            "twitter": "jonathanstray",
+            "uid": "pJonray210",
+            "webpage": "jonathanstray.com"
+        },
+        {
+            "label": "organisation",
+            "location": "Cambridge/USA",
+            "name": "Nieman Lab",
+            "text": "We are the Nieman Journalism Lab at Harvard. We're trying to figure out the future of news.",
+            "twitter": "NiemanLab",
+            "uid": "oNieLab155",
+            "webpage": "niemanlab.org"
+        },
+        {
+            "label": "tool",
+            "name": "Workbench",
+            "text": "Collaborative data workflow for journalists",
+            "twitter": "cjworkbench",
+            "uid": "tCJwork",
+            "webpage": "cjworkbench.org"
+        },
+        {
+            "label": "keyword",
+            "name": "Internet and New Media",
+            "uid": "kIntMed"
+        },
+        {
+            "label": "university",
+            "location": "Brisbane/Australia",
+            "name": "QUT Digital Media Research Centre",
+            "text": "World-leading research for a creative, inclusive and fair digital media environment.",
+            "twitter": "qutdmrc",
+            "uid": "uQUT",
+            "webpage": "research.qut.edu.au/dmrc/"
+        },
+        {
+            "blog": "snurb.info",
+            "label": "person",
+            "location": "Brisbane/Australia",
+            "name": "Axel Bruns",
+            "text": "Social media and journalism researcher at http://bit.ly/qutdmrc  - views are my own",
+            "twitter": "snurb_dot_info",
+            "uid": "pAxeuns202",
+            "webpage": "mappingonlinepublics.net"
+        },
+        {
+            "label": "person",
+            "location": "Brisbane/Australia",
+            "name": "Jean Burgess",
+            "text": "Professor of Digital Media & Director, QUT Digital Media Research Centre @qutdmrc. Enjoys various popular amusements, holds personal views, tweets about them.",
+            "twitter": "jeanburgess",
+            "uid": "pJeaess262",
+            "webpage": "mappingonlinepublics.net"
+        },
+        {
+            "label": "person",
+            "location": "Tel-Aviv/Israel",
+            "name": "Anat Ben-David",
+            "researchgate": "Anat_Ben-David",
+            "text": "Senior lecturer, Sociology, Political Science and Commnication & head of OMILab, The Open University of Israel.",
+            "twitter": "anatbd",
+            "uid": "pAnavid211",
+            "webpage": "anatbendavid.info"
+        },
+        {
+            "label": "university",
+            "name": "OMILab",
+            "text": "Open Media and Information Lab, The Open University of Israel",
+            "twitter": "OmilabOpenu",
+            "uid": "uOMI",
+            "webpage": "openu.ac.il/en/omilab"
+        },
+        {
+            "blog": "ecolabsblog.com",
+            "label": "person",
+            "location": "London/UK",
+            "name": "Joanna Boehnert",
+            "text": "Visual communication design of the environment",
+            "twitter": "Ecocene",
+            "uid": "pJoaert114"
+        },
+        {
+            "label": "organisation",
+            "linkedin": "company/frameworks-institute",
+            "location": "Washington/USA",
+            "name": "FrameWorks Institute",
+            "text": "We conduct original communications research to help advocates reframe social issues.",
+            "twitter": "FrameWorksInst",
+            "uid": "oFraute208",
+            "webpage": "frameworksinstitute.org"
+        },
+        {
+            "label": "event",
+            "name": "MozFest",
+            "text": "Festival for the open Internet movement",
+            "twitter": "mozillafestival",
+            "uid": "eMoz",
+            "webpage": "mozillafestival.org"
+        },
+        {
+            "label": "keyword",
+            "name": "Internet Policy",
+            "uid": "kIntPol"
+        },
+        {
+            "label": "organisation",
+            "name": "Influence Mapping",
+            "text": "Creating a global network of influence mapping projects",
+            "twitter": "MapInfluence",
+            "uid": "oInfMap",
+            "webpage": "influencemapping.org"
+        },
+        {
+            "label": "organisation",
+            "name": "PublicDataLab",
+            "twitter": "PublicDataLab",
+            "uid": "oPubLab",
+            "webpage": "publicdatalab.org"
+        },
+        {
+            "label": "organisation",
+            "location": "France",
+            "name": "Regards Citoyens",
+            "text": "Notamment \u00e0 l'origine de NosD\u00e9put\u00e9s.fr, notre collectif vise \u00e0 utiliser un maximum de donn\u00e9es publiques pour alimenter le d\u00e9bat politique. #OpenData",
+            "twitter": "RegardsCitoyens",
+            "uid": "oRegCit",
+            "webpage": "RegardsCitoyens.org"
+        },
+        {
+            "label": "person",
+            "name": "School of Data",
+            "text": "Teaching data wrangling skills by doing. Work with real data, real people, real world issues.",
+            "twitter": "SchoolOfData",
+            "uid": "pSchata152",
+            "webpage": "schoolofdata.org"
+        },
+        {
+            "label": "organisation",
+            "name": "AoIR",
+            "text": "The Association of Internet Researchers is an academic association dedicated to the advancement of the cross-disciplinary field of Internet studies.",
+            "twitter": "AoIR_org",
+            "uid": "oAoIoIR185",
+            "webpage": "aoir.org"
+        },
+        {
+            "label": "organisation",
+            "location": "Brooklyn/USA",
+            "name": "DataKind",
+            "text": "Harnessing the power of data science in the service of humanity.",
+            "twitter": "DataKind",
+            "uid": "oDatind125",
+            "webpage": "datakind.org"
+        },
+        {
+            "facebook": "OKFNetwork",
+            "label": "organisation",
+            "name": "Open Knowledge Foundation",
+            "text": "Community coordinator",
+            "twitter": "OKFN",
+            "uid": "oOpenKnow",
+            "webpage": "okfn.org"
+        },
+        {
+            "label": "organisation",
+            "name": "Opendata.ch",
+            "text": "Swiss section of OKFN",
+            "uid": "oOpeach71",
+            "webpage": "opendata.ch/"
+        },
+        {
+            "blog": "medium.com/@opencorporates",
+            "label": "organisation",
+            "name": "Open Corporates",
+            "text": "OpenCorporates is the largest open database of companies and company data in the world",
+            "twitter": "opencorporates.com",
+            "uid": "oOpenCorp",
+            "webpage": "opencorporates.com"
+        },
+        {
+            "label": "organisation",
+            "location": "London/UK",
+            "name": "Open Data Institute",
+            "text": "Knowledge for everyone.",
+            "twitter": "ODIHQ",
+            "uid": "oOpeute98",
+            "webpage": "theodi.org"
+        },
+        {
+            "label": "person",
+            "location": "Brooklyn/USA",
+            "name": "Alicia Powers",
+            "text": "Public good focused, insight-driven Data Scientist; proud persistent.",
+            "twitter": "apowers411",
+            "uid": "pAliers155",
+            "webpage": "noodle.com"
+        },
+        {
+            "blog": "webfoundation.org/research-publications",
+            "facebook": "webfoundation",
+            "label": "organisation",
+            "location": "Cape_Town/South_Africa",
+            "name": "The Web Foundation",
+            "text": "All of the people, all of the internet, all of the time. Working for digital equality #ForEveryone. Founded by Sir @timberners_lee, inventor of the web.",
+            "twitter": "webfoundation",
+            "uid": "oWebFound",
+            "webpage": "webfoundation.org"
+        },
+        {
+            "label": "organisation",
+            "name": "European Data Portal",
+            "text": "The European Data Portal harvests the metadata of Public Sector Information available on public data portals across all European countries #OpenData",
+            "twitter": "EU_DataPortal",
+            "uid": "oEurtal219",
+            "webpage": "europeandataportal.eu"
+        },
+        {
+            "label": "person",
+            "location": "Toronto/Ontario",
+            "name": "James McKinney",
+            "text": "@opencontracting team, @OpenNorth founder, http://www.opengovdialogue.ca  organizer",
+            "twitter": "mckinneyjames",
+            "uid": "pJamney205",
+            "webpage": "jamespetermckinney.com"
+        },
+        {
+            "label": "organisation",
+            "location": "Canada",
+            "name": "Open North",
+            "text": "For better, more open democracy #opendata #opengov #opensmartcities #OGP #citizenbudget #civictech #openparl #opendatacharter #systemschange #commons",
+            "twitter": "opennorth",
+            "uid": "oNorth",
+            "webpage": "opennorth.ca"
+        },
+        {
+            "github": "jmatsushita",
+            "label": "person",
+            "name": "Jun Matsushita",
+            "text": "Bridging creative/constructive, in human/organisational/technological development. http://iilab.org  @iilab @openintegrity @ict4i",
+            "twitter": "jmatsushita",
+            "uid": "pJunita193"
+        },
+        {
+            "label": "organisation",
+            "location": "Berlin/Germany",
+            "name": "iilab",
+            "text": "information innovation lab - delivers Innovative Technology for Social Impact - https://iilab.org  https://panicbutton.io  https://openintegrity.org",
+            "twitter": "iilab",
+            "uid": "oIiLab",
+            "webpage": "iilab.org"
+        },
+        {
+            "label": "person",
+            "location": "Delft/Netherlands",
+            "name": "Jeroen van den hoven",
+            "text": "Professor Delft University of Technology; Ethics and Technology",
+            "twitter": "hoven_j",
+            "uid": "pJerven159",
+            "webpage": "jeroenvandenhoven.nl"
+        },
+        {
+            "label": "community",
+            "name": "Digital Humanities",
+            "uid": "cDigHum"
+        },
+        {
+            "label": "community",
+            "name": "Nordic Digital Humanities",
+            "uid": "cNorHum"
+        },
+        {
+            "label": "person",
+            "location": "Philadelphia/USA",
+            "name": "Sandra Gonz\u00e1lez Bail\u00f3n",
+            "text": "sociologist, faculty @AnnenbergPenn, research associate @oiioxford, world citizen, research: http://dimenet.asc.upenn.edu  | unpredictable stuff: stay tuned",
+            "twitter": "sgonzalezbailon",
+            "uid": "pSaniln237"
+        },
+        {
+            "blog": "programminghistorian.org/blog",
+            "label": "organisation",
+            "name": "Programming Historian",
+            "text": "International network of digital humanists. Aims to offer quality tutorials",
+            "uid": "oProian165",
+            "webpage": "programminghistorian.org"
+        },
+        {
+            "label": "university",
+            "name": "Centre for Digital History",
+            "text": "C2DH: Luxembourg Centre for Contemporary and Digital History",
+            "uid": "uC2dh",
+            "webpage": "c2dh.uni.lu"
+        },
+        {
+            "label": "event",
+            "name": "Digital Humanities Awards",
+            "text": "Highlightning Resources in Digital Humanities",
+            "uid": "eDigrds95",
+            "webpage": "dhawards.org"
+        },
+        {
+            "facebook": "DLabAtBerkeley",
+            "label": "university",
+            "location": "Berkeley/USA",
+            "name": "D-Lab",
+            "text": "Data Intensive Social Science for All.",
+            "twitter": "DLabAtBerkeley",
+            "uid": "uDLAB",
+            "webpage": "dlab.berkeley.edu"
+        },
+        {
+            "label": "event",
+            "name": "Digging into data challenge",
+            "text": "Yearly competition",
+            "uid": "eDignge78",
+            "webpage": "diggingintodata.org/"
+        },
+        {
+            "label": "university",
+            "location": "Warwick/UK",
+            "name": "Data Science Lab",
+            "text": "Warwick Business School",
+            "twitter": "thedatascilab",
+            "uid": "uDataWar"
+        },
+        {
+            "label": "university",
+            "location": "London/UK",
+            "name": "Kings College - Digital Humanities",
+            "text": "World-leading department at King\u2019s College London for critical inquiry with and about the digital.",
+            "twitter": "kingsdh",
+            "uid": "uKing",
+            "webpage": "kcl.ac.uk/ddh"
+        },
+        {
+            "label": "person",
+            "location": "Barcelona/Spain",
+            "name": "Pablo Arag\u00f3n",
+            "text": "Researcher at @DTIC_UPF @eurecat_news @decidimbcn @participa_LAB @DatAnalysis15M on #computationalsocialscience #socialsystems #technopolitics #dataviz #sna",
+            "twitter": "elaragon",
+            "uid": "pPabagn245",
+            "webpage": "elaragon.wordpress.com"
+        },
+        {
+            "label": "university",
+            "location": "London/UK",
+            "name": "Alan Turing Institute",
+            "text": "UK's national institute for data science",
+            "twitter": "turinginst",
+            "uid": "uAlanTur",
+            "webpage": "turing.ac.uk"
+        },
+        {
+            "facebook": "grandjean.data",
+            "label": "person",
+            "name": "Martin Grandjean",
+            "text": "Researcher Universitly of Lausanne",
+            "twitter": "GrandjeanMartin",
+            "uid": "pGrandJean",
+            "webpage": "martingrandjean.ch"
+        },
+        {
+            "label": "university",
+            "location": "Lausanne/Switzerland",
+            "name": "DHLAB @ EPFL",
+            "text": "Digital Humanities Laboratory at EPFL",
+            "uid": "uEpflLab",
+            "webpage": "dhlab.epfl.ch"
+        },
+        {
+            "label": "person",
+            "name": "Frederic Kaplan",
+            "uid": "pFrelan34"
+        },
+        {
+            "label": "person",
+            "name": "Dario Rodighiero",
+            "text": "PhD thesis about affinity mapping in science",
+            "twitter": "dariorodighiero",
+            "uid": "pDarero110"
+        },
+        {
+            "label": "university",
+            "name": "The Oxford Internet Institute",
+            "text": "A multidisciplinary research and teaching department of the University of Oxford, dedicated to the social science of the Internet.",
+            "twitter": "oiioxford",
+            "uid": "uOxInt",
+            "webpage": "oii.ox.ac.uk"
+        },
+        {
+            "email": "zephoria@zephoria.org",
+            "label": "person",
+            "location": "New_York/USA",
+            "name": "Danah Boyd",
+            "text": "sociotechnical researcher | Microsoft Research, Data & Society (@datasociety)",
+            "twitter": "zephoria",
+            "uid": "pDanoyd162",
+            "webpage": "danah.org"
+        },
+        {
+            "label": "university",
+            "name": "Digital Ethics Lab",
+            "text": "'Every Bit as Good'",
+            "twitter": "oxfordethicslab",
+            "uid": "uDigLab109",
+            "webpage": "digitalethicslab.oii.ox.ac.uk"
+        },
+        {
+            "label": "university",
+            "name": "Cph Centre for Social Data Science",
+            "text": "Copenhagen Centre for Social Data Science at University of Copenhagen",
+            "uid": "uSodas",
+            "webpage": "sodas.ku.dk"
+        },
+        {
+            "facebook": "EthosITU",
+            "instagram": "ethositu",
+            "label": "university",
+            "name": "Ethos Lab",
+            "text": "Ethos lab at IT university of Copenhagen",
+            "twitter": "ethosITU",
+            "uid": "uITUlab",
+            "webpage": "ethos.itu.dk"
+        },
+        {
+            "label": "person",
+            "location": "Denmark",
+            "name": "Brit Ross Wintheriek",
+            "text": "Social and cultural aspects of big data",
+            "twitter": "britwinthereik",
+            "uid": "pBriiek108"
+        },
+        {
+            "label": "university",
+            "location": "Aarhus/Denmark",
+            "name": "DigHumLab",
+            "text": "Promotion of digital resources and tools with Danish Universities",
+            "twitter": "DIGHUMLAB",
+            "uid": "uDigHumLab",
+            "webpage": "dighumlab.org"
+        },
+        {
+            "label": "university",
+            "location": "Aarhus/Denmark",
+            "name": "NetLab",
+            "text": "A research infrastructure community for the study of internet materials.",
+            "twitter": "NetLab_dk",
+            "uid": "uNetLab",
+            "webpage": "netlab.dk"
+        },
+        {
+            "label": "person",
+            "location": "Aarhus/Denmark",
+            "name": "Niels Brugger",
+            "text": "Internet research, web history, Digital Humanities. Professor, Aarhus University, in Internet studies and Digital Humanities",
+            "twitter": "NielsBr",
+            "uid": "pNielsBr",
+            "webpage": "imv.au.dk/~nb"
+        },
+        {
+            "label": "university",
+            "name": "AU DataLab",
+            "text": "AU Datalab brings together researchers from arts, business and social sciences, and computer science.",
+            "uid": "uDatLab",
+            "webpage": "datalab.au.dk"
+        },
+        {
+            "label": "person",
+            "location": "Denmark",
+            "name": "Anja Bechmann",
+            "text": "Assoc. Prof. + Research Director AU DATAlab/aff. UCI EVOKE LAB. Head of Digital Footprints Research Group.",
+            "twitter": "anjabechmann",
+            "uid": "pAnjann167"
+        },
+        {
+            "label": "keyword",
+            "name": "Psychometrics",
+            "text": "Analysing human behaviour with big data",
+            "uid": "kPsy"
+        },
+        {
+            "label": "university",
+            "location": "Cambridge/UK",
+            "name": "Psychometrics Centre",
+            "text": "The University of Cambridge Psychometrics Centre is an international centre of excellence in psychological, occupational, clinical and educational assessment.",
+            "twitter": "CamPsych",
+            "uid": "uPsy",
+            "webpage": "psychometrics.cam.ac.uk"
+        },
+        {
+            "label": "person",
+            "name": "David Stillwell",
+            "text": "Lecturer in Big Data Analytics and Quantitative Social Science at Cambridge University Judge Business School.",
+            "twitter": "david_stillwell",
+            "uid": "pDavell184",
+            "webpage": "davidstillwell.co.uk"
+        },
+        {
+            "github": "ulfaslak",
+            "label": "person",
+            "name": "Ulf Aslak",
+            "twitter": "ulfaslak",
+            "uid": "pUlflak78",
+            "webpage": "ulfaslak.com"
+        },
+        {
+            "label": "person",
+            "name": "Suzy Moat",
+            "text": "Investigating whether online data predicts human behaviour",
+            "twitter": "suzymoat",
+            "uid": "pSuzoat100"
+        },
+        {
+            "label": "keyword",
+            "name": "Tech for Good",
+            "uid": "kTechGood"
+        },
+        {
+            "label": "keyword",
+            "name": "Innovation Management",
+            "uid": "kInnMan"
+        },
+        {
+            "label": "keyword",
+            "name": "Service Design",
+            "uid": "kSerDes"
+        },
+        {
+            "facebook": "datapopalliance",
+            "label": "organisation",
+            "name": "Data-Pop Alliance",
+            "text": "Global coalition on Big Data and development",
+            "twitter": "datapopalliance",
+            "uid": "oDataPop",
+            "webpage": "datapopalliance.org/about/people/"
+        },
+        {
+            "label": "organisation",
+            "location": "Stockholm/Sweden",
+            "name": "Flowminder",
+            "text": "Providing priceless information for free for the benefit of those who need it the most.",
+            "twitter": "flowminder",
+            "uid": "oFlowMinder",
+            "webpage": "flowminder.org"
+        },
+        {
+            "email": "delab@uw.edu.pl",
+            "label": "university",
+            "location": "Warszawa/Poland",
+            "name": "DELab UW",
+            "text": "Interdisciplinary research laboratory at the University of Warsaw @uniwarszawski. #Digital #transformation for the purposes of the society development.",
+            "twitter": "DELabUW",
+            "uid": "uDELbUW257",
+            "webpage": "delab.uw.edu.pl"
+        },
+        {
+            "label": "project",
+            "location": "Brussels/Belgium",
+            "name": "NGI4eu - Engineroom",
+            "text": "The Next Generation Internet initiative by the @DSMeu of the @EU_Commission! #NGI4eu #nextgenerationinternet",
+            "twitter": "NGI4eu",
+            "uid": "jNGI",
+            "webpage": "ngi.eu"
+        },
+        {
+            "label": "organisation",
+            "location": "London/UK",
+            "name": "NESTA",
+            "text": "We are an innovation foundation. We back new ideas to tackle the big challenges of our time.",
+            "twitter": "nesta_uk",
+            "uid": "oNesta",
+            "webpage": "nesta.org.uk"
+        },
+        {
+            "blog": "medium.com/@wearecast",
+            "label": "organisation",
+            "name": "CAST",
+            "twitter": "TechforgoodCAST",
+            "uid": "oCASAST86",
+            "webpage": "wearecast.org.uk"
+        },
+        {
+            "label": "organisation",
+            "name": "DSI4EU",
+            "text": "We support digital social innovation across Europe.",
+            "twitter": "DSI4EU",
+            "uid": "oDSI4EU",
+            "webpage": "digitalsocial.eu"
+        },
+        {
+            "label": "organisation",
+            "name": "EdgeRyders",
+            "text": "Distributed think tank. Open community of activists, hackers, social innovators, artists, makers, radical thinkers changing the world.",
+            "twitter": "edgeryders",
+            "uid": "oEdgeRyders",
+            "webpage": "edgeryders.eu"
+        },
+        {
+            "label": "organisation",
+            "name": "DESIS",
+            "text": "The international no profit association on design for social innovation and sustainability based in several design schools in the world.",
+            "twitter": "desisnetwork",
+            "uid": "oDESIS",
+            "webpage": "desis-network.org"
+        },
+        {
+            "facebook": "Open4Citizens",
+            "label": "project",
+            "name": "Open4Citizens",
+            "text": "O4C involves citizens into a co-design process (hackathons) to develop new services based on the use of Open Data.",
+            "twitter": "Open4Citizens",
+            "uid": "jOpen4",
+            "webpage": "open4citizens.eu"
+        },
+        {
+            "label": "organisation",
+            "location": "London/UK",
+            "name": "Superflux",
+            "text": "Translating future uncertainties into present day choices. Co-founders @anabjain @jonardern",
+            "twitter": "Superflux",
+            "uid": "oSuplux149",
+            "webpage": "superflux.in"
+        },
+        {
+            "label": "person",
+            "location": "Milan/Italy",
+            "name": "Zoe Romano",
+            "text": "philosophy background - into open design - wearables - social innovation - Agile Fashion - craftivist - co-founder @wemakecc, Openwear.eu, working at @Dsi4EU",
+            "twitter": "zoescope",
+            "uid": "pZoeano229",
+            "webpage": "zoescope.wordpress.com"
+        },
+        {
+            "label": "person",
+            "linkedin": "albertocottica",
+            "location": "Bruxelles/Belgium",
+            "name": "Alberto Cottica",
+            "text": "Economist, musician, European citizen online. Runner. Data scientist-in-training.",
+            "twitter": "alberto_cottica",
+            "uid": "pAlbica186",
+            "webpage": "alberto.cottica.net"
+        },
+        {
+            "label": "person",
+            "location": "London/UK",
+            "name": "Hilary Cottam",
+            "text": "Re Designing the Welfare State @TEDtalks: http://bit.ly/1M7zQV8  Practicing Social Innovation.",
+            "twitter": "HilaryCottam",
+            "uid": "pHiltam163",
+            "webpage": "hilarycottam.com"
+        },
+        {
+            "label": "organisation",
+            "location": "London/UK",
+            "name": "The Young Foundation",
+            "twitter": "the_young_fdn",
+            "uid": "oYoung",
+            "webpage": "youngfoundation.org"
+        },
+        {
+            "email": "juan.mateos-garcia@nesta.org.uk",
+            "label": "person",
+            "linkedin": "juanmateosgarcia",
+            "location": "Brighton/UK",
+            "name": "Juan Mateos Garcia",
+            "text": "Head of Innovation Mapping at @nesta_uk. Data science for innovation & industrial policy, economics, #Python, sci-fi, video + board games. @xxjfg associate",
+            "twitter": "JMateosGarcia",
+            "uid": "pJuacia299"
+        },
+        {
+            "github": "jaklinger",
+            "label": "person",
+            "linkedin": "joel-klinger-70007464",
+            "name": "Joel Klinger",
+            "text": "I currently work as a Data Developer at Nesta, where I develop sophisticated data pipelines using cloud technologies coupled with machine learning techniques.",
+            "uid": "pJoeger227"
+        },
+        {
+            "blog": "kstathou.github.io",
+            "label": "person",
+            "location": "London/UK",
+            "name": "Konstantinos Stathoulopoulos",
+            "text": "Konstantinos is working as a Data Science Researcher on Nesta's Research Analysis and Policy team. He is interested in analysing complex datasets and answering policy questions using machine learning.",
+            "twitter": "kstathou",
+            "uid": "pKonlos304"
+        },
+        {
+            "label": "person",
+            "location": "London/UK",
+            "name": "Geoff Mulgan",
+            "text": "Chief Exec of Nesta, writer, social entrepreneur, policy geek.",
+            "twitter": "geoffmulgan",
+            "uid": "pGeogan132"
+        },
+        {
+            "label": "person",
+            "location": "London/UK",
+            "name": "Chris Haley",
+            "text": "Innovation, tech futures & policy. Currently head of startups and new technology research at Nesta, the innovation foundation. Also on http://Gab.ai.",
+            "twitter": "cdh1001",
+            "uid": "pChrley228"
+        },
+        {
+            "label": "person",
+            "name": "Ezio Manzini",
+            "text": "Professor of Industrial Design at Milan Polytechnic",
+            "uid": "pEziini94"
+        },
+        {
+            "label": "university",
+            "name": "AAU - Architecture, Design and Media Technology",
+            "text": "Department of Architecture, Design and Media Technology - Aalborg University",
+            "uid": "uAAUdesign"
+        },
+        {
+            "blog": "nicomorelli.wordpress.com",
+            "label": "person",
+            "location": "Denmark",
+            "name": "Nicola Morelli",
+            "text": "Service Design Professor at Aalborg University, working on social innovation and public services.",
+            "twitter": "nicomorix",
+            "uid": "pNiclli222"
+        },
+        {
+            "label": "person",
+            "location": "Spain",
+            "name": "Massimo Menichinelli",
+            "text": "Metadesign for Open Systems, Processes, Projects. Studying and enabling open collaborative projects and the systems that design them since 2005.",
+            "twitter": "openp2pdesign",
+            "uid": "pMaslli218",
+            "webpage": "openp2pdesign.org"
+        },
+        {
+            "label": "keyword",
+            "name": "Design Consultants",
+            "uid": "kDesignConsult"
+        },
+        {
+            "label": "business",
+            "name": "Frog",
+            "text": "A global design and strategy firm. IG frog_design",
+            "twitter": "frogdesign",
+            "uid": "bFrorog94",
+            "webpage": "frogdesign.com"
+        },
+        {
+            "label": "business",
+            "name": "ReD Associates",
+            "text": "ReD is a strategy and innovation consulting firm based on the social sciences - 'Sensemaking: The Power of the Humanities in the Age of the Algorithm'",
+            "twitter": "ReD_Associates",
+            "uid": "bReDtes212",
+            "webpage": "redassociates.com"
+        },
+        {
+            "blog": "stories.openideo.com",
+            "facebook": "openideo",
+            "label": "organisation",
+            "name": "OpenIDEO",
+            "text": "Where people design better together",
+            "twitter": "OpenIDEO",
+            "uid": "oOpeDEO126",
+            "webpage": "openideo.com"
+        },
+        {
+            "label": "person",
+            "location": "Copenhagen/Denmark",
+            "name": "Rikke Ulk",
+            "text": "CEO and Chief anthropologist at Antropologerne. Listening to life, observing obstackles+openness, engaged in change",
+            "twitter": "RikkeUlk",
+            "uid": "pRikUlk200",
+            "webpage": "antropologerne.com"
+        },
+        {
+            "label": "person",
+            "location": "Brussels/Belgium",
+            "name": "Carlos Moedas",
+            "text": "European Commissioner for #Research #Science & #Innovation @EUScienceInnov @EU_Commission. Account managed by my team & me. Personal tweets signed CM",
+            "twitter": "Moedas",
+            "uid": "pCardas224",
+            "webpage": "ec.europa.eu/moedas"
+        },
+        {
+            "label": "person",
+            "location": "Barcelona/Spain",
+            "name": "Eurecat",
+            "text": "Eurecat is the Technology Centre of Catalonia. Provides the industrial and business sector with differential technology and advanced expertise.",
+            "twitter": "Eurecat_news",
+            "uid": "pEurcat220",
+            "webpage": "eurecat.org"
+        },
+        {
+            "blog": "munnecke.net",
+            "label": "person",
+            "name": "Max Munnecke",
+            "text": "Researcher and developer",
+            "twitter": "maxmunnecke",
+            "uid": "pMaxcke133",
+            "webpage": "ma3x.com"
+        },
+        {
+            "label": "person",
+            "location": "Copenhagen/Denmark",
+            "name": "Pedro Parraguez Ruiz",
+            "text": "Postdoc at DTU Management Engineering (DK). My research includes collaboration, networks, & other bits and pieces e.g. http://www.netsights.dk",
+            "twitter": "parraguezr",
+            "uid": "pPeduiz249",
+            "webpage": "parraguezr.net"
+        },
+        {
+            "email": "amai@dtu.dk",
+            "label": "person",
+            "name": "Anja Maier",
+            "text": "Head of Division",
+            "uid": "pAnjier62"
+        },
+        {
+            "label": "tool",
+            "name": "Net-Sights",
+            "uid": "tSights",
+            "webpage": "netsights.dk"
+        },
+        {
+            "label": "business",
+            "location": "Utrecht/Netherlands",
+            "name": "Kenedict Innovation Analytics",
+            "text": "Innovation Analytics",
+            "uid": "bKenedict",
+            "webpage": "kenedict.com"
+        },
+        {
+            "label": "person",
+            "name": "Andre Vermeij",
+            "twitter": "Andre_Vermeij",
+            "uid": "pAndeij60"
+        },
+        {
+            "label": "keyword",
+            "name": "Humanitarian",
+            "uid": "kHuman"
+        },
+        {
+            "label": "organisation",
+            "location": "New_York/USA",
+            "name": "Global Pulse",
+            "text": "An innovation initiative of the UN harnessing big data for sustainable development and humanitarian action",
+            "twitter": "UNGlobalPulse",
+            "uid": "oGlolse195",
+            "webpage": "unglobalpulse.org"
+        },
+        {
+            "label": "organisation",
+            "name": "Forum for the future",
+            "text": "An international non-profit working with business, government and civil society to solve complex sustainability challenges",
+            "uid": "oForure174",
+            "webpage": "forumforthefuture.org"
+        },
+        {
+            "label": "organisation",
+            "name": "Harvard Humanitarian Initiative",
+            "text": "Combines expertise in public health, medicine, social science, and humanities to advance research, practice, and policy in the field of humanitarian assistance",
+            "twitter": "HHI",
+            "uid": "oHHI",
+            "webpage": "hhi.harvard.edu"
+        },
+        {
+            "label": "organisation",
+            "name": "ODI",
+            "text": "The Overseas Development Institute (ODI) is a leading independent think tank on international development and humanitarian issues",
+            "twitter": "ODIdev",
+            "uid": "oODI",
+            "webpage": "odi.org"
+        },
+        {
+            "label": "person",
+            "location": "New_York/USA",
+            "name": "Benjamin Kumpf",
+            "text": "Temporarily retired social activist. Working for @UNDP on innovation. I tweet about social change & good ideas. Tweets are mine.",
+            "twitter": "bkumpf",
+            "uid": "pBenmpf198",
+            "webpage": "undp.org/innovation"
+        },
+        {
+            "facebook": "OpenSocietyFoundations",
+            "label": "organisation",
+            "name": "Open Society",
+            "text": "The Open Society Foundations work to build vibrant and tolerant democracies whose governments are accountable to their citizens.",
+            "twitter": "OpenSociety",
+            "uid": "oOpeety218",
+            "webpage": "opensocietyfoundations.org"
+        },
+        {
+            "label": "keyword",
+            "name": "STS modelling",
+            "uid": "kSTS"
+        },
+        {
+            "label": "person",
+            "name": "Sarah Higginson",
+            "researchgate": "Sarah_Higginson2",
+            "uid": "pSarson89",
+            "webpage": "eci.ox.ac.uk/people/shigginson.html"
+        },
+        {
+            "label": "person",
+            "name": "Eoghan McKenna",
+            "researchgate": "Eoghan_Mckenna",
+            "uid": "pEognna37"
+        },
+        {
+            "email": "tom.hargreaves@uea.ac.uk",
+            "label": "person",
+            "name": "Tom Hargreaves",
+            "researchgate": "Tom_Hargreaves3",
+            "text": "Lecturer in @3SResearchGroup. Interested in sustainability and social change, energy and people, innovation and everyday life, governance and social practice.",
+            "twitter": "tom_hargreaves1",
+            "uid": "pTomves247"
+        },
+        {
+            "label": "person",
+            "location": "Netherlands",
+            "name": "Emile Chappin",
+            "twitter": "echappin",
+            "uid": "pEmipin59"
+        },
+        {
+            "label": "person",
+            "name": "Floortje_Alkemade",
+            "researchgate": "Floortje_Alkemade",
+            "text": "full professor Economics and Governance of Technological Innovation at Eindhoven University of Technology",
+            "uid": "pFloAlk",
+            "webpage": "floorjealkemade.eu"
+        },
+        {
+            "label": "university",
+            "location": "Brighton/UK",
+            "name": "SPRU",
+            "text": "Science Policy Research Unit is internationally recognised as a leading centre of research on science, technology and innovation policy.",
+            "twitter": "SPRU",
+            "uid": "uSPRU",
+            "webpage": "sussex.ac.uk/spru/"
+        },
+        {
+            "label": "person",
+            "location": "UK",
+            "name": "Johan Schot",
+            "text": "Director of @SPRU, @SussexUni TravellerThroughTime;Making Europe; Prof of #SustainabilityTransitions & HistoryOfTech #InnovationForTransformation @TIPConsortium",
+            "twitter": "Johan_Schot",
+            "uid": "pJohSch",
+            "webpage": "johanschot.com"
+        },
+        {
+            "label": "person",
+            "name": "Frank W. Geels",
+            "researchgate": "Frank_Geels",
+            "text": "Multi-level perspective. Manchester University",
+            "uid": "pFraels95"
+        },
+        {
+            "label": "tool",
+            "name": "Vosviewer",
+            "text": "A software tool for constructing and visualizing bibliometric networks.",
+            "uid": "tVos",
+            "webpage": "vosviewer.com"
+        },
+        {
+            "facebook": "digiscience",
+            "gplus": "+Digital-science",
+            "label": "organisation",
+            "location": "London/UK",
+            "name": "Digital Science",
+            "text": "A technology company serving the needs of scientific and research communities.",
+            "twitter": "digitalsci",
+            "uid": "oDignce187",
+            "webpage": "digital-science.com"
+        },
+        {
+            "label": "person",
+            "location": "Amsterdam/Netherlands",
+            "name": "Loet Leydesdorff",
+            "text": "Professor at the Amsterdam School of Communications Research (ASCoR).",
+            "twitter": "LoetLeydesdorff",
+            "uid": "pLoeLey",
+            "webpage": "leydesdorff.net"
+        },
+        {
+            "label": "person",
+            "name": "Ludo Waltman",
+            "text": "Researcher at CWTS, Leiden University; Editor-in-Chief of Journal of Informetrics",
+            "twitter": "LudoWaltman",
+            "uid": "pLudman144",
+            "webpage": "ludowaltman.nl"
+        },
+        {
+            "label": "person",
+            "name": "Nees Jan van Eck",
+            "text": "Researcher at CWTS, Leiden University; Developer of VOSviewer and CitNetExplorer",
+            "twitter": "neesjanvaneck",
+            "uid": "pNeeEck151",
+            "webpage": "neesjanvaneck.nl"
+        },
+        {
+            "label": "person",
+            "location": "Bloomington/USA",
+            "name": "Katy Borner",
+            "text": "Engineer, Computer Scientist, Information Scientist, Science Mapper",
+            "twitter": "katycns",
+            "uid": "pKatBor",
+            "webpage": "ella.slis.indiana.edu/~katy/"
+        },
+        {
+            "label": "university",
+            "location": "Bloomington/USA",
+            "name": "CNS Center",
+            "text": "Cyberinfrastructure for Network Science Center at Indiana University",
+            "twitter": "cnscenter",
+            "uid": "uCNS",
+            "webpage": "cns.iu.edu"
+        },
+        {
+            "label": "keyword",
+            "name": "Network Analysis",
+            "uid": "kNetAnalyse"
+        },
+        {
+            "label": "person",
+            "location": "Boston/USA",
+            "name": "Katherine Ognyanova",
+            "text": "Research: tech, politics and media. Networks and computational social science.",
+            "twitter": "Ognyanova",
+            "uid": "pKatova163",
+            "webpage": "kateto.net/blog"
+        },
+        {
+            "facebook": "CBSBDA",
+            "label": "university",
+            "name": "Center for Business Data Analytics",
+            "text": "Center within Department of Information Technology Management of the Copenhagen Business School",
+            "uid": "uCBSdata",
+            "webpage": "cssl.cbs.dk"
+        },
+        {
+            "label": "person",
+            "name": "Christoph Houman Ellersgaard",
+            "text": "Assistant professor at CBS",
+            "twitter": "chellersgaard",
+            "uid": "pChrard108",
+            "webpage": "magtelite.dk"
+        },
+        {
+            "github": "github.com/antongrau",
+            "label": "person",
+            "location": "Denmark",
+            "name": "Anton Grau Larsen",
+            "text": "Sociologist working on elites, statistical programming and descriptive quantitative analysis.",
+            "twitter": "antongrau",
+            "uid": "pAntGrau"
+        },
+        {
+            "label": "person",
+            "name": "Sune Lehmann",
+            "twitter": "suneman",
+            "uid": "pSunLeh",
+            "webpage": "sunelehmann.com"
+        },
+        {
+            "label": "university",
+            "name": "dlab @ EPFL",
+            "text": "Data Science Lab",
+            "uid": "uDEPFL",
+            "webpage": "dlab.epfl.ch"
+        },
+        {
+            "email": "robert.west@epfl.ch",
+            "label": "person",
+            "name": "Robert West",
+            "uid": "pRobest84"
+        },
+        {
+            "label": "person",
+            "location": "Columbia/USA",
+            "name": "Sean P. Goggins",
+            "text": "Sociotechnical Data Scientist",
+            "twitter": "sociallycompute",
+            "uid": "pSeains142",
+            "webpage": "seangoggins.net/blog/"
+        },
+        {
+            "label": "person",
+            "location": "Boston/USA",
+            "name": "Laszlo Barabasi",
+            "text": "Networkologist. Author and reader. Professor @Northeastern @Harvard @CEUhungary.",
+            "twitter": "barabasi",
+            "uid": "pLasasi146",
+            "webpage": "barabasi.com"
+        },
+        {
+            "label": "person",
+            "location": "Budapest/Hungary",
+            "name": "Network Science CEU",
+            "text": "The Center for Network Science @ceuhungary provides an organizational platform for research, with a special focus on applications to practical social problems.",
+            "twitter": "cns_ceu",
+            "uid": "pNetCEU233",
+            "webpage": "cns.ceu.edu"
+        },
+        {
+            "label": "person",
+            "location": "Berlin/Germany",
+            "name": "Mathieu Bastian",
+            "text": "Head of Data at @GetYourGuide. @LinkedIn data science alumnus and @Gephi co-founder. Was in San Francisco, now In Berlin. All data matters.",
+            "twitter": "mathieubastian",
+            "uid": "pMatian239",
+            "webpage": "getyourguide.com"
+        },
+        {
+            "label": "community",
+            "name": "Italian Network Analysis",
+            "uid": "cNetworkIT"
+        },
+        {
+            "facebook": "SoBigData",
+            "label": "organisation",
+            "name": "SoBigData",
+            "text": "European Research Infrastructure for Big Data and Social Mining funded from the European Union's Horizon 2020 research and innovation programme.",
+            "twitter": "SoBigData",
+            "uid": "oSoBig",
+            "webpage": "sobigdata.eu"
+        },
+        {
+            "label": "person",
+            "name": "Alessandro Vespignani",
+            "text": "Network & Data Science, Computational Epidemiology, Complex Systems",
+            "twitter": "alexvespi",
+            "uid": "pAleani126",
+            "webpage": "mobs-lab.org"
+        },
+        {
+            "label": "person",
+            "location": "Pisa/Italy",
+            "name": "Luca Pappalardo",
+            "text": "#PhD | #DataScience | #BigData | #NetworkScience | #MachineLearning | #blogger | #globetrotter | behind @databeersTUS @DAPSworkshop @quant_success @sobigdata",
+            "twitter": "lucpappalard",
+            "uid": "pLucrdo233",
+            "webpage": "lucapappalardo.com"
+        },
+        {
+            "label": "university",
+            "name": "KDD Lab Pisa",
+            "text": "The Knowledge Discovery and Data Mining Laboratory is a joint research initiative by ISTI Institute of CNR and the @DI_Unipisa of @Unipisa",
+            "twitter": "kdd_lab",
+            "uid": "uKDD",
+            "webpage": "kdd.isti.cnr.it"
+        },
+        {
+            "label": "person",
+            "name": "Dino Pedreschi",
+            "text": "Professor at University of Pisa. Big Data Analytics & Social Mining. Human Mobility & Social Networks. Privacy & Ethical Data Mining.",
+            "twitter": "DinoPedreschi",
+            "uid": "pDinchi182"
+        },
+        {
+            "label": "university",
+            "name": "GATE",
+            "text": "Open-Source Text Analytics Infrastructure, incl. Information Extraction, Semantic Annotation, Fake News Analysis, SaaS (http://cloud.gate.ac.uk )",
+            "twitter": "GateAcUk",
+            "uid": "uGATE",
+            "webpage": "gate.ac.uk"
+        },
+        {
+            "label": "community",
+            "name": "French Network Analysis",
+            "uid": "cNetworkFR"
+        },
+        {
+            "label": "organisation",
+            "name": "Data r&d institute",
+            "text": "Data R&D Institute at emlyon business school",
+            "twitter": "data_emlyon",
+            "uid": "oEmlyonData",
+            "webpage": "data.em-lyon.com"
+        },
+        {
+            "label": "person",
+            "location": "Lyon/France",
+            "name": "Clement Levallois",
+            "twitter": "seinecle",
+            "uid": "pSeinecle",
+            "webpage": "clementlevallois.net"
+        },
+        {
+            "label": "university",
+            "location": "France",
+            "name": "Inria",
+            "text": "Institut de recherche en sciences du #num\u00e9rique, du c\u00f4t\u00e9 des inventeurs #informatique #math\u00e9matiques #innovation",
+            "twitter": "Inria",
+            "uid": "uInria",
+            "webpage": "inria.fr"
+        },
+        {
+            "label": "university",
+            "location": "Paris/France",
+            "name": "IFRIS",
+            "text": "Consortium d\u2019Unit\u00e9s de Recherche travaillant sur les interactions entre #sciences, #techniques et #soci\u00e9t\u00e9s ainsi que politiques de recherche et d\u2019#innovation.",
+            "twitter": "_IFRIS",
+            "uid": "uIFRIS",
+            "webpage": "ifris.org"
+        },
+        {
+            "label": "university",
+            "location": "Lyon/France",
+            "name": "IXXI",
+            "text": "Promote research at the crossroads of different disciplines to address comtemporary challenges",
+            "uid": "uIXXI",
+            "webpage": "ixxi.fr"
+        },
+        {
+            "email": "Pablo.Jensen@ens-lyon.fr",
+            "label": "person",
+            "name": "Pablo Jensen",
+            "text": "Chercheur CNRS, physique et r\u00e9seaux sociaux",
+            "twitter": "pablojensenlyon",
+            "uid": "pPabJen",
+            "webpage": "perso.ens-lyon.fr/pablo.jensen/"
+        },
+        {
+            "label": "person",
+            "location": "Lyon/France",
+            "name": "Sebastian Grauwin",
+            "twitter": "SebGrauwin",
+            "uid": "pSebGrau",
+            "webpage": "sebastian-grauwin.com"
+        },
+        {
+            "email": "Guy.Melancon@labri.fr",
+            "label": "person",
+            "name": "Guy Melan\u00e7on",
+            "researchgate": "Guy_Melancon",
+            "text": "Networks. Music.",
+            "twitter": "guywhiz",
+            "uid": "pGuynon115"
+        },
+        {
+            "email": "Dominique.Vinck@unil.ch",
+            "label": "person",
+            "location": "Lausanne/Switzerland",
+            "name": "Dominique Vinck",
+            "text": "Sociologue des sciences et de l'innovation, est Professeur ordinaire \u00e0 l'Universit\u00e9 de Lausanne.",
+            "twitter": "DominiqueVinck",
+            "uid": "pDomnck200"
+        },
+        {
+            "label": "community",
+            "name": "Graph Crowd",
+            "uid": "cGraph"
+        },
+        {
+            "label": "person",
+            "name": "Stephen Mallette",
+            "text": "Building graph technology (Gremlin)",
+            "twitter": "spmallette",
+            "uid": "pStette74"
+        },
+        {
+            "label": "person",
+            "name": "Marko A. Rodriguez",
+            "text": "Yet another human being.",
+            "twitter": "twarko",
+            "uid": "pMaruez83",
+            "webpage": "markorodriguez.com"
+        },
+        {
+            "label": "business",
+            "name": "Neo4j",
+            "twitter": "neo4j",
+            "uid": "bNeo",
+            "webpage": "neo4j.com"
+        },
+        {
+            "blog": "neo4j.com/blog",
+            "label": "person",
+            "location": "Menlo_Park/USA",
+            "name": "Emil Eifrem",
+            "text": "Founder Neo4j.",
+            "twitter": "emileifrem",
+            "uid": "pEmirem106",
+            "webpage": "neo4j.com"
+        },
+        {
+            "label": "person",
+            "linkedin": "linkedin.com/in/amyhodler",
+            "location": "Kettle_Falls/USA",
+            "name": "Amy Hodler",
+            "text": "Love science, art, and complexity theory. Cycling when the weather is good. Feeding the #Graphs ecosystem @Neo4j Opinions are my own.",
+            "twitter": "amyhodler",
+            "uid": "pAmyler223"
+        },
+        {
+            "label": "business",
+            "location": "San_Francisco/USA",
+            "name": "Graphistry",
+            "text": "Help your team quickly investigate across event & log systems with the power of visual graph analytics, visual playbooks, & GPUs. We're hiring, in everything!",
+            "twitter": "Graphistry",
+            "uid": "bGratry230",
+            "webpage": "graphistry.com"
+        },
+        {
+            "label": "event",
+            "name": "GraphConnect",
+            "text": "GraphConnect \u2013 Connecting Data to Drive Innovation",
+            "twitter": "GraphConnect",
+            "uid": "eGraph",
+            "webpage": "graphconnect.com"
+        },
+        {
+            "github": "graphaware",
+            "label": "business",
+            "name": "GraphAware",
+            "uid": "bGraAwa",
+            "webpage": "graphaware.com"
+        },
+        {
+            "label": "business",
+            "location": "Paris/France",
+            "name": "Linkurious SAS",
+            "text": "Developer of tool",
+            "twitter": "Linkurious",
+            "uid": "bLink",
+            "webpage": "linkurio.us"
+        },
+        {
+            "label": "person",
+            "location": "Paris/France",
+            "name": "Sebastian Heymann",
+            "text": "@Gephi co-founder, CEO of @linkurious, PhD in computer science, I democratize network thinking.",
+            "twitter": "mentatseb",
+            "uid": "pSebann188",
+            "webpage": "sebastien.pro"
+        },
+        {
+            "label": "person",
+            "location": "Paris/France",
+            "name": "Jean Villedieu",
+            "text": "Founder of @Linkurious a startup that specializes in graph data visualization #startup #bigdata #ci #innovation",
+            "twitter": "jvilledieu",
+            "uid": "pJeaieu174"
+        },
+        {
+            "email": "sylvain.roussy@free.fr",
+            "github": "sylvainroussy",
+            "label": "person",
+            "location": "Lyon/France",
+            "name": "Sylvain Roussy",
+            "text": "Author of french book Neo4j - Des donn\u00e9es et des graphes, Neo4j Meetup organizer in Lyon - Java, Neo4j, BPM, Android",
+            "twitter": "SylvainRoussy",
+            "uid": "pSylssy214"
+        },
+        {
+            "github": "michelcaradec",
+            "label": "person",
+            "linkedin": "michel-caradec-36997650",
+            "name": "Michel Caradec",
+            "text": "Software engineer, focussed on data engineering related technologies. Works in the field of big data and machine learning.",
+            "uid": "pMicdec187"
+        },
+        {
+            "label": "person",
+            "location": "UK",
+            "name": "John Swain",
+            "text": "Data Solution Architect @Microsoft @azure Advisor @rightrelevance, @neo4j Ambassador",
+            "twitter": "swainjo",
+            "uid": "pJohain142",
+            "webpage": "medium.com/@swainjo"
+        },
+        {
+            "github": "ikwattro",
+            "label": "person",
+            "name": "Christophe Willemsen",
+            "text": "Principal Consultant @graph_aware - World's #1 #neo4j consultancy - Polyglot programmer - #Recsys #NLP #VUI #chatbots #ML",
+            "twitter": "ikwattro",
+            "uid": "pChrsen186"
+        },
+        {
+            "label": "person",
+            "name": "Miro Marchi",
+            "text": "Consultant",
+            "twitter": "miromarchi",
+            "uid": "pMirchi93",
+            "webpage": "miromarchi.wordpress.com"
+        },
+        {
+            "label": "person",
+            "location": "Belgium",
+            "name": "Niek Bartholomeus",
+            "text": "Student of nlp and machine learning, creator of https://openthebox.be",
+            "twitter": "niekbartho",
+            "uid": "pNiekBar",
+            "webpage": "niek.bartholomeus.be"
+        },
+        {
+            "label": "tool",
+            "name": "Opentheboxbe",
+            "text": "Look inside the web of connections between companies and individuals in Belgium",
+            "twitter": "opentheboxbe",
+            "uid": "tOpenBox",
+            "webpage": "openthebox.be"
+        },
+        {
+            "label": "person",
+            "location": "Stockholm/Sweden",
+            "name": "Roelof Pieters",
+            "text": "Founder",
+            "twitter": "graphific",
+            "uid": "pRoeers100",
+            "webpage": "graph-technologies.com"
+        },
+        {
+            "label": "person",
+            "location": "Paris/France",
+            "name": "Cedric Fauvet",
+            "twitter": "CedricFauvet",
+            "uid": "pCedvet52"
+        },
+        {
+            "label": "person",
+            "location": "Nantes/France",
+            "name": "Benoit Simard",
+            "text": "web developper, addict to free software, opendata (member of @libertic) & graph ! Work at @neo4j",
+            "twitter": "logisima",
+            "uid": "pBenard172",
+            "webpage": "bsimard.com"
+        },
+        {
+            "label": "person",
+            "location": "Venice/Italy",
+            "name": "Lorenzo Speranzoni",
+            "text": "Founder, CEO of @AgileLARUS, @neo4j Ambassador, Agile Coach, Cyclist, Arts & Nature lover, @U2 & @ValeYellow46 fan, father of 3, Atheist w/ 3 cats",
+            "twitter": "inserpio",
+            "uid": "pLoroni228",
+            "webpage": "inserpio.wordpress.com"
+        },
+        {
+            "blog": "jimwebber.org/blog/",
+            "email": "jim@jimwebber.org",
+            "github": "jimwebber",
+            "label": "person",
+            "name": "Jim Webber",
+            "text": "Chief Scientist @ Neo4j",
+            "twitter": "jimwebber",
+            "uid": "pJimber130",
+            "webpage": "jimwebber.org"
+        },
+        {
+            "label": "person",
+            "location": "San_Francisco/USA",
+            "name": "Philip Rathle",
+            "text": "Head of Products for Neo4j. Graphs are everywhere.",
+            "twitter": "prathle",
+            "uid": "pPhihle104"
+        },
+        {
+            "label": "person",
+            "name": "Jesus Barrasa",
+            "text": "Graphs, data, integration",
+            "twitter": "BarrasaDV",
+            "uid": "pJesasa89",
+            "webpage": "jesusbarrasa.wordpress.com"
+        },
+        {
+            "github": "github.com/jexp",
+            "label": "person",
+            "location": "Dresden/Germany",
+            "name": "Michael Hunger",
+            "text": "Developer Neo4j",
+            "twitter": "mesirii",
+            "uid": "pMicger116",
+            "webpage": "jexp.de/blog"
+        },
+        {
+            "blog": "markhneedham.com/blog/",
+            "github": "github.com/mneedham",
+            "label": "person",
+            "name": "Mark Needham",
+            "text": "Developer Relations",
+            "twitter": "mneedham",
+            "uid": "pMarham101"
+        },
+        {
+            "label": "person",
+            "name": "William Lyon",
+            "text": "Tiramisu aficionado. Graph Hacker",
+            "twitter": "lyonwj",
+            "uid": "pWilyon78",
+            "webpage": "lyonwj.com"
+        },
+        {
+            "label": "person",
+            "location": "Chicago/USA",
+            "name": "Max De Marzi",
+            "text": "Neo4j Graph Database Consultant",
+            "twitter": "maxdemarzi",
+            "uid": "pMaxrzi98",
+            "webpage": "maxdemarzi.com/"
+        },
+        {
+            "label": "person",
+            "location": "Burlingame/USA",
+            "name": "Ryan Boyd",
+            "text": "Software Eng, Graph Geek & Head of Developer Relations, N.A. @neo4j. Former Googler #cloud. Author of O'Reilly OAuth 2.0 book. Intermittent adventurer. New dad!",
+            "twitter": "ryguyrg",
+            "uid": "pRyaoyd232",
+            "webpage": "developeradvocate.com"
+        },
+        {
+            "label": "person",
+            "location": "Antwerp/Belgium",
+            "name": "Rik Van Bruggen",
+            "text": "Mad about graphs. Working on and with Neo4j",
+            "twitter": "rvanbruggen",
+            "uid": "pRikgen119",
+            "webpage": "blog.bruggen.com"
+        },
+        {
+            "label": "keyword",
+            "name": "Query Language",
+            "uid": "kCypher"
+        },
+        {
+            "github": "Aethelraed",
+            "label": "person",
+            "location": "UK",
+            "name": "Petra Selmer",
+            "text": "Developer at Neo Technology. As part of my PhD, I am developing a flexible graph query language.",
+            "twitter": "Aethelraed",
+            "uid": "pPetmer187",
+            "webpage": "dcs.bbk.ac.uk/~lselm01/"
+        },
+        {
+            "label": "person",
+            "location": "Lund/Sverige",
+            "name": "Andr\u00e9s Taylor",
+            "text": "Creator of Cypher - Neo4j's query language",
+            "twitter": "andres_taylor",
+            "uid": "pAndlor106"
+        },
+        {
+            "label": "person",
+            "location": "Leipzig/Germany",
+            "name": "Martin Junghanns",
+            "text": "Software Engineer at Neo4j, PhD Student at the University of Leipzig. Interested in Graph Query Languages and Distributed Graph Processing.",
+            "twitter": "kc1s",
+            "uid": "pMarnns212"
+        },
+        {
+            "email": "stefan.plantikow@neotechnology.com",
+            "github": "boggle",
+            "label": "person",
+            "location": "Berlin/Germany",
+            "name": "Stefan Plantikow",
+            "text": "Engineer at Neo Technology with a background in distributed systems and transaction processing. Stefan is passionate about computer language design and how languages enable application development.",
+            "twitter": "boggle",
+            "uid": "pStekow318"
+        },
+        {
+            "label": "person",
+            "location": "Budapest/Hungary",
+            "name": "Gabor Szarnyas",
+            "text": "I make graphs from CSVs. Author of \"Awesome Cypher\" list",
+            "twitter": "szarnyasg",
+            "uid": "pGabSza",
+            "webpage": "inf.mit.bme.hu/en/members/szarnyasg"
+        },
+        {
+            "email": "marton@db.bme.hu",
+            "github": "jmarton",
+            "label": "person",
+            "name": "J\u00f3zsef Marton",
+            "uid": "pJzston63"
+        },
+        {
+            "label": "person",
+            "name": "Peter Wood",
+            "text": "Professor Birkbeck University of London.",
+            "uid": "pPetood82",
+            "webpage": "dcs.bbk.ac.uk/~ptw/"
+        },
+        {
+            "label": "community",
+            "name": "Big Data USA",
+            "uid": "cUSA"
+        },
+        {
+            "label": "business",
+            "name": "Microsoft Research",
+            "text": "Founded in 1991, Microsoft Research is dedicated to conducting both basic and applied research in computer science and software engineering.",
+            "twitter": "MSFTResearch",
+            "uid": "bMicrch207",
+            "webpage": "microsoft.com/research"
+        },
+        {
+            "facebook": "SenseableCity",
+            "label": "university",
+            "name": "MIT Senseable",
+            "text": "Urban imagination and social innovation through design and science",
+            "twitter": "SenseableCity",
+            "uid": "uMITsense",
+            "webpage": "senseable.mit.edu"
+        },
+        {
+            "label": "university",
+            "location": "Stanford/USA",
+            "name": "Stanford NLP Group",
+            "text": "Computational Linguistics\u2014Natural Language\u2014Machine Learning\u2014Deep Learning.",
+            "twitter": "stanfordnlp",
+            "uid": "uStanNLP",
+            "webpage": "nlp.stanford.edu"
+        },
+        {
+            "label": "person",
+            "name": "Deb Roy",
+            "text": "Director, Lab for Social Machines, Co-Founder & Chairman, Cortico, Associate Professor at MIT",
+            "twitter": "dkroy",
+            "uid": "pDebRoy127"
+        },
+        {
+            "blog": "medium.com/@gilgul",
+            "label": "person",
+            "location": "New_York/USA",
+            "name": "Gilad Lotan",
+            "text": "Data Science @buzzfeed",
+            "twitter": "gilgul",
+            "uid": "pGiltan108",
+            "webpage": "giladlotan.com"
+        },
+        {
+            "label": "person",
+            "name": "Lada Adamic",
+            "text": "Facebook data scientist.",
+            "twitter": "ladamic",
+            "uid": "pLadmic91",
+            "webpage": "ladamic.com"
+        },
+        {
+            "label": "person",
+            "name": "Jure Leskovec",
+            "text": "Professor of #computerscience @Stanford; Chief Scientist @Pinterest. #datamining #machinelearning #networks, #bigdata, #web #socialmedia.",
+            "twitter": "jure",
+            "uid": "pJurLes",
+            "webpage": "cs.stanford.edu/~jure/"
+        },
+        {
+            "label": "person",
+            "location": "Palo_Alto/USA",
+            "name": "Christopher Manning",
+            "text": "Prof. CS & Linguistics, @Stanford. Do NLP.",
+            "twitter": "chrmanning",
+            "uid": "pChring129",
+            "webpage": "nlp.stanford.edu/~manning/"
+        },
+        {
+            "label": "person",
+            "name": "Richard Socher",
+            "text": "Enjoy working on AI. Chief scientist at Salesforce. Adjunct professor at Stanford CS. Founder and CEO at MetaMind. Into photography and adventures.",
+            "twitter": "RichardSocher",
+            "uid": "pRicher211",
+            "webpage": "socher.org"
+        },
+        {
+            "label": "person",
+            "name": "Jon Kleinberg",
+            "text": "Professor at Cornell University",
+            "uid": "pJonerg83",
+            "webpage": "cs.cornell.edu/home/kleinber/"
+        },
+        {
+            "label": "keyword",
+            "name": "Data Visualization",
+            "uid": "kDataVis"
+        },
+        {
+            "label": "person",
+            "location": "Stanford/USA",
+            "name": "Elijah Meeks",
+            "text": "Senior Data Visualization Engineer at Netflix. Author of D3.js in Action & Semiotic. #d3js #semiotic",
+            "twitter": "Elijah_Meeks",
+            "uid": "pElieks170",
+            "webpage": "elijahmeeks.com"
+        },
+        {
+            "label": "person",
+            "location": "Amsterdam/Netherlands",
+            "name": "Nadieh Bremer",
+            "text": "Freelancer who is passionate about innovative Data Visualization & Data Art. Graduated Astronomer. Love D3.",
+            "twitter": "NadiehBremer",
+            "uid": "pNadmer192",
+            "webpage": "visualcinnamon.com"
+        },
+        {
+            "label": "person",
+            "name": "Lynn Cherny",
+            "text": "Data analysis and visualization",
+            "twitter": "arnicas",
+            "uid": "pArnicas",
+            "webpage": "ghostweather.com"
+        },
+        {
+            "label": "person",
+            "name": "Nathan Yau",
+            "text": "Statistician, with a specialty in visualization and a background in eating and beer. FlowingData.",
+            "twitter": "flowingdata",
+            "uid": "pNatYau149",
+            "webpage": "flowingdata.com"
+        },
+        {
+            "label": "university",
+            "name": "BerkeleyAMI",
+            "text": "The Berkeley Advanced Media Institute",
+            "twitter": "AMI_Berkeley",
+            "uid": "uBerkeley",
+            "webpage": "multimedia.journalism.berkeley.edu"
+        },
+        {
+            "label": "person",
+            "location": "Seattle/USA",
+            "name": "Jeffrey Heer",
+            "text": "UW Computer Science Professor. Co-Founder of Trifacta. Data, visualization & interaction. @trifacta @uwdata @uwdub",
+            "twitter": "jeffrey_heer",
+            "uid": "pJefeer231",
+            "webpage": "idl.cs.washington.edu"
+        },
+        {
+            "label": "university",
+            "location": "Seattle/USA",
+            "name": "Interactive Data Lab",
+            "text": "UW Interactive Data Lab. (Formerly known as the Stanford Vis Group.) Visualization & Data Analysis.",
+            "twitter": "uwdata",
+            "uid": "uUWdata",
+            "webpage": "idl.cs.washington.edu"
+        },
+        {
+            "label": "person",
+            "location": "San_Francisco/USA",
+            "name": "Mike Bostock",
+            "text": "Code and data for humans. Founder @observablehq. Creator #d3js. Former @nytgraphics.",
+            "twitter": "mbostock",
+            "uid": "pMikock173",
+            "webpage": "bost.ocks.org"
+        },
+        {
+            "label": "report",
+            "location": "London/UK",
+            "name": "Information is Beautiful Infographics",
+            "text": "David McCandless data-visualizations & infographics",
+            "twitter": "infobeautiful",
+            "uid": "rBeaInfo",
+            "webpage": "informationisbeautiful.net"
+        },
+        {
+            "label": "person",
+            "location": "Nantes/France",
+            "name": "Alexis Jacomy",
+            "text": "#Dataviz and #JavaScript, Also working on @sigmajs and other stuff with @yomguithereal",
+            "twitter": "jacomyal",
+            "uid": "pAleomy170"
+        }
+    ]
+}

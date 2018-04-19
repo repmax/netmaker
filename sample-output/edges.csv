@@ -1,0 +1,670 @@
+FromType,FromName,Edge,ToType,ToName
+tool,Graph Commons,collaborate,tool,Neo4j Graph Database
+tool,Sigma.js,use,tool,D3.js
+organisation,FiveThirtyEight,has_tag,keyword,Think Tank
+person,Guillaume Plique,create,tool,Hyphe
+person,Guillaume Plique,create,tool,Sigma.js
+person,Guillaume Plique,attend,event,FOSDEM
+person,Guillaume Plique,work_for,university,Sciences Po medialab
+person,Guillaume Plique,belong_to,community,Science and Technology Studies
+person,Guillaume Plique,has_tag,keyword,Coders
+person,Benjamin Ooghe-Tabanou,create,tool,Seealsology
+person,Benjamin Ooghe-Tabanou,create,tool,Gazouilloire
+person,Benjamin Ooghe-Tabanou,create,tool,Hyphe
+person,Benjamin Ooghe-Tabanou,work_for,organisation,Regards Citoyens
+business,Gartner,has_tag,keyword,Think Tank
+person,Benjamin Ooghe-Tabanou,work_for,university,Sciences Po medialab
+person,Benjamin Ooghe-Tabanou,belong_to,community,Science and Technology Studies
+person,Benjamin Ooghe-Tabanou,has_tag,keyword,Coders
+person,Mathieu Jacomy,create,tool,Gephi
+person,Mathieu Jacomy,create,tool,Hyphe
+person,Mathieu Jacomy,has_tag,keyword,Issue Mapping
+person,Mathieu Jacomy,work_for,university,Sciences Po medialab
+person,Mathieu Jacomy,belong_to,community,Science and Technology Studies
+person,Mathieu Jacomy,has_tag,keyword,Coders
+person,Donato Ricci,work_for,university,Density Design
+organisation,Crimson Hexagon,has_tag,keyword,Think Tank
+person,Donato Ricci,create,tool,Seealsology
+person,Donato Ricci,work_for,university,Sciences Po medialab
+person,Donato Ricci,belong_to,community,Science and Technology Studies
+person,Donato Ricci,has_tag,keyword,Coders
+person,Richard Rogers,has_tag,keyword,Internet and New Media
+person,Richard Rogers,has_tag,keyword,Issue Mapping
+person,Richard Rogers,work_for,university,Digital Methods Initiative
+person,Richard Rogers,belong_to,community,Science and Technology Studies
+person,Esther Weltevrede,work_for,university,Digital Methods Initiative
+person,Esther Weltevrede,belong_to,community,Science and Technology Studies
+business,Fast Forward Labs,has_tag,keyword,Think Tank
+person,Sabine Niederer,work_for,university,Digital Methods Initiative
+person,Sabine Niederer,belong_to,community,Science and Technology Studies
+person,Anne Helmond,has_tag,keyword,Internet and New Media
+person,Anne Helmond,work_for,university,Digital Methods Initiative
+person,Anne Helmond,belong_to,community,Science and Technology Studies
+person,Carolin Gerlitz,work_for,university,Media Studies @ Siegen
+person,Carolin Gerlitz,work_for,university,CIM Warwick
+person,Carolin Gerlitz,has_tag,keyword,Internet and New Media
+person,Carolin Gerlitz,has_tag,keyword,Issue Mapping
+person,Carolin Gerlitz,work_for,university,Digital Methods Initiative
+business,Arup Foresight,has_tag,keyword,Think Tank
+person,Carolin Gerlitz,belong_to,community,Science and Technology Studies
+person,Fernando van der Vlist,work_for,university,Media Studies @ Siegen
+person,Fernando van der Vlist,work_for,university,Digital Methods Initiative
+person,Fernando van der Vlist,belong_to,community,Science and Technology Studies
+person,Erik K Borra,create,tool,DMI-TCAT
+person,Erik K Borra,has_tag,keyword,Coders
+person,Erik K Borra,work_for,university,Digital Methods Initiative
+person,Bernhard Rieder,create,tool,DMI-TCAT
+person,Bernhard Rieder,has_tag,keyword,Coders
+person,Bernhard Rieder,work_for,university,Digital Methods Initiative
+organisation,IFTF,has_tag,keyword,Issue Mapping
+person,Anders Kristian Munk,create,report,Digitale metoder
+person,Anders Kristian Munk,work_for,university,TANT Lab
+person,Anders Kristian Munk,belong_to,community,Science and Technology Studies
+person,Andreas Birkbak,create,report,Digitale metoder
+person,Andreas Birkbak,work_for,university,TANT Lab
+person,Andreas Birkbak,belong_to,community,Science and Technology Studies
+person,Anders Koed Madsen,work_for,university,TANT Lab
+person,Anders Koed Madsen,belong_to,community,Science and Technology Studies
+person,Torben Elgaard Jensen,work_for,university,DTU management
+person,Torben Elgaard Jensen,work_for,university,TANT Lab
+organisation,IFTF,has_tag,keyword,Think Tank
+person,Torben Elgaard Jensen,belong_to,community,Science and Technology Studies
+person,Lionel Villard,work_for,university,IFRIS
+person,Lionel Villard,has_tag,keyword,Issue Mapping
+person,Lionel Villard,belong_to,community,Science and Technology Studies
+person,Kenneth Dollerup,study_at,university,TANT Lab
+person,Kenneth Dollerup,belong_to,community,Science and Technology Studies
+person,Noortje Marres,work_for,university,CIM Warwick
+person,Noortje Marres,collaborate,university,Digital Methods Initiative
+person,Noortje Marres,has_tag,keyword,Internet and New Media
+person,Noortje Marres,has_tag,keyword,Issue Mapping
+organisation,CIFS,has_tag,keyword,Think Tank
+person,Noortje Marres,collaborate,university,Media Studies @ Siegen
+person,Noortje Marres,belong_to,community,Science and Technology Studies
+person,Noortje Marres,belong_to,community,Science and Technology Studies
+university,Density Design,create,tool,RAW Graphs
+university,Density Design,create,tool,Seealsology
+university,Density Design,collaborate,university,Sciences Po medialab
+university,Density Design,collaborate,university,Digital Methods Initiative
+university,Density Design,collaborate,university,Politecnico di Milano Design Department
+university,Density Design,has_tag,keyword,Data Visualization
+person,Paolo Ciuccarelli,work_for,university,Density Design
+organisation,Demos Helsinki,has_tag,keyword,Think Tank
+person,Paolo Ciuccarelli,has_tag,keyword,Issue Mapping
+person,Michele Mauri,work_for,university,Density Design
+person,Michele Mauri,create,tool,RAW Graphs
+person,Michele Mauri,collaborate,organisation,PublicDataLab
+person,Michele Mauri,has_tag,keyword,Issue Mapping
+person,Michele Mauri,has_tag,keyword,Coders
+business,DataInterfaces,collaborate,university,Density Design
+person,Marco Quaggiotto,work_for,business,DataInterfaces
+university,ISI foundation,collaborate,university,Density Design
+university,ISI foundation,has_tag,community,Italian Network Analysis
+organisation,RAND Corporation,has_tag,keyword,Think Tank
+organisation,SocioPatterns,has_tag,community,Digital Humanities
+person,Ciro Cattuto,create,organisation,SocioPatterns
+person,Ciro Cattuto,work_for,university,ISI foundation
+university,Labic Ufes,collaborate,university,Sciences Po medialab
+university,INRA,use,tool,openCypher
+university,DANTE,collaborate,university,IXXI
+university,LISIS,create,tool,Cortext
+university,LISIS,collaborate,university,Sciences Po medialab
+university,LISIS,collaborate,university,INRA
+person,Marc Barbier,work_for,university,LISIS
+tool,Sigma.js,collaborate,tool,Gephi
+organisation,VTT,has_tag,keyword,Think Tank
+person,Marc Barbier,work_for,university,INRA
+person,Jean-Philippe Cointet,work_for,university,LISIS
+person,Jean-Philippe Cointet,create,tool,Cortext
+person,Jean-Philippe Cointet,work_for,university,Sciences Po medialab
+person,Jean-Philippe Cointet,has_tag,keyword,Coders
+event,GraphDevroom,collaborate,event,FOSDEM
+report,Panama Papers,use,tool,Linkurious
+university,BIDS,collaborate,university,Sciences Po medialab
+university,CSTMS,collaborate,university,Sciences Po medialab
+organisation,ICIJ,create,report,Panama Papers
+person,TNO Research,has_tag,keyword,Think Tank
+organisation,ICIJ,collaborate,university,Sciences Po medialab
+organisation,ICIJ,use,tool,Linkurious
+organisation,ICIJ,has_tag,community,Investigative Journalism
+organisation,Investigative Reporters and Editors,has_tag,community,Investigative Journalism
+organisation,OCCRP,has_tag,community,Investigative Journalism
+person,Friedrich Lindenberg,work_for,organisation,OCCRP
+person,Friedrich Lindenberg,collaborate,organisation,Influence Mapping
+person,Friedrich Lindenberg,has_tag,community,Investigative Journalism
+person,Iain Collins,work_for,organisation,OCCRP
+person,Iain Collins,has_tag,community,Investigative Journalism
+person,i2CAT,collaborate,project,Open4Citizens
+person,Jonathan Albright,work_for,university,The Tow Center for Digital Journalism
+person,Jonathan Albright,has_tag,community,Investigative Journalism
+person,Manuel Villa,work_for,business,Neo4j
+person,Manuel Villa,work_for,organisation,ICIJ
+person,Manuel Villa,has_tag,community,Investigative Journalism
+person,Mar Cabra,work_for,organisation,ICIJ
+person,Mar Cabra,work_for,organisation,Global Editors Network
+person,Mar Cabra,has_tag,community,Investigative Journalism
+person,Julien Martin,work_for,organisation,ICIJ
+person,Julien Martin,has_tag,community,Investigative Journalism
+person,i2CAT,has_tag,keyword,Think Tank
+person,Liliana Bounegru,create,report,The Data Jounalism Handbook
+person,Liliana Bounegru,attend,event,MozFest
+person,Liliana Bounegru,has_tag,keyword,Issue Mapping
+person,Liliana Bounegru,has_tag,community,Investigative Journalism
+person,Jonathan Gray,create,report,The Data Jounalism Handbook
+person,Jonathan Gray,create,organisation,PublicDataLab
+person,Jonathan Gray,create,organisation,Open Knowledge Foundation
+person,Jonathan Gray,work_for,university,Kings College - Digital Humanities
+person,Jonathan Gray,create,tool,MiniVAN
+person,Jonathan Gray,has_tag,community,Investigative Journalism
+organisation,SAGE Ocean,fund,tool,MiniVAN
+person,Lucy Chambers,work_for,organisation,Open Knowledge Foundation
+person,Lucy Chambers,create,report,The Data Jounalism Handbook
+person,Lucy Chambers,has_tag,community,Investigative Journalism
+person,Emily Bell,create,university,The Tow Center for Digital Journalism
+person,Emily Bell,has_tag,community,Investigative Journalism
+person,Tom Wills,attend,event,MozFest
+person,Tom Wills,has_tag,community,Investigative Journalism
+person,Heather Krause,has_tag,community,Investigative Journalism
+person,Paul Bradshaw,has_tag,community,Investigative Journalism
+person,Sam Leon,has_tag,community,Investigative Journalism
+organisation,SAGE Ocean,has_tag,keyword,Fund
+person,Jonathan Stray,create,tool,Workbench
+person,Jonathan Stray,has_tag,community,Investigative Journalism
+organisation,Nieman Lab,has_tag,community,Investigative Journalism
+university,QUT Digital Media Research Centre,has_tag,keyword,Internet and New Media
+person,Axel Bruns,work_for,university,QUT Digital Media Research Centre
+person,Axel Bruns,belong_to,keyword,Issue Mapping
+person,Axel Bruns,has_tag,keyword,Internet and New Media
+person,Jean Burgess,work_for,university,QUT Digital Media Research Centre
+person,Jean Burgess,belong_to,keyword,Issue Mapping
+person,Jean Burgess,has_tag,keyword,Internet and New Media
+organisation,Horizon 2020,has_tag,keyword,Fund
+person,Anat Ben-David,work_for,university,OMILab
+person,Anat Ben-David,has_tag,keyword,Internet and New Media
+university,OMILab,has_tag,keyword,Internet Policy
+university,OMILab,has_tag,keyword,Internet and New Media
+person,Joanna Boehnert,belong_to,keyword,Issue Mapping
+organisation,FrameWorks Institute,belong_to,keyword,Issue Mapping
+event,MozFest,has_tag,keyword,Internet Policy
+organisation,Influence Mapping,has_tag,keyword,Issue Mapping
+organisation,Influence Mapping,has_tag,keyword,Internet Policy
+organisation,PublicDataLab,has_tag,keyword,Internet Policy
+organisation,Swiss Data Science Center,has_tag,keyword,Public Sector Innovation
+organisation,Regards Citoyens,has_tag,keyword,Internet Policy
+person,School of Data,has_tag,keyword,Internet Policy
+organisation,AoIR,has_tag,keyword,Internet Policy
+organisation,DataKind,has_tag,keyword,Internet Policy
+organisation,Open Knowledge Foundation,has_tag,keyword,Internet Policy
+organisation,Opendata.ch,collaborate,organisation,Open Knowledge Foundation
+organisation,Opendata.ch,has_tag,keyword,Internet Policy
+organisation,Open Corporates,has_tag,keyword,Internet Policy
+organisation,Open Data Institute,collaborate,organisation,NESTA
+organisation,Open Data Institute,has_tag,keyword,Internet Policy
+person,Olivier Verscheure,work_for,organisation,Swiss Data Science Center
+person,Alicia Powers,attend,event,GraphConnect
+person,Alicia Powers,has_tag,keyword,Psychometrics
+person,Alicia Powers,has_tag,keyword,Internet Policy
+organisation,The Web Foundation,has_tag,keyword,Internet Policy
+organisation,European Data Portal,has_tag,keyword,Internet Policy
+person,James McKinney,work_for,organisation,Open North
+person,James McKinney,collaborate,organisation,Open Corporates
+person,James McKinney,collaborate,organisation,Influence Mapping
+person,James McKinney,has_tag,keyword,Internet Policy
+organisation,Open North,has_tag,keyword,Internet Policy
+person,Olivier Verscheure,has_tag,keyword,Public Sector Innovation
+person,Jun Matsushita,work_for,organisation,iilab
+person,Jun Matsushita,has_tag,keyword,Internet Policy
+organisation,iilab,collaborate,project,NGI4eu - Engineroom
+organisation,iilab,has_tag,keyword,Internet Policy
+person,Jeroen van den hoven,has_tag,keyword,Ethics
+person,Jeroen van den hoven,has_tag,keyword,Internet Policy
+person,Sandra González Bailón,collaborate,university,The Oxford Internet Institute
+person,Sandra González Bailón,has_tag,community,Digital Humanities
+organisation,Programming Historian,has_tag,community,Digital Humanities
+university,Centre for Digital History,has_tag,community,Digital Humanities
+person,Burak Arikan,study_at,university,MIT Media Lab
+organisation,DigitalSingleMarket,has_tag,keyword,Public Sector Innovation
+event,Digital Humanities Awards,has_tag,community,Digital Humanities
+university,D-Lab,collaborate,university,BIDS
+university,D-Lab,has_tag,community,Digital Humanities
+event,Digging into data challenge,has_tag,community,Digital Humanities
+university,Data Science Lab,has_tag,keyword,Psychometrics
+university,Data Science Lab,collaborate,university,Alan Turing Institute
+university,Data Science Lab,has_tag,community,Digital Humanities
+university,Kings College - Digital Humanities,has_tag,community,Digital Humanities
+person,Pablo Aragón,collaborate,university,The Oxford Internet Institute
+person,Pablo Aragón,has_tag,community,Digital Humanities
+person,Thomas Prehn,work_for,organisation,MindLab
+university,Alan Turing Institute,has_tag,community,Digital Humanities
+person,Martin Grandjean,use,tool,Gephi
+person,Martin Grandjean,has_tag,community,Digital Humanities
+university,DHLAB @ EPFL,has_tag,community,Digital Humanities
+person,Frederic Kaplan,work_for,university,DHLAB @ EPFL
+person,Frederic Kaplan,has_tag,community,Digital Humanities
+person,Dario Rodighiero,work_for,university,DHLAB @ EPFL
+person,Dario Rodighiero,work_for,university,Sciences Po medialab
+person,Dario Rodighiero,has_tag,community,Digital Humanities
+university,The Oxford Internet Institute,has_tag,community,Digital Humanities
+person,Thomas Prehn,has_tag,keyword,Public Sector Innovation
+person,Danah Boyd,has_tag,community,Digital Humanities
+university,Digital Ethics Lab,collaborate,university,The Oxford Internet Institute
+university,Digital Ethics Lab,has_tag,community,Digital Humanities
+university,Cph Centre for Social Data Science,belong_to,community,Nordic Digital Humanities
+university,Cph Centre for Social Data Science,has_tag,community,Digital Humanities
+university,Ethos Lab,collaborate,university,TANT Lab
+university,Ethos Lab,has_tag,keyword,Ethics
+university,Ethos Lab,belong_to,community,Nordic Digital Humanities
+university,Ethos Lab,has_tag,community,Digital Humanities
+person,Brit Ross Wintheriek,work_for,university,Ethos Lab
+person,Apolitical,has_tag,keyword,Public Sector Innovation
+person,Brit Ross Wintheriek,belong_to,community,Nordic Digital Humanities
+person,Brit Ross Wintheriek,has_tag,community,Digital Humanities
+university,DigHumLab,belong_to,community,Nordic Digital Humanities
+university,DigHumLab,has_tag,community,Digital Humanities
+university,NetLab,collaborate,university,DigHumLab
+university,NetLab,belong_to,community,Nordic Digital Humanities
+university,NetLab,has_tag,community,Digital Humanities
+person,Niels Brugger,work_for,university,NetLab
+person,Niels Brugger,belong_to,community,Nordic Digital Humanities
+person,Niels Brugger,has_tag,community,Digital Humanities
+person,The GovLab,has_tag,keyword,Internet Policy
+university,AU DataLab,belong_to,community,Nordic Digital Humanities
+university,AU DataLab,has_tag,community,Digital Humanities
+person,Anja Bechmann,work_for,university,AU DataLab
+person,Anja Bechmann,belong_to,community,Nordic Digital Humanities
+person,Anja Bechmann,has_tag,community,Digital Humanities
+university,Psychometrics Centre,has_tag,keyword,Psychometrics
+person,David Stillwell,work_for,university,Psychometrics Centre
+person,David Stillwell,has_tag,keyword,Psychometrics
+person,Ulf Aslak,collaborate,person,Sune Lehmann
+person,Ulf Aslak,work_for,university,Cph Centre for Social Data Science
+person,The GovLab,has_tag,keyword,Public Sector Innovation
+person,Ulf Aslak,has_tag,keyword,Psychometrics
+person,Suzy Moat,work_for,university,Data Science Lab
+person,Suzy Moat,has_tag,keyword,Psychometrics
+organisation,Data-Pop Alliance,collaborate,organisation,Flowminder
+organisation,Data-Pop Alliance,collaborate,university,MIT Media Lab
+organisation,Data-Pop Alliance,collaborate,organisation,Harvard Humanitarian Initiative
+organisation,Data-Pop Alliance,collaborate,organisation,ODI
+organisation,Data-Pop Alliance,has_tag,keyword,Tech for Good
+organisation,Flowminder,has_tag,keyword,Tech for Good
+university,DELab UW,has_tag,keyword,Internet Policy
+organisation,MindLab,has_tag,keyword,Public Sector Innovation
+university,DELab UW,collaborate,project,NGI4eu - Engineroom
+university,DELab UW,has_tag,keyword,Tech for Good
+project,NGI4eu - Engineroom,has_tag,keyword,Internet Policy
+project,NGI4eu - Engineroom,has_tag,keyword,Think Tank
+project,NGI4eu - Engineroom,has_tag,keyword,Innovation Management
+project,NGI4eu - Engineroom,fund,organisation,Horizon 2020
+project,NGI4eu - Engineroom,has_tag,keyword,Tech for Good
+organisation,NESTA,collaborate,organisation,EdgeRyders
+organisation,NESTA,has_tag,keyword,Innovation Management
+organisation,NESTA,collaborate,project,NGI4eu - Engineroom
+person,Patrick Genoud,has_tag,keyword,Public Sector Innovation
+organisation,NESTA,has_tag,keyword,Tech for Good
+organisation,CAST,collaborate,organisation,NESTA
+organisation,CAST,has_tag,keyword,Tech for Good
+organisation,DSI4EU,fund,organisation,Horizon 2020
+organisation,DSI4EU,has_tag,keyword,Tech for Good
+organisation,EdgeRyders,has_tag,keyword,Tech for Good
+organisation,DESIS,has_tag,keyword,Tech for Good
+project,Open4Citizens,fund,organisation,Horizon 2020
+project,Open4Citizens,has_tag,keyword,Tech for Good
+organisation,Superflux,has_tag,keyword,Tech for Good
+person,Kevin Richman,has_tag,keyword,Public Sector Innovation
+person,Zoe Romano,has_tag,keyword,Tech for Good
+person,Alberto Cottica,has_tag,keyword,Tech for Good
+person,Hilary Cottam,has_tag,keyword,Tech for Good
+organisation,The Young Foundation,has_tag,keyword,Tech for Good
+person,Juan Mateos Garcia,work_for,organisation,NESTA
+person,Juan Mateos Garcia,study_at,university,SPRU
+person,Juan Mateos Garcia,has_tag,keyword,Issue Mapping
+person,Juan Mateos Garcia,has_tag,keyword,Tech for Good
+person,Joel Klinger,work_for,organisation,NESTA
+person,Joel Klinger,has_tag,keyword,Tech for Good
+tool,Tom Sawyer Perspectives,use,tool,Neo4j Graph Database
+person,Konstantinos Stathoulopoulos,has_tag,keyword,Issue Mapping
+person,Konstantinos Stathoulopoulos,work_for,organisation,NESTA
+person,Konstantinos Stathoulopoulos,has_tag,keyword,Tech for Good
+person,Geoff Mulgan,work_for,organisation,NESTA
+person,Geoff Mulgan,work_for,organisation,The Young Foundation
+person,Geoff Mulgan,has_tag,keyword,Tech for Good
+person,Chris Haley,has_tag,keyword,Internet Policy
+person,Chris Haley,work_for,organisation,NESTA
+person,Chris Haley,has_tag,keyword,Innovation Management
+person,Chris Haley,has_tag,keyword,Tech for Good
+person,Burak Arikan,create,tool,Graph Commons
+tool,Tom Sawyer Perspectives,has_tag,keyword,Intelligence Tools and Services
+person,Ezio Manzini,work_for,university,Politecnico di Milano Design Department
+person,Ezio Manzini,create,organisation,DESIS
+person,Ezio Manzini,has_tag,keyword,Service Design
+university,"AAU - Architecture, Design and Media Technology",has_tag,keyword,Service Design
+person,Nicola Morelli,create,organisation,DESIS
+person,Nicola Morelli,work_for,university,"AAU - Architecture, Design and Media Technology"
+person,Nicola Morelli,work_for,university,Politecnico di Milano Design Department
+person,Nicola Morelli,create,project,Open4Citizens
+person,Nicola Morelli,has_tag,keyword,Service Design
+person,Massimo Menichinelli,has_tag,keyword,Service Design
+tool,FNA Platform,has_tag,keyword,Intelligence Tools and Services
+business,Frog,has_tag,keyword,Design Consultants
+business,ReD Associates,has_tag,keyword,Design Consultants
+organisation,OpenIDEO,collaborate,organisation,IFTF
+organisation,OpenIDEO,has_tag,keyword,Design Consultants
+person,Rikke Ulk,collaborate,project,Open4Citizens
+person,Rikke Ulk,has_tag,keyword,Design Consultants
+person,Carlos Moedas,has_tag,keyword,Innovation Management
+person,Eurecat,collaborate,organisation,NESTA
+person,Eurecat,has_tag,keyword,Innovation Management
+person,Max Munnecke,work_for,university,"AAU - Architecture, Design and Media Technology"
+organisation,Fact Gem,use,tool,Neo4j Graph Database
+person,Max Munnecke,work_for,university,DTU management
+person,Max Munnecke,has_tag,keyword,Issue Mapping
+person,Max Munnecke,belong_to,community,Science and Technology Studies
+person,Max Munnecke,has_tag,keyword,Innovation Management
+person,Pedro Parraguez Ruiz,work_for,university,DTU management
+person,Pedro Parraguez Ruiz,create,tool,Net-Sights
+person,Pedro Parraguez Ruiz,has_tag,keyword,Innovation Management
+person,Anja Maier,work_for,university,DTU management
+person,Anja Maier,has_tag,keyword,Innovation Management
+tool,Net-Sights,has_tag,keyword,Innovation Management
+organisation,Fact Gem,has_tag,keyword,Intelligence Tools and Services
+business,Kenedict Innovation Analytics,has_tag,keyword,Innovation Management
+person,Andre Vermeij,work_for,business,Kenedict Innovation Analytics
+person,Andre Vermeij,use,tool,Sigma.js
+person,Andre Vermeij,has_tag,keyword,Innovation Management
+organisation,Global Pulse,has_tag,keyword,Tech for Good
+organisation,Global Pulse,has_tag,keyword,Humanitarian
+organisation,Forum for the future,has_tag,keyword,Humanitarian
+organisation,Harvard Humanitarian Initiative,has_tag,keyword,Humanitarian
+organisation,ODI,has_tag,keyword,Humanitarian
+person,Benjamin Kumpf,has_tag,keyword,Humanitarian
+business,Tom Sawyer Software,create,tool,Tom Sawyer Perspectives
+organisation,Open Society,has_tag,keyword,Humanitarian
+person,Sarah Higginson,use,tool,Gephi
+person,Sarah Higginson,has_tag,keyword,STS modelling
+person,Eoghan McKenna,has_tag,keyword,STS modelling
+person,Tom Hargreaves,has_tag,keyword,STS modelling
+person,Emile Chappin,collaborate,person,Floortje_Alkemade
+person,Emile Chappin,has_tag,keyword,STS modelling
+person,Floortje_Alkemade,collaborate,person,Loet Leydesdorff
+person,Floortje_Alkemade,has_tag,keyword,STS modelling
+university,SPRU,has_tag,keyword,STS modelling
+business,Tom Sawyer Software,has_tag,keyword,Intelligence Tools and Services
+person,Johan Schot,work_for,university,SPRU
+person,Johan Schot,has_tag,keyword,STS modelling
+person,Frank W. Geels,collaborate,person,Johan Schot
+person,Frank W. Geels,has_tag,keyword,STS modelling
+organisation,Digital Science,has_tag,keyword,Scientometrics
+person,Loet Leydesdorff,has_tag,keyword,Scientometrics
+person,Ludo Waltman,create,tool,Vosviewer
+person,Ludo Waltman,has_tag,keyword,Scientometrics
+person,Nees Jan van Eck,create,tool,Vosviewer
+person,Nees Jan van Eck,has_tag,keyword,Scientometrics
+business,SciBite,has_tag,keyword,Scientometrics
+person,Katy Borner,work_for,university,CNS Center
+person,Katy Borner,has_tag,keyword,Scientometrics
+university,CNS Center,has_tag,keyword,Scientometrics
+person,Katherine Ognyanova,use,tool,Gephi
+person,Katherine Ognyanova,has_tag,keyword,Network Analysis
+university,Center for Business Data Analytics,has_tag,keyword,Network Analysis
+person,Christoph Houman Ellersgaard,collaborate,person,Anton Grau Larsen
+person,Christoph Houman Ellersgaard,has_tag,keyword,Network Analysis
+person,Anton Grau Larsen,has_tag,keyword,Network Analysis
+person,Sune Lehmann,work_for,university,Cph Centre for Social Data Science
+business,SciBite,has_tag,keyword,Intelligence Tools and Services
+person,Sune Lehmann,collaborate,university,MIT Senseable
+person,Sune Lehmann,has_tag,keyword,Psychometrics
+person,Sune Lehmann,has_tag,keyword,Network Analysis
+university,dlab @ EPFL,has_tag,keyword,Network Analysis
+person,Robert West,collaborate,person,Jure Leskovec
+person,Robert West,study_at,university,Stanford University
+person,Robert West,work_for,university,dlab @ EPFL
+person,Robert West,belong_to,community,Big Data USA
+person,Robert West,has_tag,keyword,Network Analysis
+person,Sean P. Goggins,collaborate,university,Kings College - Digital Humanities
+business,Altmetric,has_tag,keyword,Scientometrics
+person,Sean P. Goggins,has_tag,keyword,Network Analysis
+person,Laszlo Barabasi,has_tag,keyword,Network Analysis
+person,Network Science CEU,has_tag,keyword,Network Analysis
+person,Mathieu Bastian,create,tool,Gephi
+person,Mathieu Bastian,has_tag,keyword,Coders
+person,Mathieu Bastian,has_tag,keyword,Network Analysis
+organisation,SoBigData,has_tag,community,Italian Network Analysis
+person,Alessandro Vespignani,has_tag,community,Italian Network Analysis
+person,Luca Pappalardo,has_tag,community,Italian Network Analysis
+university,KDD Lab Pisa,collaborate,organisation,SoBigData
+business,Altmetric,has_tag,keyword,Intelligence Tools and Services
+university,KDD Lab Pisa,has_tag,community,Italian Network Analysis
+person,Dino Pedreschi,work_for,university,KDD Lab Pisa
+person,Dino Pedreschi,has_tag,community,Italian Network Analysis
+university,GATE,collaborate,organisation,SoBigData
+university,GATE,has_tag,community,Italian Network Analysis
+organisation,Data r&d institute,has_tag,community,French Network Analysis
+person,Clement Levallois,work_for,organisation,Data r&d institute
+person,Clement Levallois,has_tag,keyword,Scientometrics
+person,Clement Levallois,collaborate,tool,Gephi
+person,Clement Levallois,use,tool,Gephi
+person,Burak Arikan,has_tag,keyword,Coders
+person,Kimmo Soramaki,create,tool,FNA Platform
+person,Clement Levallois,use,tool,Vosviewer
+person,Clement Levallois,has_tag,community,French Network Analysis
+university,Inria,has_tag,community,French Network Analysis
+university,IFRIS,collaborate,university,INRA
+university,IFRIS,has_tag,community,French Network Analysis
+university,IXXI,collaborate,university,Inria
+university,IXXI,has_tag,community,French Network Analysis
+person,Pablo Jensen,collaborate,person,Tommaso Venturini
+person,Pablo Jensen,collaborate,person,Sebastian Grauwin
+person,Pablo Jensen,work_for,university,IXXI
+person,Kimmo Soramaki,collaborate,person,Clement Levallois
+person,Pablo Jensen,has_tag,community,French Network Analysis
+person,Sebastian Grauwin,collaborate,university,MIT Senseable
+person,Sebastian Grauwin,collaborate,university,Sciences Po medialab
+person,Sebastian Grauwin,has_tag,community,French Network Analysis
+person,Guy Melançon,collaborate,organisation,EdgeRyders
+person,Guy Melançon,work_for,university,Inria
+person,Guy Melançon,has_tag,community,French Network Analysis
+person,Dominique Vinck,collaborate,university,IFRIS
+person,Dominique Vinck,has_tag,community,French Network Analysis
+person,Stephen Mallette,belong_to,community,Graph Crowd
+person,Kimmo Soramaki,has_tag,keyword,Intelligence Tools and Services
+person,Marko A. Rodriguez,belong_to,community,Graph Crowd
+business,Neo4j,create,tool,Neo4j Graph Database
+business,Neo4j,create,tool,openCypher
+business,Neo4j,belong_to,community,Graph Crowd
+person,Emil Eifrem,create,business,Neo4j
+person,Emil Eifrem,belong_to,community,Graph Crowd
+person,Amy Hodler,work_for,business,Neo4j
+person,Amy Hodler,belong_to,community,Graph Crowd
+business,Graphistry,belong_to,community,Graph Crowd
+event,GraphConnect,collaborate,business,Neo4j
+business,Cambridge Intelligence,create,tool,Keylines
+event,GraphConnect,belong_to,community,Graph Crowd
+business,GraphAware,collaborate,business,Neo4j
+business,GraphAware,belong_to,community,Graph Crowd
+business,Linkurious SAS,create,tool,Linkurious
+business,Linkurious SAS,belong_to,community,Graph Crowd
+person,Sebastian Heymann,create,tool,Gephi
+person,Sebastian Heymann,work_for,business,Linkurious SAS
+person,Sebastian Heymann,belong_to,community,Graph Crowd
+person,Jean Villedieu,work_for,business,Linkurious SAS
+person,Jean Villedieu,belong_to,community,Graph Crowd
+business,Cambridge Intelligence,has_tag,keyword,Micro-targeting
+person,Sylvain Roussy,use,tool,Neo4j Graph Database
+person,Sylvain Roussy,belong_to,community,Graph Crowd
+person,Michel Caradec,use,tool,Neo4j Graph Database
+person,Michel Caradec,belong_to,community,Graph Crowd
+person,John Swain,use,tool,Neo4j Graph Database
+person,John Swain,belong_to,community,Graph Crowd
+person,Christophe Willemsen,work_for,business,GraphAware
+person,Christophe Willemsen,use,tool,Neo4j Graph Database
+person,Christophe Willemsen,belong_to,community,Graph Crowd
+person,Miro Marchi,work_for,business,GraphAware
+business,Cambridge Intelligence,has_tag,keyword,Intelligence Tools and Services
+person,Miro Marchi,work_for,university,ISI foundation
+person,Miro Marchi,use,tool,Neo4j Graph Database
+person,Miro Marchi,belong_to,community,Graph Crowd
+person,Niek Bartholomeus,create,tool,Opentheboxbe
+person,Niek Bartholomeus,use,tool,Neo4j Graph Database
+person,Niek Bartholomeus,belong_to,community,Graph Crowd
+tool,Opentheboxbe,use,tool,Neo4j Graph Database
+tool,Opentheboxbe,belong_to,community,Graph Crowd
+person,Roelof Pieters,has_tag,keyword,Ethics
+person,Roelof Pieters,use,tool,Neo4j Graph Database
+tool,Linkurious,use,tool,Neo4j Graph Database
+person,Roelof Pieters,belong_to,community,Graph Crowd
+person,Cedric Fauvet,work_for,business,Neo4j
+person,Cedric Fauvet,use,tool,Neo4j Graph Database
+person,Cedric Fauvet,belong_to,community,Graph Crowd
+person,Benoit Simard,collaborate,university,Sciences Po medialab
+person,Benoit Simard,work_for,business,Neo4j
+person,Benoit Simard,use,tool,Neo4j Graph Database
+person,Benoit Simard,belong_to,community,Graph Crowd
+person,Lorenzo Speranzoni,work_for,business,Neo4j
+person,Lorenzo Speranzoni,use,tool,Neo4j Graph Database
+tool,Linkurious,has_tag,keyword,Micro-targeting
+person,Lorenzo Speranzoni,belong_to,community,Graph Crowd
+person,Jim Webber,work_for,business,Neo4j
+person,Jim Webber,use,tool,Neo4j Graph Database
+person,Jim Webber,belong_to,community,Graph Crowd
+person,Philip Rathle,work_for,business,Neo4j
+person,Philip Rathle,use,tool,Neo4j Graph Database
+person,Philip Rathle,belong_to,community,Graph Crowd
+person,Jesus Barrasa,work_for,business,Neo4j
+person,Jesus Barrasa,use,tool,Neo4j Graph Database
+person,Jesus Barrasa,belong_to,community,Graph Crowd
+tool,Linkurious,has_tag,keyword,Intelligence Tools and Services
+person,Jesus Barrasa,has_tag,keyword,Coders
+person,Michael Hunger,attend,event,FOSDEM
+person,Michael Hunger,work_for,business,Neo4j
+person,Michael Hunger,use,tool,Neo4j Graph Database
+person,Michael Hunger,belong_to,community,Graph Crowd
+person,Michael Hunger,has_tag,keyword,Coders
+person,Mark Needham,work_for,business,Neo4j
+person,Mark Needham,use,tool,Neo4j Graph Database
+person,Mark Needham,belong_to,community,Graph Crowd
+person,Mark Needham,has_tag,keyword,Coders
+tool,Keylines,use,tool,Neo4j Graph Database
+person,William Lyon,work_for,business,Neo4j
+person,William Lyon,use,tool,Neo4j Graph Database
+person,William Lyon,belong_to,community,Graph Crowd
+person,William Lyon,has_tag,keyword,Coders
+person,Max De Marzi,work_for,business,Neo4j
+person,Max De Marzi,use,tool,Neo4j Graph Database
+person,Max De Marzi,belong_to,community,Graph Crowd
+person,Max De Marzi,has_tag,keyword,Coders
+person,Ryan Boyd,work_for,business,Neo4j
+person,Ryan Boyd,use,tool,Neo4j Graph Database
+person,Nathan Silver,work_for,organisation,FiveThirtyEight
+tool,Keylines,has_tag,keyword,Micro-targeting
+person,Ryan Boyd,belong_to,community,Graph Crowd
+person,Ryan Boyd,has_tag,keyword,Coders
+person,Rik Van Bruggen,work_for,business,Neo4j
+person,Rik Van Bruggen,use,tool,Neo4j Graph Database
+person,Rik Van Bruggen,belong_to,community,Graph Crowd
+person,Rik Van Bruggen,has_tag,keyword,Coders
+person,Petra Selmer,work_for,business,Neo4j
+person,Petra Selmer,has_tag,keyword,Query Language
+person,Petra Selmer,collaborate,tool,openCypher
+person,Andrés Taylor,work_for,business,Neo4j
+tool,Keylines,has_tag,keyword,Intelligence Tools and Services
+person,Andrés Taylor,has_tag,keyword,Query Language
+person,Andrés Taylor,collaborate,tool,openCypher
+person,Martin Junghanns,attend,event,FOSDEM
+person,Martin Junghanns,work_for,business,Neo4j
+person,Martin Junghanns,has_tag,keyword,Query Language
+person,Martin Junghanns,collaborate,tool,openCypher
+person,Stefan Plantikow,attend,event,FOSDEM
+person,Stefan Plantikow,work_for,business,Neo4j
+person,Stefan Plantikow,has_tag,keyword,Query Language
+person,Stefan Plantikow,collaborate,tool,openCypher
+person,Cambridge Analytica,has_tag,keyword,Micro-targeting
+person,Gabor Szarnyas,has_tag,keyword,Query Language
+person,Gabor Szarnyas,collaborate,tool,openCypher
+person,József Marton,collaborate,person,Gabor Szarnyas
+person,József Marton,has_tag,keyword,Query Language
+person,József Marton,collaborate,tool,openCypher
+person,Peter Wood,has_tag,keyword,Query Language
+person,Peter Wood,collaborate,tool,openCypher
+business,Microsoft Research,belong_to,community,Big Data USA
+university,MIT Senseable,collaborate,university,MIT Media Lab
+university,MIT Senseable,belong_to,community,Big Data USA
+person,Cambridge Analytica,has_tag,keyword,Intelligence Tools and Services
+university,Stanford NLP Group,collaborate,university,Stanford University
+university,Stanford NLP Group,belong_to,community,Big Data USA
+person,Deb Roy,work_for,university,MIT Media Lab
+person,Deb Roy,belong_to,community,Big Data USA
+person,Gilad Lotan,belong_to,community,Big Data USA
+person,Lada Adamic,work_for,university,Stanford University
+person,Lada Adamic,use,tool,Gephi
+person,Lada Adamic,work_for,university,Stanford NLP Group
+person,Lada Adamic,belong_to,community,Big Data USA
+person,Jure Leskovec,work_for,university,Stanford University
+business,Linkfluence,has_tag,keyword,Micro-targeting
+person,Jure Leskovec,work_for,university,Stanford NLP Group
+person,Jure Leskovec,belong_to,community,Big Data USA
+person,Christopher Manning,work_for,university,Stanford NLP Group
+person,Christopher Manning,belong_to,community,Big Data USA
+person,Richard Socher,work_for,university,Stanford University
+person,Richard Socher,work_for,university,Stanford NLP Group
+person,Richard Socher,belong_to,community,Big Data USA
+person,Jon Kleinberg,work_for,university,Stanford NLP Group
+person,Jon Kleinberg,belong_to,community,Big Data USA
+person,Elijah Meeks,has_tag,keyword,Data Visualization
+business,Linkfluence,has_tag,keyword,Intelligence Tools and Services
+person,Nadieh Bremer,has_tag,keyword,Data Visualization
+person,Lynn Cherny,work_for,organisation,Data r&d institute
+person,Lynn Cherny,has_tag,keyword,Data Visualization
+person,Nathan Yau,has_tag,keyword,Data Visualization
+university,BerkeleyAMI,has_tag,keyword,Data Visualization
+person,Jeffrey Heer,work_for,university,Stanford University
+person,Jeffrey Heer,work_for,university,Interactive Data Lab
+person,Jeffrey Heer,use,tool,D3.js
+person,Jeffrey Heer,has_tag,keyword,Coders
+person,Jeffrey Heer,has_tag,keyword,Data Visualization
+business,Eclectic iq,create,tool,Eclecticiq Platform
+university,Interactive Data Lab,has_tag,keyword,Data Visualization
+person,Mike Bostock,create,tool,D3.js
+person,Mike Bostock,has_tag,keyword,Coders
+person,Mike Bostock,has_tag,keyword,Data Visualization
+report,Information is Beautiful Infographics,has_tag,keyword,Data Visualization
+person,Alexis Jacomy,collaborate,person,Guillaume Plique
+person,Alexis Jacomy,create,tool,Sigma.js
+person,Alexis Jacomy,has_tag,keyword,Coders
+person,Alexis Jacomy,has_tag,keyword,Data Visualization
+business,Eclectic iq,has_tag,keyword,Micro-targeting
+business,Eclectic iq,has_tag,keyword,Intelligence Tools and Services
+tool,Eclecticiq Platform,use,tool,Keylines
+person,Rod Falcon,work_for,organisation,IFTF
+tool,Eclecticiq Platform,has_tag,keyword,Micro-targeting
+tool,Eclecticiq Platform,has_tag,keyword,Intelligence Tools and Services
+university,Digital Methods Initiative,create,tool,DMI-TCAT
+university,Digital Methods Initiative,has_tag,keyword,Internet and New Media
+person,FORCCAST,has_tag,keyword,Issue Mapping
+university,TANT Lab,collaborate,university,Sciences Po medialab
+university,TANT Lab,collaborate,organisation,PublicDataLab
+university,TANT Lab,collaborate,person,Tommaso Venturini
+university,TANT Lab,collaborate,person,Jonathan Gray
+university,TANT Lab,collaborate,person,Liliana Bounegru
+person,Josef Hargrave,work_for,business,Arup Foresight
+university,TANT Lab,has_tag,keyword,Issue Mapping
+person,Bruno Latour,create,university,Sciences Po medialab
+person,Bruno Latour,create,person,FORCCAST
+person,Bruno Latour,has_tag,keyword,Issue Mapping
+person,Bruno Latour,work_for,university,Sciences Po medialab
+person,Bruno Latour,belong_to,community,Science and Technology Studies
+person,Tommaso Venturini,work_for,university,Kings College - Digital Humanities
+person,Tommaso Venturini,create,tool,MiniVAN
+person,Tommaso Venturini,create,university,Sciences Po medialab
+person,Tommaso Venturini,work_for,university,DANTE
+organisation,Pew Research,has_tag,keyword,Think Tank
+person,Tommaso Venturini,collaborate,organisation,PublicDataLab
+person,Tommaso Venturini,has_tag,keyword,Issue Mapping
+person,Tommaso Venturini,work_for,university,Sciences Po medialab
+person,Tommaso Venturini,belong_to,community,Science and Technology Studies
+person,Robin De Mourat,work_for,university,Sciences Po medialab
+person,Robin De Mourat,belong_to,community,Science and Technology Studies
+person,Paul Girard,create,tool,Hyphe
+person,Paul Girard,work_for,university,Sciences Po medialab
+person,Paul Girard,belong_to,community,Science and Technology Studies
+person,Guillaume Plique,create,tool,MiniVAN

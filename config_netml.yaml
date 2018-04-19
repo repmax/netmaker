@@ -1,0 +1,42 @@
+# The named properties in second block
+props: 
+  bl: 'blog'
+  ww: 'webpage'
+  lo: 'location'
+  tw: 'twitter'
+  im: 'image'
+  in: 'icon'
+  ig: 'instagram'
+  em: 'email'
+  ln: 'linkedin'
+  fb: 'facebook'
+  gh: 'github'
+  gp: 'gplus'
+  yt: 'youtube'
+  rk: 'rank'
+  rg: 'researchgate'
+  
+# The types of links between nodes in the third block
+links: 
+  wrk: 'work_for'
+  col: 'collaborate'
+  use: 'use'
+  edu: 'study_at'
+  att: 'attend'
+  cre: 'create'
+  key: 'has_tag'
+  bel: 'belong_to'
+  fnd: 'fund'
+  
+# Types of nodes
+types: 
+  k: 'keyword'
+  c: 'community'
+  o: 'organisation'
+  b: 'business'
+  u: 'university'
+  p: 'person'
+  e: 'event'
+  j: 'project' 
+  r: 'report'
+  t: 'tool'

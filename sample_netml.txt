@@ -1,0 +1,134 @@
+[------------------------------
+
+Sample NetML file
+v0.1, Apr 2018
+
+# Think tank
+## Policy Technology Strategic Innovation
+
+]++++++++++++++++++++++++++++++
+Nathan Silver; p; Editor-in-chief | tw:NateSilver538 | wrk:oFive38
+Rod Falcon; p; Technology Futures Lab, #automatedworld, #newbodylanguage, #everythingismedia #makercities, #futurenow, LGBTQ futures | tw:rodfalcon lo:Palo_Alto/USA | wrk:oIFTF
+Josef Hargrave; p; Global Foresight Manager at Arup | tw:josefhargrave lo:London/UK ww:driversofchange.com | wrk:bArup
+
+Think Tank; kThinkTank; Long term thinkers ||
+## key:kThinkTank
+Pew Research; oPew | lo:Washington/USA tw:pewresearch ww:pewresearch.org |
+FiveThirtyEight; oFive38 |  ww:fivethirtyeight.com
+Gartner; bGartner; We deliver the insights necessary for leaders in every function, market and enterprise size to make the right decisions. | tw:Gartner_inc lo:Stamford/USA ww:gartner.com fb:Gartner
+Crimson Hexagon; oHex; Social brand/marketing | ww:crimsonhexagon.com tw:crimsonhexagon |
+Fast Forward Labs; bFFL; A machine intelligence research company | ww:fastforwardlabs.com tw:FastForwardLabs |
+Arup Foresight; bArup; Monitoring the drivers likely to impact the future of the built environment and society at large. Part of @ArupGroup | tw:arupforesight lo:London/UK ww:driversofchange.com |
+IFTF; oIFTF; Institute for the Future, nonprofit 50 years of leading the world in strategic futures | tw:iftf lo:Palo_Alto/USA ww:iftf.org fb:InstituteForTheFuture bl:iftf.org/future-now/ | key:kMap
+CIFS; oCIFS; The Copenhagen Institute for Futures Studies creates awareness of the future and highlights its importance to the present. | tw:futuresstudies ww:cifs.dk | 
+Demos Helsinki; o; The Nordic think tank. We focus on the innovative use of natural and human resources. #foresight #cocreation | tw:DemosHelsinki lo:Finland ww:demoshelsinki.fi/en fb:DemosHelsinki  ig:demoshelsinki |
+RAND Corporation; oRAND; RAND helps improve policy and decisionmaking through research and analysis. RAND is nonprofit, nonpartisan, and committed to the public interest. | tw:RANDCorporation lo:Santa_Monica/USA ww:rand.org |
+VTT; oVTT; VTT Technical Research Centre of Finland Ltd. Technological breakthroughs for a clean world, sustainable economy, good life - and new business! |  tw:VTTFinland lo:Finland ww:vtt.fi |
+TNO Research; p; TNO connects people and knowledge to create innovations that boost the sustainable competitive strength of industry and well-being of society. | tw:TNO_Research lo:The_Hague/Netherlands ww:tno.nl | 
+i2CAT; p; Centre de Recerca i Innovació en Internet avançada. Research and Innovation Center in Advanced Internet | tw:i2CAT lo:Barcelona/Spain ww:i2cat.net | col:jOpen4
+[----------------------------
+
+]+++++++++++++++++++++++++++++
+Public Sector Innovation; kPubInn
+
+## key:kPubInn
+Swiss Data Science Center; oSDSC; ETH Domain initiative for Data Science in Switzerland | ww:datascience.ch tw:SCSCdatascience |
+Olivier Verscheure; p; Director of SDSC, #DataScience | tw:OsaeKomi lo:Lausanne/Switzerland | wrk:oSDSC
+DigitalSingleMarket; o; Official EU account for European #DigitalSingleMarket. | tw:DSMeu ww:ec.europa.eu/digital-single-market | 
+Thomas Prehn; p; Creative Strategist. Business Innovator. Entrepreneurial Adventurer. Leadership Hacker. Organizational Transformer. Director @MindLabdk. Writes @apoliticalco | tw:tprehn lo:Copenhagen/Denmark ww:apolitical.co/solution_article/thomas-prehns-innovation-diary-dont-bring-me-solutions-bring-me-problems/ | wrk:oMindLab
+Apolitical; p; A global platform for public servants, sharing our writing on cities, gender, government innovation, data, inequality and more.| tw:apoliticalco lo:London/UK ww:apolitical.co |
+The GovLab; p; Studying and co-designing data-driven & participatory decisions - thanks to @macfound, @OmidyarNetwork #opendata #opengov #civictech Based @nyu @nyutandon | tw:TheGovLab lo:Brooklyn/USA ww:thegovlab.org | key:kIntPol
+MindLab; oMindLab; A Danish cross-governmental innovation unit. We involve citizens and businesses in developing new solutions for the public sector | tw:MindLabDK lo:Copenhagen/Denmark ww:mind-lab.dk/en/ |
+Patrick Genoud; p; Involved in strategic planning and innovation for the state of Geneva, considering technologies in a social perspective. Member of the Genève Lab. | tw:patgen lo:Geneva/Switzerland ww:about.me/patgen
+Kevin Richman; p; Innovation Specialist @OECD, @OPSIgov, Passionate about improving the value of government for citizens. Thoughts are my own. | tw:kirichman |
+[-------------------------
+
+]+++++++++++++++++++++++++
+Intelligence Tools and Services; kIntel ||
+## key:kIntel
+Tom Sawyer Perspectives; tTomSaw; Rapidly build graphs || use:tNeo
+FNA Platform; tFNA; Graph Analytics Platform for finance | ww:fna.fi/platform tw:FNALab |
+Fact Gem; o | ww:factgem.com/ | use:tNeo
+Tom Sawyer Software; bTomSoft; Software development | lo:Berkeley/USA fb:TSawyerSoftware tw:TSawyerSoftware ww:tomsawyer.com | cre:tTomSaw
+SciBite; b; Biopharma text mining, semantics and data intelligence | tw:SciBite ww:scibite.com | key:kScienceto
+Altmetric; b; Provides a visually engaging and informative view of the online activity surrounding your scholarly content |ww:altmetric.com tw:altmetric | key:kScienceto
+Kimmo Soramaki; p; Founder and CEO | tw:soramaki | cre:tFNA col:pSeinecle
+
+Micro-targeting;kMicro ||
+## key:kMicro  key:kIntel
+Cambridge Intelligence; b | lo:Cambridge/UK tw:CambridgeIntel ww:cambridge-intelligence.com bl:cambridge-intelligence.com/blog | cre:tKeylines
+Linkurious; tLink; Visualize and explore data || use:tNeo
+Keylines; tKeylines; Reveals connections to help users make good decisions fast || use:tNeo
+Cambridge Analytica; p; Big Data. Behavioral Microtargeting. Political Campaign Support. Digital Support.| tw:CamAnalytica ww:cambridgeanalytica.org |
+Linkfluence; bLinkFlu; International #SocialMedia monitoring & research solutions for #brands and #agencies. Radarly, Linksight and Linkscape | tw:linkfluence ww:linkfluence.com
+Eclectic iq; bEclec; Cyber threat intelligence | ww:eclecticiq.com lo:Amsterdam/Netherlands| cre:tEclec
+Eclecticiq Platform; tEclec; Analyst-centric threat intelligence platform || use:tKeylines
+[----------------------------
+
+# Critical investigation
+##  science and technology studies 
+]++++++++++++++++++++++++++++++
+Digital Methods Initiative; uDigMet; New Media Science at University of Amsterdam | ww:wiki.digitalmethods.net/Dmi/DmiPeople lo:Amsterdam/Netherlands | cre:tTCAT key:kIntMed
+Sciences Po medialab; uMLab | ww:medialab.sciencespo.fr |
+FORCCAST; pFORCCAST || key:kMap
+CIM Warwick; uWarwick; The Centre for Interdisciplinary Methodologies, University of Warwick. | ww:warwick.ac.uk/fac/cross_fac/cim tw:CIMethods | 
+Media Studies @ Siegen; uSiegen; Media Studies, University of Siegen||
+TANT Lab; uTANT; Techno-Anthropology Lab at the University of Aalborg, Copenhagen | ww:tant-lab.aau.dk tw:TANTlab lo:Copenhagen/Denmark | col:uMLab col:oPubLab col:pTomVen col:pGray col:pLiBo key:kMap
+
+Science and Technology Studies; cSTS ||
+## wrk:uMLab bel:cSTS
+Bruno Latour; p | ww:bruno-latour.fr tw:BrunoLatourAIME fb:BrunoPaulLouisLatour | cre:uMLab cre:pFORCCAST key:kMap
+Tommaso Venturini; pTomVen; Lecturer @ King's College | ww:tommasoventurini.it/wp tw:TommasoVenturin | wrk:uKing cre:tMini cre:uMLab wrk:uDANTE col:oPubLab key:kMap
+Robin De Mourat; p ; design+development+humanities - Preparing PhD about how formats flicker in humanities publishing @UnivRennes_2 designer+developer @medialab_ScPo | tw:robindemourat lo:Paris/France |
+Paul Girard; p; Data Humanist | em:paul.girard@sciences-po.fr tw:paulanomalie |  cre:tHyphe
+
+##  wrk:uMLab bel:cSTS key:kCode 
+Guillaume Plique; pGuiPli ;Developer at SciencesPo médialab. JavaScript, Clojure & Shawarma. | em:guillaume.plique@sciencespo.fr tw:Yomguithereal lo:Paris/France gh:Yomguithereal |  cre:tMini cre:tHyphe cre:tSigma att:eFOSDEM
+Benjamin Ooghe-Tabanou; p; Administrateur de @RegardsCitoyens & #NosDéputésFr la nuit, Ingénieur de recherche au @medialab_ScPo le jour / mes tweets n'engagent que moi #DirectAN #OpenData | tw:boogheta lo:Paris/France gh:github.com/RouxRC | cre:tSeeAlso cre:tGaz cre:tHyphe wrk:oRegCit
+Mathieu Jacomy; p; Making tools for the social sciences at @medialab_ScPo & @PublicDataLab. Co-founder of @Gephi & #Hyphe. | tw:jacomyma | cre:tGephi cre:tHyphe key:kMap
+Donato Ricci; p; research design @medialab_ScPo methods @SPEAPSciencesPo investigations @naturpradi @algoglitch #ModesOfExistence #ResetModernity | tw:Optichiasm lo:Paris/France ww:bit.ly/do_does_this | wrk:uDeDe cre:tSeeAlso
+
+## wrk:uDigMet bel:cSTS
+Richard Rogers; pRiRo | tw:richardrogers lo:Amsterdam/Netherlands |  key:kIntMed key:kMap
+Esther Weltevrede; p; Assistant professor of new media and digital culture | tw:esthr
+Sabine Niederer; p; Professor of Visual Methodologies @AUAS #HvA, Founder @ http://citizendatalab.org , researcher @ Digital Methods Initiative #UvA, digital arts curator.| tw:sabinesabine lo:Amsterdam/Netherlands |  
+Anne Helmond; p; Assistant Professor of New Media and Digital Culture, University of Amsterdam.| tw:silvertje lo:Amsterdam/Netherlands ww:annehelmond.nl | key:kIntMed 
+Carolin Gerlitz; p; Professor Digital Media & Methods, @UniSiegen, currently fellow @CIMethods | tw:cgritz |  wrk:uSiegen wrk:uWarwick key:kIntMed key:kMap
+Fernando van der Vlist; p; Doctoral researcher, @mediaofcoop @digitalmethods @appstudies; Lecturer New Media & Digital Culture, @UvA_Amsterdam; #software #digitalmethods #platforms #apps | tw:fvandervlist ww:fernandovandervlist.nl |  wrk:uSiegen
+
+## key:kCode wrk:uDigMet
+Erik K Borra; p; Assistant professor in Journalism and New Media. Technical director of the Digital Methods Initiative. | tw:ekborra |  cre:tTCAT
+Bernhard Rieder; p; amsterdam university; lisboa; ??; history & politics of software & algorithms; digital methods; systematic doubt; benevolent misanthrope; en/fr/de/pt/nl | tw:RiederB ww:thepoliticsofsystems.net | cre:tTCAT
+
+## wrk:uTANT bel:cSTS
+Anders Kristian Munk; p; researcher | tw:AndersKMunk | cre:rDigMetoder
+Andreas Birkbak; p; researcher | tw:communaut |  cre:rDigMetoder
+Anders Koed Madsen; p; researcher ||
+Torben Elgaard Jensen; p | tw:TorbenElg | wrk:uDTUman
+
+Digitale metoder; rDigMetoder; En praktisk indføring i, hvad det vil sige at arbejde med digitalt fødte data. ISBN:9788741258218 ||
+
+## bel:cSTS
+Lionel Villard; p; I teach at @ESIEEPARIS (database, dataviz, GIS, Mapping controversies), and I am a member of IFRIS (Science and Technologie Studies) | tw:ScTechViz lo:Paris/France ww:sciences-technologies.eu/en | wrk:uIFRIS key:kMap
+Kenneth Dollerup; p; Cand.scient in #TechnoAnthropology. Interested in #Politics, #DKpol, #Technology, #PublicEngagement, #DigitalMethods, #Research | tw:kennethdolle fb:kennethdollerup lo:Copenhagen/Denmark | edu:uTANT
+Noortje Marres;p; Associate Professor in social theory, STS, digital sociology, experiments at CIM (University of Warwick) | tw:NoortjeMarres ww:noortjemarres.net | wrk:uWarwick col:uDigMet key:kIntMed key:kMap col:uSiegen bel:cSTS
+[------------------------------------------
+]+++++++++++++++++++++++
+Politecnico di Milano Design Department; uPolMil ||
+Density Design; uDeDe; Department of Design PoliMilano | ww:densitydesign.org tw:densitydesign lo:Milano/Italy | cre:tRAW cre:tSeeAlso col:uMLab col:uDigMet col:uPolMil  key:kDataVis
+Paolo Ciuccarelli; p | tw:pciuccarelli | wrk:uDeDe key:kMap
+Michele Mauri;p; Do stuff @densitydesign | tw:mikima em:michele.mauri@polimi.it ln:michelemauri ww:densitydesign.org/person/michele-mauri/ | wrk:uDeDe cre:tRAW col:oPubLab key:kMap key:kCode
+DataInterfaces; bDataInter; Consultancy | lo:Milan/Italy ww:datainterfaces.org |  col:uDeDe
+Marco Quaggiotto; p; Principal Investigator ||wrk:bDataInter
+
+ISI foundation; uISI; Institute for scientific exchange | ww:isi.it tw:ISI_Fondazione lo:Toriono/Italy | col:uDeDe key:cNetworkIT
+SocioPatterns; oSocPat | ww:sociopatterns.org tw:sociopatterns | key:cDigHum 
+Ciro Cattuto; p; Scientic Director | ww:cirocattuto.info tw:ciro | cre:oSocPat wrk:uISI
+Labic Ufes; uLabic; Laboratorio de Estudos sobre Imagem e Cibercultura da Universidade Federal do Espírito Santo (Ufes). | tw:ufeslabic lo:Vitoria/Brazil ww:labic.net | col:uMLab
+
+Cortext; tCortext | ww:cortext.net |
+INRA; uINRA | ww:inria.fr | use:tOpenCypher
+DANTE; uDANTE | ww:team.inria.fr/dante/ | col:uIXXI
+LISIS; uLISIS; LISIS is an interdisciplinary research laboratory dedicated to the study of science and innovation in societies. | ww:umr-lisis.fr | cre:tCortext col:uMLab col:uINRA
+Marc Barbier; p ; Research Director at Inra & #lisis Director of CorTexT Platform of LISIS & Co-Editor of the Revue d'Anthropologie des Connaissances #chercheur #inra #CorTexT |tw:mbarbier64 lo:Paris/France ww:umr-lisis.fr/membre/marc-barbier/ | wrk:uLISIS wrk:uINRA
+Jean-Philippe Cointet; p | tw:jphcoi |  wrk:uLISIS cre:tCortext wrk:uMLab key:kCode
