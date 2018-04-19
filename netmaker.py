@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 ===============================================
-netmaker python package
+netmaker python package v0.1
 python 3.5
 _______________________________________________
 NML2JSON()
@@ -31,10 +31,8 @@ Parameters:
 - csvEdges: Optionally write edge data to csv file.
 _______________________________________
 EXAMPLES
-
-dict_net = nml2json('net_digital-tools.txt','default-config.yaml','net_digital-tools.json')    
-
-df_nodes, df_edges = json2df(dict_net,'default-enrich.yaml', csvNodes='nodes.csv',csvEdges='edges.csv')
+dict_net = nml2json('sample_netml.txt','config_enrich.yaml','sample.json')    
+df_nodes, df_edges = json2df(dict_net,'config_enrich.yaml', csvNodes='sample_nodes.csv',csvEdges='sample_edges.csv')
 _______________________________________
 DEV NOTES
 
