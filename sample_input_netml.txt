@@ -1,0 +1,217 @@
+[------------------------------
+
+Sample NetML file
+v0.1, Dec 2018
+
+General entities
+]+++++++++++++++++++++++++++++
+// Technology
+Cytoscape; tCyto;Cytoscape announcements from core developers. | tw:cytoscape ww:cytoscape.org
+Gephi; tGephi | ww:gephi.org |
+Sigma.js; tSigma| ww:sigmajs.org| use:tD3 col:tGephi
+Vosviewer; tVos; A software tool for constructing and visualizing bibliometric networks. | ww:vosviewer.com |
+Neo4j Graph Database; tNeo ||
+Open Cypher; tCypher; openCypher is an open source project to broaden access to the industry’s most widely adopted graph query language: #Cypher. | tw:openCypher ww:opencypher.org |
+RAW Graphs; tRAW; The missing link between spreadsheets and data visualization | tw:rawgraphs lo:Milano/Italy ww:rawgraphs.io |
+D3.js; tD3| ww:d3js.org|
+Vega;tVega | ww:vega.github.io |
+Javascript; tJava ||
+Hyphe; tHyphe | gh:medialab/hyphe |
+DMI-TCAT; tTCAT; Twitter tool ||
+Seealsology; tSeeAlso | ww:tools.medialab.sciences-po.fr/seealsology/|
+Gazouilloire; tGaz | gh:medialab/gazouilloire|
+MiniVAN; tMini; Tool for visual network analysis ||
+Graph Commons; tCommons; Tool for mapping, analysing and publishing data-networks | ww:graphcommons.com tw:graphcommons | col:tNeo
+
+// Keywords, communities
+STS Controvery; cSTS ||
+Humanitarian; kHuman||
+Innovation Management; kInnMan
+Issue Mapping; kMap ||
+STS Modelling; kSTSModel
+Scientometrics; kScienceto; Analysing academic output ||
+Ethics; kEthic; Privacy, Open data etc.||
+Coders; kCode; Developers and programmers
+
+// Meta institutions
+DTU management; uDTUman || key:kInnMan
+Stanford University; uStan ||
+MIT Media Lab; uMIT | tw:medialab ww:media.mit.edu |
+Politecnico di Milano Design Department; uPolMil |
+
+## bel:cSTS
+Sciences Po medialab; uMLab | ww:medialab.sciencespo.fr |
+FORCCAST; pFORCCAST || key:kMap
+Digital Methods Initiative; uDigMet; New Media Science at University of Amsterdam | ww:wiki.digitalmethods.net/Dmi/DmiPeople lo:Amsterdam/Netherlands | cre:tTCAT key:kIntMed
+CIM Warwick; uWarwick; The Centre for Interdisciplinary Methodologies, University of Warwick. | ww:warwick.ac.uk/fac/cross_fac/cim tw:CIMethods | 
+Media Studies @ Siegen; uSiegen; Media Studies, University of Siegen||
+TANT Lab; uTANT; Techno-Anthropology Lab at the University of Aalborg, Copenhagen | ww:tant-lab.aau.dk tw:TANTlab lo:Copenhagen/Denmark | col:uMLab col:oPubLab col:pTomVen col:pGray col:pLiBo key:kMap
+[------------------------------------------------------------------
+
+Enterprise Network App
+]++++++++++++++++++++++++++
+
+Entreprise Network Apps; kNetApps ||
+## key:kNetApps
+FOSDEM; eFOSDEM; A two-day event organised by volunteers to promote the widespread use of free and open source software.
+GraphDevroom; eGraphRoom; The FOSDEM 2015 GraphDevroom is a free and non-commercial event organized by the graph community, for the graph community. | tw:GraphDevroom lo:Brussels/Belgium ww:graphdevroom.org | col:eFOSDEM
+GraphConnect; eGraph; GraphConnect – Connecting Data to Drive Innovation | tw:GraphConnect ww:graphconnect.com | col:bNeo
+ONTOFORCE;bONTO; ONTOFORCE is a technology company using the force of linked data to easily discover new insights in complex and big data sets.| tw:ONTOFORCE lo:Ghent/Belgium ww:ONTOFORCE.com
+Hans Constandt; p; Linked open data evangelizer believing it can change lives. On a mission to transform & disrupt companies, industries, and paradigms along the way…| tw:hconstandt ln:hansconstandt lo:Schepdaal/Belgium | cre:bONTO
+Alteryx; b; Alteryx is revolutionizing business through #datascience and #analytics, offering an end-to-end analytics platform for #datascientists and #analysts alike.| tw:alteryx lo:Irvine/usa ww:alteryx.com
+Kernix;o; Data & Digital : Conception et développement d’applications, produits & services numériques à haute valeur ajoutée. Créateurs de @accessible_net. Maker of TIGR | tw:Kernix lo:Paris ww:kernix.com bl:kernix.com/blog/
+Net-Sights; tSights | ww:netsights.dk | 
+Burak Arikan; p; Machine readable artist. Also see @arikantr | tw:arikan lo:New_York/USA ww:burak-arikan.com | edu:uMIT cre:tCommons key:kCode
+Kenedict Innovation Analytics; bKenedict; Innovation Analytics | lo:Utrecht/Netherlands ww:kenedict.com 
+Andre Vermeij;p| tw:Andre_Vermeij | wrk:bKenedict use:tSigma
+Graphistry; b; Help your team quickly investigate across event & log systems with the power of visual graph analytics, visual playbooks, & GPUs. We're hiring, in everything! | tw:Graphistry lo:San_Francisco/USA ww:graphistry.com |
+Tom Sawyer Perspectives; tTomSaw; Rapidly build graphs || use:tNeo
+FNA Platform; tFNA; Graph Analytics Platform for finance | ww:fna.fi/platform tw:FNALab |
+Fact Gem; o | ww:factgem.com/ | use:tNeo
+Tom Sawyer Software; bTomSoft; Software development | lo:Berkeley/USA fb:TSawyerSoftware tw:TSawyerSoftware ww:tomsawyer.com | cre:tTomSaw
+SciBite; b; Biopharma text mining, semantics and data intelligence | tw:SciBite ww:scibite.com | key:kScienceto
+Altmetric; b; Provides a visually engaging and informative view of the online activity surrounding your scholarly content |ww:altmetric.com tw:altmetric | key:kScienceto
+Kimmo Soramaki; p; Founder and CEO | tw:soramaki | cre:tFNA col:pSeinecle
+GraphAware; bGraAwa | ww:graphaware.com gh:graphaware | col:bNeo
+Linkurious; tLink; Visualize and explore data || use:tNeo
+Linkurious SAS; bLink; Developer of tool | ww:linkurio.us lo:Paris/France tw:Linkurious | cre:tLink
+Sebastian Heymann; p; @Gephi co-founder, CEO of @linkurious, PhD in computer science, I democratize network thinking. | tw:mentatseb lo:Paris/France ww:sebastien.pro | cre:tGephi wrk:bLink
+Jean Villedieu; p; Founder of @Linkurious a startup that specializes in graph data visualization #startup #bigdata #ci #innovation | tw:jvilledieu lo:Paris/France | wrk:bLink
+Cambridge Intelligence; bCamInt | lo:Cambridge/UK tw:CambridgeIntel ww:cambridge-intelligence.com bl:cambridge-intelligence.com/blog | cre:tKeylines
+Corey Lanum;p; Author of Visualizing Graph Data from Manning Publishers, Jazz Pianist, US Manager at Cambridge Intelligence, marathon runner. I hate Jane's Addiction | tw:corey_lanum lo:Boston/USA |wrk:bCamInt
+Joe Parry;p; Building visualization tools for intelligence analysts & investigators | tw:parry_joe lo:Cambridge/UK | wrk:bCamInt
+Keylines; tKeylines; Reveals connections to help users make good decisions fast || use:tNeo
+KeyLines; tKeylines; KeyLines visualizations turn data into insight, helping users make informed decisions fast. Developed by the @CambridgeIntel team. | tw:keylines lo:Cambridge/UK ww:cambridge-intelligence.com/keylines
+Cambridge Analytica; p; Big Data. Behavioral Microtargeting. Political Campaign Support. Digital Support.| tw:CamAnalytica ww:cambridgeanalytica.org |
+Linkfluence; bLinkFlu; International #SocialMedia monitoring & research solutions for #brands and #agencies. Radarly, Linksight and Linkscape | tw:linkfluence ww:linkfluence.com
+Eclectic iq; bEclec; Cyber threat intelligence | ww:eclecticiq.com lo:Amsterdam/Netherlands| cre:tEclec
+Eclecticiq Platform; tEclec; Analyst-centric threat intelligence platform || use:tKeylines
+Marko A. Rodriguez; p; Yet another human being. | tw:twarko ww:markorodriguez.com |
+Stephen Mallette; p; Building graph technology (Gremlin) | tw:spmallette |
+Michel Caradec; p; Software engineer, focussed on data engineering related technologies. Works in the field of big data and machine learning. | gh:michelcaradec ln:michel-caradec-36997650
+Roelof Pieters; p; Founder | tw:graphific lo:Stockholm/Sweden ww:graph-technologies.com | key:kEthic
+[--------------------------------------
+
+Neo4J Ecosystem
+]+++++++++++++++++++++++++++++++++++
+Neo4j Community; cNeo4j
+
+## use:tNeo bel:cNeo4j
+Neo4j; bNeo | ww:neo4j.com tw:neo4j | cre:tNeo cre:tCypher
+Niek Bartholomeus; pNiekBar; Student of nlp and machine learning, creator of https://openthebox.be | tw:niekbartho lo:Belgium ww:niek.bartholomeus.be| cre:tOpenBox
+Sylvain Roussy; p; Author of french book Neo4j - Des données et des graphes, Neo4j Meetup organizer in Lyon - Java, Neo4j, BPM, Android |tw:SylvainRoussy gh:sylvainroussy  em:sylvain.roussy@free.fr lo:Lyon/France |
+John Swain; p ; Data Solution Architect @Microsoft @azure Advisor @rightrelevance, @neo4j Ambassador | tw:swainjo lo:UK ww:medium.com/@swainjo
+Christophe Willemsen; p; Principal Consultant @graph_aware - World's #1 #neo4j consultancy - Polyglot programmer - #Recsys #NLP #VUI #chatbots #ML | tw:ikwattro gh:ikwattro | wrk:bGraAwa
+Miro Marchi; p; Consultant | tw:miromarchi ww:miromarchi.wordpress.com | wrk:bGraAwa wrk:uISI
+
+## wrk:bNeo bel:cNeo4j
+Emil Eifrem; p; Founder Neo4j. | tw:emileifrem lo:Menlo_Park/USA ww:neo4j.com bl:neo4j.com/blog | cre:bNeo
+Amy Hodler; p; Love science, art, and complexity theory. Cycling when the weather is good. Feeding the #Graphs ecosystem @Neo4j Opinions are my own. | tw:amyhodler lo:Kettle_Falls/USA ln:linkedin.com/in/amyhodler |
+Cedric Fauvet; p | tw:CedricFauvet lo:Paris/France |
+Benoit Simard; p; web developper, addict to free software, opendata (member of @libertic) & graph ! Work at @neo4j | tw:logisima lo:Nantes/France ww:bsimard.com | col:uMLab
+Lorenzo Speranzoni; p;  Founder, CEO of @AgileLARUS, @neo4j Ambassador, Agile Coach, Cyclist, Arts & Nature lover, @U2 & @ValeYellow46 fan, father of 3, Atheist w/ 3 cats | tw:inserpio lo:Venice/Italy ww:inserpio.wordpress.com |
+Jim Webber; p; Chief Scientist @ Neo4j | tw:jimwebber gh:jimwebber ww:jimwebber.org bl:jimwebber.org/blog/  em:jim@jimwebber.org |
+Philip Rathle; p; Head of Products for Neo4j. Graphs are everywhere. | tw:prathle lo:San_Francisco/USA |
+
+## wrk:bNeo bel:cNeo4j key:kCode
+Jesus Barrasa; p; Graphs, data, integration | tw:BarrasaDV ww:jesusbarrasa.wordpress.com| 
+Michael Hunger; p; Developer Neo4j | lo:Dresden/Germany tw:mesirii gh:github.com/jexp  ww:jexp.de/blog | att:eFOSDEM use:tCypher
+Andrew Bowman; p; Customer Success Engineer at Neo Technology | gh:InverseFalcon | use:tCypher
+Mark Needham; p; Developer Relations | gh:github.com/mneedham bl:markhneedham.com/blog/ tw:mneedham |
+William Lyon; p; Tiramisu aficionado. Graph Hacker | tw:lyonwj ww:lyonwj.com |
+Max De Marzi; p; Neo4j Graph Database Consultant | tw:maxdemarzi lo:Chicago/USA ww:maxdemarzi.com/
+Ryan Boyd; p; Software Eng, Graph Geek & Head of Developer Relations, N.A. @neo4j. Former Googler #cloud. Author of O'Reilly OAuth 2.0 book. Intermittent adventurer. New dad! | tw:ryguyrg lo:Burlingame/USA ww:developeradvocate.com |
+Rik Van Bruggen; p; Mad about graphs. Working on and with Neo4j | ww:blog.bruggen.com tw:rvanbruggen lo:Antwerp/Belgium
+Adam Cowley; p; Strong and stable Web Developer. Providing anti-Java balance at @neo4j. | tw:adamcowley lo:Swindon/UK ww:adamcowley.co.uk |
+
+## cre:tCypher bel:cNeo4j
+Petra Selmer; p; Developer at Neo Technology. As part of my PhD, I am developing a flexible graph query language. | tw:Aethelraed lo:UK ww:dcs.bbk.ac.uk/~lselm01/ gh:Aethelraed | wrk:bNeo 
+Andrés Taylor; p; Creator of Cypher - Neo4j's query language | tw:andres_taylor lo:Lund/Sverige | wrk:bNeo
+Martin Junghanns; p; Software Engineer at Neo4j, PhD Student at the University of Leipzig. Interested in Graph Query Languages and Distributed Graph Processing. | tw:kc1s lo:Leipzig/Germany | att:eFOSDEM wrk:bNeo 
+Stefan Plantikow; p; Engineer at Neo Technology with a background in distributed systems and transaction processing. Stefan is passionate about computer language design and how languages enable application development.| tw:boggle gh:boggle em:stefan.plantikow@neotechnology.com lo:Berlin/Germany | att:eFOSDEM wrk:bNeo 
+Gabor Szarnyas; pGabSza; I make graphs from CSVs. Author of "Awesome Cypher" list | tw:szarnyasg lo:Budapest/Hungary ww:inf.mit.bme.hu/en/members/szarnyasg |
+József Marton; p | em:marton@db.bme.hu gh:jmarton | col:pGabSza
+Peter Wood; p; Professor Birkbeck University of London. | ww:dcs.bbk.ac.uk/~ptw/ |
+[--------------------------------------------------------------
+
+Open Network App
+]+++++++++++++++++++++++++++
+
+Open Network Apps; kOpenApps||
+## key:kOpenApps
+Max Franz; p; Max is a full stack Software Engineer, specialising in user interface design. He designs and builds apps to be easy and enjoyable to use. | tw:maxkfranz gh:maxkfranz ww:maxfranz.com | cre:tCyto
+Alexander Pico;p;Superconductor synthesist, structural biologist, molecular neurobiophysicist. Now I develop biomedical data visualization, analysis and collaboration software. | tw:xanderpico lo:San_Francisco/USA ln:apico | cre:tCyto
+
+##  wrk:uMLab bel:cSTS key:kCode  key:kOpenApps
+Eduardo Ramos;p;Software engineer & Gephi maintainer. I love data! | tw:eduramiba lo:Madrid/Spain gh:eduramiba | cre:tGephi
+Alexis Jacomy; p; #Dataviz and #JavaScript, Also working on @sigmajs and other stuff with @yomguithereal | tw:jacomyal lo:Nantes/France | col:pGuiPli cre:tSigma key:kCode
+Guillaume Plique; pGuiPli ;Developer at SciencesPo médialab. JavaScript, Clojure & Shawarma. | em:guillaume.plique@sciencespo.fr tw:Yomguithereal lo:Paris/France gh:Yomguithereal |  cre:tMini cre:tHyphe cre:tSigma att:eFOSDEM
+Paul Girard; p; Data Humanist | em:paul.girard@sciences-po.fr tw:paulanomalie |  cre:tHyphe att:eDHNORD
+Benjamin Ooghe-Tabanou; p; Administrateur de @RegardsCitoyens & #NosDéputésFr la nuit, Ingénieur de recherche au @medialab_ScPo le jour / mes tweets n'engagent que moi #DirectAN #OpenData | tw:boogheta lo:Paris/France gh:github.com/RouxRC | cre:tSeeAlso cre:tGaz cre:tHyphe wrk:oRegCit
+Mathieu Jacomy; p; Making tools for the social sciences at @medialab_ScPo & @PublicDataLab. Co-founder of @Gephi & #Hyphe. | tw:jacomyma | cre:tGephi cre:tHyphe key:kMap
+Donato Ricci; p; research design @medialab_ScPo methods @SPEAPSciencesPo investigations @naturpradi @algoglitch #ModesOfExistence #ResetModernity | tw:Optichiasm lo:Paris/France ww:bit.ly/do_does_this | wrk:uDeDe cre:tSeeAlso
+
+## key:kCode wrk:uDigMet key:kOpenApps
+Erik K Borra; p; Assistant professor in Journalism and New Media. Technical director of the Digital Methods Initiative. | tw:ekborra |  cre:tTCAT
+Bernhard Rieder; p; amsterdam university; lisboa; 🇪🇺; history & politics of software & algorithms; digital methods; systematic doubt; benevolent misanthrope; en/fr/de/pt/nl | tw:RiederB ww:thepoliticsofsystems.net | cre:tTCAT
+
+## key:kOpenApps
+Density Design; uDeDe; Department of Design PoliMilano | ww:densitydesign.org tw:densitydesign lo:Milano/Italy | cre:tRAW cre:tSeeAlso col:uMLab col:uDigMet col:uPolMil  key:kDataVis
+Paolo Ciuccarelli; p | tw:pciuccarelli | wrk:uDeDe key:kMap
+Michele Mauri;p; Do stuff @densitydesign | tw:mikima em:michele.mauri@polimi.it ln:michelemauri ww:densitydesign.org/person/michele-mauri/ | wrk:uDeDe cre:tRAW col:oPubLab key:kMap key:kCode
+DataInterfaces; bDataInter; Consultancy | lo:Milan/Italy ww:datainterfaces.org |  col:uDeDe
+Marco Quaggiotto; p; Principal Investigator ||wrk:bDataInter
+[-----------------------------------------------------
+
+Controvercy STS
+]++++++++++++++++++++++++++++++
+
+## wrk:uMLab bel:cSTS
+Bruno Latour; p | ww:bruno-latour.fr tw:BrunoLatourAIME fb:BrunoPaulLouisLatour | cre:uMLab cre:pFORCCAST key:kMap
+Tommaso Venturini; pTomVen; Lecturer @ King's College | ww:tommasoventurini.it/wp tw:TommasoVenturin | wrk:uKing cre:tMini cre:uMLab wrk:uDANTE col:oPubLab key:kMap
+Robin De Mourat; p ; design+development+humanities - Preparing PhD about how formats flicker in humanities publishing @UnivRennes_2 designer+developer @medialab_ScPo | tw:robindemourat lo:Paris/France |
+
+## wrk:uDigMet bel:cSTS
+Richard Rogers; pRiRo | tw:richardrogers lo:Amsterdam/Netherlands |  key:kIntMed key:kMap
+Esther Weltevrede; p; Assistant professor of new media and digital culture | tw:esthr
+Sabine Niederer; p; Professor of Visual Methodologies @AUAS #HvA, Founder @ http://citizendatalab.org , researcher @ Digital Methods Initiative #UvA, digital arts curator.| tw:sabinesabine lo:Amsterdam/Netherlands |  
+Anne Helmond; p; Assistant Professor of New Media and Digital Culture, University of Amsterdam.| tw:silvertje lo:Amsterdam/Netherlands ww:annehelmond.nl | key:kIntMed 
+Carolin Gerlitz; p; Professor Digital Media & Methods, @UniSiegen, currently fellow @CIMethods | tw:cgritz |  wrk:uSiegen wrk:uWarwick key:kIntMed key:kMap
+Fernando van der Vlist; p; Doctoral researcher, @mediaofcoop @digitalmethods @appstudies; Lecturer New Media & Digital Culture, @UvA_Amsterdam; #software #digitalmethods #platforms #apps | tw:fvandervlist ww:fernandovandervlist.nl |  wrk:uSiegen
+
+## wrk:uTANT bel:cSTS
+Anders Kristian Munk; p; researcher | tw:AndersKMunk | cre:rDigMetoder
+Andreas Birkbak; p; researcher | tw:communaut |  cre:rDigMetoder
+Anders Koed Madsen; p; researcher ||
+Torben Elgaard Jensen; p | tw:TorbenElg | wrk:uDTUman
+
+## bel:cSTS
+Lionel Villard; p; I teach at @ESIEEPARIS (database, dataviz, GIS, Mapping controversies), and I am a member of IFRIS (Science and Technologie Studies) | tw:ScTechViz lo:Paris/France ww:sciences-technologies.eu/en | wrk:uIFRIS key:kMap
+Kenneth Dollerup; p; Cand.scient in #TechnoAnthropology. Interested in #Politics, #DKpol, #Technology, #PublicEngagement, #DigitalMethods, #Research | tw:kennethdolle fb:kennethdollerup lo:Copenhagen/Denmark | edu:uTANT
+Noortje Marres;p; Associate Professor in social theory, STS, digital sociology, experiments at CIM (University of Warwick) | tw:NoortjeMarres ww:noortjemarres.net | wrk:uWarwick col:uDigMet key:kIntMed key:kMap col:uSiegen bel:cSTS
+[--------------------------------------------------------------
+
+Data Viz
+]++++++++++++++++++++++++++++
+Data Visualization; kDataVis
+## key:kDataVis
+EuroVis conference; eEuro
+Newschools; u; CENTER FOR DATA ARTS | lo:new_york/usa em:cda@newschool.edu ww:data-arts.nyc
+Moritz Stefaner; p; Truth & Beauty Operator http://truth-and-beauty.net  // Podcast @datastories // Also on mastodon: http://vis.social/@moritz |tw:moritz_stefaner lo:Lilienthal/germany ww:truth-and-beauty.net | wrk:oWEF
+Information+;e; A conference exploring interdisciplinary practices in information design & visualization, 19-21 October 2018, Potsdam, Germany, #infoplus2018 |tw:InfoPlusConf lo:Potsdam/Germany ww:informationplusconference.com |
+Xiaoji Chen;p;Uber visualization team | ww:xiaoji-chen.com |wrk:uMITsense
+Rick Lupton; p; Developer of floWeaver and D3-sankey-diagram library | tw:ricklupton gh:ricklupton | wrk:uLess
+Elijah Meeks; p; Senior Data Visualization Engineer at Netflix. Author of D3.js in Action & Semiotic. #d3js #semiotic | tw:Elijah_Meeks lo:Stanford/USA ww:elijahmeeks.com | use:tD3 wrk:uStan wrk:tGephi use:tNeo
+Nadieh Bremer; p; Freelancer who is passionate about innovative Data Visualization & Data Art. Graduated Astronomer. Love D3. | tw:NadiehBremer lo:Amsterdam/Netherlands ww:visualcinnamon.com |
+Lynn Cherny; pArnicas; Data analysis and visualization | tw:arnicas ww:ghostweather.com | wrk:oEmlyonData
+Nathan Yau; p;Statistician, with a specialty in visualization and a background in eating and beer. FlowingData. | tw:flowingdata ww:flowingdata.com |
+BerkeleyAMI; uBerkeley; The Berkeley Advanced Media Institute | ww:multimedia.journalism.berkeley.edu tw:AMI_Berkeley | 
+Jeffrey Heer; p; UW Computer Science Professor. Co-Founder of Trifacta. Data, visualization & interaction. @trifacta @uwdata @uwdub | tw:jeffrey_heer lo:Seattle/USA ww:idl.cs.washington.edu | wrk:uStan wrk:uUWdata use:tD3 key:kCode cre:tVega
+Interactive Data Lab; uUWdata; UW Interactive Data Lab. (Formerly known as the Stanford Vis Group.) Visualization & Data Analysis. | tw:uwdata lo:Seattle/USA ww:idl.cs.washington.edu | cre:tVega
+Mike Bostock; p; Code and data for humans. Founder @observablehq. Creator #d3js. Former @nytgraphics. | tw:mbostock lo:San_Francisco/USA ww:bost.ocks.org | cre:tD3 key:kCode
+Information is Beautiful Infographics; rBeaInfo; David McCandless data-visualizations & infographics | tw:infobeautiful ww:informationisbeautiful.net lo:London/UK|
+Stephen North;p;Better visualization through algorithms. http://graphviz.org , ieeevis/tvcg. Have never intentionally made a pie chart. | tw:magneticnorth lo:Oldwick/UK
+Robert Gove; p; Principal data visualization scientist @twosixlabs. Rejected by all the top conferences. I've been called the Taylor Swift of data viz. | tw:rpgove lo:DC/US ww:rpgove.com
+Yuri Engelhardt; p; Data Visualization, Information Graphics, Maps, Visual Analytics. Researcher @GeoVisLab and @DataVisUT – Passions: My Kids, People, our Planet. | tw:YuriEngelhardt
+eyeo festival; e;Eyeo brings together artists, creative coders, data visualizers, open source instigators & makers for an extraordinary festival. Converge to Inspire. | tw:eyeofestival ww:eyeofestival.com
+[-----------------------------------------------------
