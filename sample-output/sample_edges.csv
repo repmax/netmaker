@@ -1,0 +1,318 @@
+FromType,FromName,Edge,ToType,ToName
+university,Sciences Po medialab,belong_to,community,STS Controvery
+person,FORCCAST,has_tag,keyword,Issue Mapping
+university,TANT Lab,belong_to,community,STS Controvery
+person,Cedric Fauvet,work_for,business,Neo4j
+person,Cedric Fauvet,belong_to,community,Neo4j Community
+person,Benoit Simard,collaborate,university,Sciences Po medialab
+person,Benoit Simard,work_for,business,Neo4j
+person,Benoit Simard,belong_to,community,Neo4j Community
+person,Lorenzo Speranzoni,work_for,business,Neo4j
+person,Lorenzo Speranzoni,belong_to,community,Neo4j Community
+person,Jim Webber,work_for,business,Neo4j
+person,Jim Webber,belong_to,community,Neo4j Community
+person,Philip Rathle,work_for,business,Neo4j
+university,DTU management,has_tag,keyword,Innovation Management
+person,Philip Rathle,belong_to,community,Neo4j Community
+person,Jesus Barrasa,work_for,business,Neo4j
+person,Jesus Barrasa,belong_to,community,Neo4j Community
+person,Jesus Barrasa,has_tag,keyword,Coders
+person,Michael Hunger,attend,event,FOSDEM
+person,Michael Hunger,use,tool,Open Cypher
+person,Michael Hunger,work_for,business,Neo4j
+person,Michael Hunger,belong_to,community,Neo4j Community
+person,Michael Hunger,has_tag,keyword,Coders
+person,Andrew Bowman,use,tool,Open Cypher
+tool,Sigma.js,use,tool,D3.js
+person,Andrew Bowman,work_for,business,Neo4j
+person,Andrew Bowman,belong_to,community,Neo4j Community
+person,Andrew Bowman,has_tag,keyword,Coders
+person,Mark Needham,work_for,business,Neo4j
+person,Mark Needham,belong_to,community,Neo4j Community
+person,Mark Needham,has_tag,keyword,Coders
+person,William Lyon,work_for,business,Neo4j
+person,William Lyon,belong_to,community,Neo4j Community
+person,William Lyon,has_tag,keyword,Coders
+person,Max De Marzi,work_for,business,Neo4j
+tool,Sigma.js,collaborate,tool,Gephi
+person,Max De Marzi,belong_to,community,Neo4j Community
+person,Max De Marzi,has_tag,keyword,Coders
+person,Ryan Boyd,work_for,business,Neo4j
+person,Ryan Boyd,belong_to,community,Neo4j Community
+person,Ryan Boyd,has_tag,keyword,Coders
+person,Rik Van Bruggen,work_for,business,Neo4j
+person,Rik Van Bruggen,belong_to,community,Neo4j Community
+person,Rik Van Bruggen,has_tag,keyword,Coders
+person,Adam Cowley,work_for,business,Neo4j
+person,Adam Cowley,belong_to,community,Neo4j Community
+tool,Graph Commons,collaborate,tool,Neo4j Graph Database
+person,Adam Cowley,has_tag,keyword,Coders
+person,Petra Selmer,work_for,business,Neo4j
+person,Petra Selmer,create,tool,Open Cypher
+person,Petra Selmer,belong_to,community,Neo4j Community
+person,AndrÃ©s Taylor,work_for,business,Neo4j
+person,AndrÃ©s Taylor,create,tool,Open Cypher
+person,AndrÃ©s Taylor,belong_to,community,Neo4j Community
+person,Martin Junghanns,attend,event,FOSDEM
+person,Martin Junghanns,work_for,business,Neo4j
+person,Martin Junghanns,create,tool,Open Cypher
+event,FOSDEM,has_tag,keyword,Entreprise Network Apps
+person,Martin Junghanns,belong_to,community,Neo4j Community
+person,Stefan Plantikow,attend,event,FOSDEM
+person,Stefan Plantikow,work_for,business,Neo4j
+person,Stefan Plantikow,create,tool,Open Cypher
+person,Stefan Plantikow,belong_to,community,Neo4j Community
+person,Gabor Szarnyas,create,tool,Open Cypher
+person,Gabor Szarnyas,belong_to,community,Neo4j Community
+person,JÃ³zsef Marton,collaborate,person,Gabor Szarnyas
+person,JÃ³zsef Marton,create,tool,Open Cypher
+person,JÃ³zsef Marton,belong_to,community,Neo4j Community
+event,GraphDevroom,collaborate,event,FOSDEM
+person,Peter Wood,create,tool,Open Cypher
+person,Peter Wood,belong_to,community,Neo4j Community
+person,Max Franz,create,tool,Cytoscape
+person,Max Franz,has_tag,keyword,Open Network Apps
+person,Alexander Pico,create,tool,Cytoscape
+person,Alexander Pico,has_tag,keyword,Open Network Apps
+person,Eduardo Ramos,create,tool,Gephi
+person,Eduardo Ramos,work_for,university,Sciences Po medialab
+person,Eduardo Ramos,belong_to,community,STS Controvery
+person,Eduardo Ramos,has_tag,keyword,Coders
+event,GraphDevroom,has_tag,keyword,Entreprise Network Apps
+person,Eduardo Ramos,has_tag,keyword,Open Network Apps
+person,Alexis Jacomy,collaborate,person,Guillaume Plique
+person,Alexis Jacomy,create,tool,Sigma.js
+person,Alexis Jacomy,has_tag,keyword,Coders
+person,Alexis Jacomy,work_for,university,Sciences Po medialab
+person,Alexis Jacomy,belong_to,community,STS Controvery
+person,Alexis Jacomy,has_tag,keyword,Coders
+person,Alexis Jacomy,has_tag,keyword,Open Network Apps
+person,Guillaume Plique,create,tool,MiniVAN
+person,Guillaume Plique,create,tool,Hyphe
+event,GraphConnect,collaborate,business,Neo4j
+person,Guillaume Plique,create,tool,Sigma.js
+person,Guillaume Plique,attend,event,FOSDEM
+person,Guillaume Plique,work_for,university,Sciences Po medialab
+person,Guillaume Plique,belong_to,community,STS Controvery
+person,Guillaume Plique,has_tag,keyword,Coders
+person,Guillaume Plique,has_tag,keyword,Open Network Apps
+person,Paul Girard,create,tool,Hyphe
+person,Paul Girard,work_for,university,Sciences Po medialab
+person,Paul Girard,belong_to,community,STS Controvery
+person,Paul Girard,has_tag,keyword,Coders
+event,GraphConnect,has_tag,keyword,Entreprise Network Apps
+person,Paul Girard,has_tag,keyword,Open Network Apps
+person,Benjamin Ooghe-Tabanou,create,tool,Seealsology
+person,Benjamin Ooghe-Tabanou,create,tool,Gazouilloire
+person,Benjamin Ooghe-Tabanou,create,tool,Hyphe
+person,Benjamin Ooghe-Tabanou,work_for,university,Sciences Po medialab
+person,Benjamin Ooghe-Tabanou,belong_to,community,STS Controvery
+person,Benjamin Ooghe-Tabanou,has_tag,keyword,Coders
+person,Benjamin Ooghe-Tabanou,has_tag,keyword,Open Network Apps
+person,Mathieu Jacomy,create,tool,Gephi
+person,Mathieu Jacomy,create,tool,Hyphe
+person,FORCCAST,belong_to,community,STS Controvery
+business,ONTOFORCE,has_tag,keyword,Entreprise Network Apps
+person,Mathieu Jacomy,has_tag,keyword,Issue Mapping
+person,Mathieu Jacomy,work_for,university,Sciences Po medialab
+person,Mathieu Jacomy,belong_to,community,STS Controvery
+person,Mathieu Jacomy,has_tag,keyword,Coders
+person,Mathieu Jacomy,has_tag,keyword,Open Network Apps
+person,Donato Ricci,work_for,university,Density Design
+person,Donato Ricci,create,tool,Seealsology
+person,Donato Ricci,work_for,university,Sciences Po medialab
+person,Donato Ricci,belong_to,community,STS Controvery
+person,Donato Ricci,has_tag,keyword,Coders
+person,Hans Constandt,create,business,ONTOFORCE
+person,Donato Ricci,has_tag,keyword,Open Network Apps
+person,Erik K Borra,create,tool,DMI-TCAT
+person,Erik K Borra,has_tag,keyword,Coders
+person,Erik K Borra,work_for,university,Digital Methods Initiative
+person,Erik K Borra,has_tag,keyword,Open Network Apps
+person,Bernhard Rieder,create,tool,DMI-TCAT
+person,Bernhard Rieder,has_tag,keyword,Coders
+person,Bernhard Rieder,work_for,university,Digital Methods Initiative
+person,Bernhard Rieder,has_tag,keyword,Open Network Apps
+university,Density Design,create,tool,RAW Graphs
+person,Hans Constandt,has_tag,keyword,Entreprise Network Apps
+university,Density Design,create,tool,Seealsology
+university,Density Design,collaborate,university,Sciences Po medialab
+university,Density Design,collaborate,university,Digital Methods Initiative
+university,Density Design,collaborate,university,Politecnico di Milano Design Department
+university,Density Design,has_tag,keyword,Data Visualization
+university,Density Design,has_tag,keyword,Open Network Apps
+person,Paolo Ciuccarelli,work_for,university,Density Design
+person,Paolo Ciuccarelli,has_tag,keyword,Issue Mapping
+person,Paolo Ciuccarelli,has_tag,keyword,Open Network Apps
+person,Michele Mauri,work_for,university,Density Design
+business,Alteryx,has_tag,keyword,Entreprise Network Apps
+person,Michele Mauri,create,tool,RAW Graphs
+person,Michele Mauri,has_tag,keyword,Issue Mapping
+person,Michele Mauri,has_tag,keyword,Coders
+person,Michele Mauri,has_tag,keyword,Open Network Apps
+business,DataInterfaces,collaborate,university,Density Design
+business,DataInterfaces,has_tag,keyword,Open Network Apps
+person,Marco Quaggiotto,work_for,business,DataInterfaces
+person,Marco Quaggiotto,has_tag,keyword,Open Network Apps
+person,Bruno Latour,create,university,Sciences Po medialab
+person,Bruno Latour,create,person,FORCCAST
+organisation,Kernix,has_tag,keyword,Entreprise Network Apps
+person,Bruno Latour,has_tag,keyword,Issue Mapping
+person,Bruno Latour,work_for,university,Sciences Po medialab
+person,Bruno Latour,belong_to,community,STS Controvery
+person,Tommaso Venturini,create,tool,MiniVAN
+person,Tommaso Venturini,create,university,Sciences Po medialab
+person,Tommaso Venturini,has_tag,keyword,Issue Mapping
+person,Tommaso Venturini,work_for,university,Sciences Po medialab
+person,Tommaso Venturini,belong_to,community,STS Controvery
+person,Robin De Mourat,work_for,university,Sciences Po medialab
+person,Robin De Mourat,belong_to,community,STS Controvery
+tool,Net-Sights,has_tag,keyword,Entreprise Network Apps
+person,Richard Rogers,has_tag,keyword,Issue Mapping
+person,Richard Rogers,work_for,university,Digital Methods Initiative
+person,Richard Rogers,belong_to,community,STS Controvery
+person,Esther Weltevrede,work_for,university,Digital Methods Initiative
+person,Esther Weltevrede,belong_to,community,STS Controvery
+person,Sabine Niederer,work_for,university,Digital Methods Initiative
+person,Sabine Niederer,belong_to,community,STS Controvery
+person,Anne Helmond,work_for,university,Digital Methods Initiative
+person,Anne Helmond,belong_to,community,STS Controvery
+person,Carolin Gerlitz,work_for,university,Media Studies @ Siegen
+person,Burak Arikan,study_at,university,MIT Media Lab
+person,Carolin Gerlitz,work_for,university,CIM Warwick
+person,Carolin Gerlitz,has_tag,keyword,Issue Mapping
+person,Carolin Gerlitz,work_for,university,Digital Methods Initiative
+person,Carolin Gerlitz,belong_to,community,STS Controvery
+person,Fernando van der Vlist,work_for,university,Media Studies @ Siegen
+person,Fernando van der Vlist,work_for,university,Digital Methods Initiative
+person,Fernando van der Vlist,belong_to,community,STS Controvery
+person,Anders Kristian Munk,work_for,university,TANT Lab
+person,Anders Kristian Munk,belong_to,community,STS Controvery
+person,Andreas Birkbak,work_for,university,TANT Lab
+person,Burak Arikan,create,tool,Graph Commons
+person,Andreas Birkbak,belong_to,community,STS Controvery
+person,Anders Koed Madsen,work_for,university,TANT Lab
+person,Anders Koed Madsen,belong_to,community,STS Controvery
+person,Torben Elgaard Jensen,work_for,university,DTU management
+person,Torben Elgaard Jensen,work_for,university,TANT Lab
+person,Torben Elgaard Jensen,belong_to,community,STS Controvery
+person,Lionel Villard,has_tag,keyword,Issue Mapping
+person,Lionel Villard,belong_to,community,STS Controvery
+person,Kenneth Dollerup,study_at,university,TANT Lab
+person,Kenneth Dollerup,belong_to,community,STS Controvery
+person,Burak Arikan,has_tag,keyword,Coders
+person,Noortje Marres,work_for,university,CIM Warwick
+person,Noortje Marres,collaborate,university,Digital Methods Initiative
+person,Noortje Marres,has_tag,keyword,Issue Mapping
+person,Noortje Marres,collaborate,university,Media Studies @ Siegen
+person,Noortje Marres,belong_to,community,STS Controvery
+person,Noortje Marres,belong_to,community,STS Controvery
+event,EuroVis conference,has_tag,keyword,Data Visualization
+university,Newschools,has_tag,keyword,Data Visualization
+person,Moritz Stefaner,has_tag,keyword,Data Visualization
+event,Information+,has_tag,keyword,Data Visualization
+person,Burak Arikan,has_tag,keyword,Entreprise Network Apps
+person,Xiaoji Chen,has_tag,keyword,Data Visualization
+person,Rick Lupton,has_tag,keyword,Data Visualization
+person,Elijah Meeks,use,tool,D3.js
+person,Elijah Meeks,work_for,university,Stanford University
+person,Elijah Meeks,work_for,tool,Gephi
+person,Elijah Meeks,use,tool,Neo4j Graph Database
+person,Elijah Meeks,has_tag,keyword,Data Visualization
+person,Nadieh Bremer,has_tag,keyword,Data Visualization
+person,Lynn Cherny,has_tag,keyword,Data Visualization
+person,Nathan Yau,has_tag,keyword,Data Visualization
+university,Digital Methods Initiative,create,tool,DMI-TCAT
+business,Kenedict Innovation Analytics,has_tag,keyword,Entreprise Network Apps
+university,BerkeleyAMI,has_tag,keyword,Data Visualization
+person,Jeffrey Heer,work_for,university,Stanford University
+person,Jeffrey Heer,work_for,university,Interactive Data Lab
+person,Jeffrey Heer,use,tool,D3.js
+person,Jeffrey Heer,has_tag,keyword,Coders
+person,Jeffrey Heer,create,tool,Vega
+person,Jeffrey Heer,has_tag,keyword,Data Visualization
+university,Interactive Data Lab,create,tool,Vega
+university,Interactive Data Lab,has_tag,keyword,Data Visualization
+person,Mike Bostock,create,tool,D3.js
+person,Andre Vermeij,work_for,business,Kenedict Innovation Analytics
+person,Mike Bostock,has_tag,keyword,Coders
+person,Mike Bostock,has_tag,keyword,Data Visualization
+report,Information is Beautiful Infographics,has_tag,keyword,Data Visualization
+person,Stephen North,has_tag,keyword,Data Visualization
+person,Robert Gove,has_tag,keyword,Data Visualization
+person,Yuri Engelhardt,has_tag,keyword,Data Visualization
+event,eyeo festival,has_tag,keyword,Data Visualization
+person,Andre Vermeij,use,tool,Sigma.js
+person,Andre Vermeij,has_tag,keyword,Entreprise Network Apps
+business,Graphistry,has_tag,keyword,Entreprise Network Apps
+tool,Tom Sawyer Perspectives,use,tool,Neo4j Graph Database
+tool,Tom Sawyer Perspectives,has_tag,keyword,Entreprise Network Apps
+tool,FNA Platform,has_tag,keyword,Entreprise Network Apps
+organisation,Fact Gem,use,tool,Neo4j Graph Database
+organisation,Fact Gem,has_tag,keyword,Entreprise Network Apps
+university,Digital Methods Initiative,belong_to,community,STS Controvery
+business,Tom Sawyer Software,create,tool,Tom Sawyer Perspectives
+business,Tom Sawyer Software,has_tag,keyword,Entreprise Network Apps
+business,SciBite,has_tag,keyword,Scientometrics
+business,SciBite,has_tag,keyword,Entreprise Network Apps
+business,Altmetric,has_tag,keyword,Scientometrics
+business,Altmetric,has_tag,keyword,Entreprise Network Apps
+person,Kimmo Soramaki,create,tool,FNA Platform
+person,Kimmo Soramaki,has_tag,keyword,Entreprise Network Apps
+business,GraphAware,collaborate,business,Neo4j
+business,GraphAware,has_tag,keyword,Entreprise Network Apps
+university,CIM Warwick,belong_to,community,STS Controvery
+tool,Linkurious,use,tool,Neo4j Graph Database
+tool,Linkurious,has_tag,keyword,Entreprise Network Apps
+business,Linkurious SAS,create,tool,Linkurious
+business,Linkurious SAS,has_tag,keyword,Entreprise Network Apps
+person,Sebastian Heymann,create,tool,Gephi
+person,Sebastian Heymann,work_for,business,Linkurious SAS
+person,Sebastian Heymann,has_tag,keyword,Entreprise Network Apps
+person,Jean Villedieu,work_for,business,Linkurious SAS
+person,Jean Villedieu,has_tag,keyword,Entreprise Network Apps
+business,Cambridge Intelligence,create,tool,KeyLines
+university,Media Studies @ Siegen,belong_to,community,STS Controvery
+business,Cambridge Intelligence,has_tag,keyword,Entreprise Network Apps
+person,Corey Lanum,work_for,business,Cambridge Intelligence
+person,Corey Lanum,has_tag,keyword,Entreprise Network Apps
+person,Joe Parry,work_for,business,Cambridge Intelligence
+person,Joe Parry,has_tag,keyword,Entreprise Network Apps
+tool,KeyLines,use,tool,Neo4j Graph Database
+tool,KeyLines,has_tag,keyword,Entreprise Network Apps
+tool,KeyLines,has_tag,keyword,Entreprise Network Apps
+person,Cambridge Analytica,has_tag,keyword,Entreprise Network Apps
+business,Linkfluence,has_tag,keyword,Entreprise Network Apps
+university,TANT Lab,collaborate,university,Sciences Po medialab
+business,Eclectic iq,create,tool,Eclecticiq Platform
+business,Eclectic iq,has_tag,keyword,Entreprise Network Apps
+tool,Eclecticiq Platform,use,tool,KeyLines
+tool,Eclecticiq Platform,has_tag,keyword,Entreprise Network Apps
+person,Marko A. Rodriguez,has_tag,keyword,Entreprise Network Apps
+person,Stephen Mallette,has_tag,keyword,Entreprise Network Apps
+person,Michel Caradec,has_tag,keyword,Entreprise Network Apps
+person,Roelof Pieters,has_tag,keyword,Ethics
+person,Roelof Pieters,has_tag,keyword,Entreprise Network Apps
+business,Neo4j,create,tool,Neo4j Graph Database
+university,TANT Lab,collaborate,person,Tommaso Venturini
+business,Neo4j,create,tool,Open Cypher
+business,Neo4j,use,tool,Neo4j Graph Database
+business,Neo4j,belong_to,community,Neo4j Community
+person,Niek Bartholomeus,use,tool,Neo4j Graph Database
+person,Niek Bartholomeus,belong_to,community,Neo4j Community
+person,Sylvain Roussy,use,tool,Neo4j Graph Database
+person,Sylvain Roussy,belong_to,community,Neo4j Community
+person,John Swain,use,tool,Neo4j Graph Database
+person,John Swain,belong_to,community,Neo4j Community
+person,Christophe Willemsen,work_for,business,GraphAware
+university,TANT Lab,has_tag,keyword,Issue Mapping
+person,Christophe Willemsen,use,tool,Neo4j Graph Database
+person,Christophe Willemsen,belong_to,community,Neo4j Community
+person,Miro Marchi,work_for,business,GraphAware
+person,Miro Marchi,use,tool,Neo4j Graph Database
+person,Miro Marchi,belong_to,community,Neo4j Community
+person,Emil Eifrem,create,business,Neo4j
+person,Emil Eifrem,work_for,business,Neo4j
+person,Emil Eifrem,belong_to,community,Neo4j Community
+person,Amy Hodler,work_for,business,Neo4j
+person,Amy Hodler,belong_to,community,Neo4j Community
