@@ -10,7 +10,8 @@ dict_net = nml2json(netmlFile, configFile=None, writeJson=None)
 Features:
 - Returns a python dictionary from a NetML file
 - Optionally save python dictionary as a json file.
-- If NetML file contains errors, the function will print error information to console and continue checking rest of file for errors. No object is return if file is erronerous.
+- If NetML file contains errors, the function will print error information to console and continue checking rest of file for errors. No object is return if source nodes are erronerous. Missing target nodes for edges are printed to console and discarded.
+- Referenced nodes can be declared both before and after being referenced.
 
 Parameters:
 - netmlFile: A NetML file with network information. Can be any text format: txt/md/nml.
@@ -18,11 +19,12 @@ Parameters:
 - writeJson: False/True
 _______________________________________________
 JSON2CSV()
-df_nodes, df_edges = json2csv(dictObj,configFile=None, csvNodes=None, csvEdges=None):
+df_nodes, df_edges = json2csv(dictObj, csvNodes=None, csvEdges=None, configFile=None):
     
 Features:
 - Returns two dataframes (nodes, edges) from a python dictionary.
 - Optionally save nodes and edges as csv files
+- The csv files are configured for Graph Commons import configuration. It entails that edge source and target are stated as the label of node and not and id.
 
 Parameters:
 - dictObj: A python dictionary with nodes and edges data.
@@ -31,12 +33,24 @@ Parameters:
 - csvEdges: Optionally write edge data to csv file.
 _______________________________________
 EXAMPLES
-dict_net = nml2json('sample_netml.txt','config_enrich.yaml','sample.json')    
-df_nodes, df_edges = json2df(dict_net,'config_enrich.yaml', csvNodes='sample_nodes.csv',csvEdges='sample_edges.csv')
+
+from netmaker import *
+
+dict_net = nml2json('sample_netml.txt','config_netml.yaml','sample.json')    
+df_nodes, df_edges = json2csv(dict_net,'sample_nodes.csv','sample_edges.csv','config_enrich.yaml')
+
+# ... or without any enrichment:
+
+df_nodes, df_edges = json2csv(dict_net,'sample_nodes.csv','sample_edges.csv')
+
+# ... if dict_net is not in memory but saved as a json file, it can be loaded with:
+
+with open('sample.json', 'r') as f:
+    dict_net = json.load(f)
 _______________________________________
 DEV NOTES
 
-Tested with 'mixer/py35root' (not tested on any other versions)
+Tested with 'mixer/py35' (not tested on any other versions)
 
 Problem: Json is a graph model where elements do not necessarily have the same properties. In a spreadsheet all elements needs a value for all properties.
 Solution: 
@@ -170,21 +184,25 @@ def nml2json(netmlFile,configFile= None, writeJson = None):
     #lookEdge = {n['uid']:{'label':n['label'],'name':n['name']} for n in record['nodes']}
     ### Print report of edge data health
     allgood = True
+    tmpList = []
     for i,e in enumerate(record['edges']):
         try:
             x={'FromType':lookEdge[e['source']]['label'],'FromName':lookEdge[e['source']]['name'], 'Edge':e['relType'], 'ToType':lookEdge[e['target']]['label'],'ToName':lookEdge[e['target']]['name']}
+            tmpList.append(e)
         except:
             allgood = False
-            print("Source error >> " + e['source'] +" >> target: " +  e['target'] )
+            print("Target missing! Edge: " + e['source'] +" >> " +  e['target'] )
             pass
-    if allgood:
-        if writeJson:
-            # Print json to file
-            with open(writeJson, 'w') as outfile:
-                json.dump(record, outfile, sort_keys=True, indent=4)
-        return record
+    if not allgood:
+        record['edges'] = tmpList
+        print("Not all edges could be created because of missing targets" )        
+    if writeJson:
+        # Print json to file
+        with open(writeJson, 'w') as outfile:
+            json.dump(record, outfile, sort_keys=True, indent=4)
+    return record
 
-def json2csv(dictObj,configFile=None, csvNodes=None, csvEdges=None):
+def json2csv(net, csvNodes=None, csvEdges=None,configFile=None):
     try:
         with open(configFile, "r") as f:
             look = yaml.load(f)
