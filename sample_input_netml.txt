@@ -117,7 +117,7 @@ Philip Rathle; p; Head of Products for Neo4j. Graphs are everywhere. | tw:prathl
 Jesus Barrasa; p; Graphs, data, integration | tw:BarrasaDV ww:jesusbarrasa.wordpress.com| 
 Michael Hunger; p; Developer Neo4j | lo:Dresden/Germany tw:mesirii gh:github.com/jexp  ww:jexp.de/blog | att:eFOSDEM use:tCypher
 Andrew Bowman; p; Customer Success Engineer at Neo Technology | gh:InverseFalcon | use:tCypher
-Mark Needham; p; Developer Relations | gh:github.com/mneedham bl:markhneedham.com/blog/ tw:mneedham |
+Mark Needham; p; Developer Relations | gh:github.com/mneedham bl:markhneedham.com/blog/ tw:markneedham |
 William Lyon; p; Tiramisu aficionado. Graph Hacker | tw:lyonwj ww:lyonwj.com |
 Max De Marzi; p; Neo4j Graph Database Consultant | tw:maxdemarzi lo:Chicago/USA ww:maxdemarzi.com/
 Ryan Boyd; p; Software Eng, Graph Geek & Head of Developer Relations, N.A. @neo4j. Former Googler #cloud. Author of O'Reilly OAuth 2.0 book. Intermittent adventurer. New dad! | tw:ryguyrg lo:Burlingame/USA ww:developeradvocate.com |
@@ -176,7 +176,7 @@ Richard Rogers; pRiRo | tw:richardrogers lo:Amsterdam/Netherlands |  key:kIntMed
 Esther Weltevrede; p; Assistant professor of new media and digital culture | tw:esthr
 Sabine Niederer; p; Professor of Visual Methodologies @AUAS #HvA, Founder @ http://citizendatalab.org , researcher @ Digital Methods Initiative #UvA, digital arts curator.| tw:sabinesabine lo:Amsterdam/Netherlands |  
 Anne Helmond; p; Assistant Professor of New Media and Digital Culture, University of Amsterdam.| tw:silvertje lo:Amsterdam/Netherlands ww:annehelmond.nl | key:kIntMed 
-Carolin Gerlitz; p; Professor Digital Media & Methods, @UniSiegen, currently fellow @CIMethods | tw:cgritz |  wrk:uSiegen wrk:uWarwick key:kIntMed key:kMap
+Carolin Gerlitz; p; Professor Digital Media & Methods, @UniSiegen, currently fellow @CIMethods | tw:cgrltz |  wrk:uSiegen wrk:uWarwick key:kIntMed key:kMap
 Fernando van der Vlist; p; Doctoral researcher, @mediaofcoop @digitalmethods @appstudies; Lecturer New Media & Digital Culture, @UvA_Amsterdam; #software #digitalmethods #platforms #apps | tw:fvandervlist ww:fernandovandervlist.nl |  wrk:uSiegen
 
 ## wrk:uTANT bel:cSTS
